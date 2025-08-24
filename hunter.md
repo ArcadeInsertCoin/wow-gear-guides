@@ -3,66 +3,65 @@
 **Spec:** Marksmanship DPS  
 **Patch:** 1.15.7 – Phase 5  
 **Server:** PvE  
-**Character:** Human Hunter  
-**Quest Weapons Owned:** Lok’delar, Stave of the Ancient Keepers + Rhok’delar, Longbow of the Ancient Keepers  
+**Status:** Includes current gear + upgrades  
 
 ---
 
 ## 🔥 Raid (PvE DPS)
 
-Focus: Agility (crit/AP), Hit %, Ranged Attack Power.  
-
-- **Head:** Striker's Diadem (AQ40) – Best DPS helm.  
-- **Neck:** Prestor's Talisman of Connivery (BWL) – High crit, perfect for raid DPS.  
-- **Shoulders:** Giantstalker Epaulets (MC) – Solid DPS until AQ40 set pieces.  
-- **Back:** Cloak of the Unseen Path (AQ20) – Quest reward, good Agi/Hit.  
-- **Chest:** Striker's Hauberk (AQ40) – BiS chest.  
-- **Wrists:** Wristguards of True Flight (MC Majordomo) – Ranged AP.  
-- **Hands:** Giantstalker Gloves (MC) – Crit + AP, strong until AQ set upgrades.  
-- **Waist:** Zandalar Predator's Belt (ZG) – Good mix of stats, set bonus with ZG items.  
-- **Legs:** Dragonstalker's Legguards (MC Ragnaros) – Solid raid legs.  
-- **Feet:** Blooddrenched Footpads (ZG Venoxis) – Crit/AP until AQ boots.  
-- **Rings:** Band of Accuria (MC Ragnaros), Royal Seal of Eldre'Thalas (Dire Maul Quest).  
-- **Trinkets:** Drake Fang Talisman (BWL), Blackhand’s Breadth (UBRS Quest).  
-- **Weapons:** Rhok’delar, Longbow of the Ancient Keepers (Class Quest) – Best ranged until Naxx.  
-- **Melee:** Lok’delar, Stave of the Ancient Keepers – AP/crit stick for stats.  
+| Slot | Your Item(s) | Recommendation | Upgrade |
+|------|--------------|----------------|---------|
+| Head | Striker’s Diadem | ✔ BiS DPS helm | – |
+| Neck | Eye of Hakkar | Solid, stamina-heavy | → Prestor’s Talisman (BWL) |
+| Shoulders | Giantstalker Epaulets | Decent | → Striker’s Spaulders (AQ40) |
+| Back | Earthweaver Cloak | Pre-Raid | → Cloak of the Unseen Path (AQ20) |
+| Chest | Giantstalker Breastplate | Okay, but more stamina than dmg | → Striker’s Hauberk (AQ40) |
+| Wrists | Wristguards of True Flight | ✔ MC BiS | – |
+| Hands | Giantstalker Gloves | Okay, but weak stats | → Striker’s Gloves (AQ40) |
+| Waist | Zandalar Predator’s Belt | ✔ Strong | → Striker’s Belt (AQ40) |
+| Legs | Dragonstalker’s Legguards | ✔ Good DPS | → Striker’s Leggings (AQ40) |
+| Feet | Blooddrenched Footpads | Strong DPS | → Striker’s Footguards (AQ40) |
+| Rings | Band of Accuria / Royal Seal of Eldre’Thalas | DPS + utility | → Ring of the Fallen God (AQ40) |
+| Trinkets | Blackhand’s Breadth / Devilsaur Eye | ✔ Core DPS combo | → Drake Fang Talisman (BWL) |
+| Weapon (Ranged) | Rhok’delar (Quest Bow) | ✔ Hunter class BiS | – |
+| Weapon (Melee) | Lok’delar (Quest Staff) | ✔ Hunter class BiS | – |
 
 ---
 
-## ⚔️ PvP (Battlegrounds / World PvP)
+## ⚔️ PvP (BGs / World PvP)
 
-Focus: Stamina, crit, on-use trinkets for burst.  
-
-- **Head:** Giantstalker’s Helm or PvP Rank 10 Helm – more stamina for PvP.  
-- **Neck:** Eye of Hakkar (ZG) – Stamina/crit option.  
-- **Shoulders:** PvP Rank 10 Shoulders – good for stamina/armor.  
-- **Back:** Earthweaver Cloak (ZG) – Balanced stats + stamina.  
-- **Chest:** Giantstalker’s Breastplate or PvP Chest – more stamina.  
-- **Wrists:** Rockfury Bracers (Cenarion Rep) – Good DPS bracers.  
-- **Hands:** Giantstalker Gloves – DPS + crit.  
-- **Waist:** Zandalar Predator’s Belt – flexible PvP belt.  
-- **Legs:** PvP Rank 10 Legs – more stamina for PvP.  
-- **Feet:** Blooddrenched Footpads – crit/AP for burst.  
-- **Rings:** Band of Accuria, Don Julio’s Band (PvP reward).  
-- **Trinkets:** Blackhand’s Breadth, Insignia of the Alliance (PvP trinket).  
+| Slot | Your Item(s) | Recommendation | Upgrade |
+|------|--------------|----------------|---------|
+| Head | Striker’s Diadem | DPS | → PvP Rank 10 Helm for stamina |
+| Neck | Eye of Hakkar | ✔ Stamina / crit | – |
+| Shoulders | Giantstalker Epaulets | ✔ | → PvP Shoulders |
+| Back | Earthweaver Cloak | ✔ Solid | – |
+| Chest | Giantstalker Breastplate | ✔ | – |
+| Wrists | Wristguards of True Flight | DPS | → PvP Bracers (stamina) |
+| Hands | Giantstalker Gloves | ✔ | – |
+| Waist | Zandalar Predator’s Belt | ✔ | – |
+| Legs | Dragonstalker’s Legguards | ✔ | → PvP Legs |
+| Feet | Blooddrenched Footpads | ✔ DPS + stam | → PvP Boots |
+| Rings | Royal Seal / Band of Accuria | ✔ | → Don Julio’s Band (PvP) |
+| Trinkets | Devilsaur Eye / Insignia of the Alliance | ✔ | – |
 
 ---
 
 ## 🐺 Solo / Farming
 
-Focus: Sustain (mana regen, some stamina).  
-
-- **Head:** Eye of Hakkar – good allrounder.  
-- **Neck:** Onyxia Tooth Pendant – steady DPS stats.  
-- **Shoulders:** Giantstalker Epaulets – balanced.  
-- **Back:** Cloak of the Unseen Path – extra hit.  
-- **Chest:** Giantstalker Breastplate – crit + stamina.  
-- **Wrists:** Ossirian’s Binding (AQ20) – good balance for farming.  
-- **Hands:** Giantstalker Gloves – solid AP.  
-- **Waist:** Zandalar Predator’s Belt – great sustain piece.  
-- **Legs:** Dragonstalker’s Legguards – crit/AP.  
-- **Feet:** Blooddrenched Footpads – DPS boots.  
-- **Rings:** Royal Seal of Eldre’Thalas (mana regen), Band of Accuria.  
-- **Trinkets:** Devilsaur Eye (ZG), Royal Seal of Eldre’Thalas.  
-
----
+| Slot | Your Item(s) | Recommendation | Upgrade |
+|------|--------------|----------------|---------|
+| Head | Striker’s Diadem | ✔ | – |
+| Neck | Eye of Hakkar | ✔ | – |
+| Shoulders | Giantstalker Epaulets | ✔ | – |
+| Back | Earthweaver Cloak | ✔ | – |
+| Chest | Giantstalker Breastplate | ✔ | – |
+| Wrists | Wristguards of True Flight | ✔ | – |
+| Hands | Giantstalker Gloves | ✔ | – |
+| Waist | Zandalar Predator’s Belt | ✔ | – |
+| Legs | Dragonstalker’s Legguards | ✔ | – |
+| Feet | Blooddrenched Footpads | ✔ | – |
+| Rings | Royal Seal / Band of Accuria | Sustain + DPS | – |
+| Trinkets | Royal Seal / Blackhand’s Breadth | Solo-friendly | – |
+| Weapon (Ranged) | Rhok’delar | ✔ | – |
+| Weapon (Melee) | Lok’delar | ✔ | – |
