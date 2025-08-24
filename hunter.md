@@ -3,97 +3,66 @@
 **Spec:** Marksmanship DPS  
 **Patch:** 1.15.7 – Phase 5  
 **Server:** PvE  
-**Account:** ArcadeInsertCoin  
+**Character:** Human Hunter  
+**Quest Weapons Owned:** Lok’delar, Stave of the Ancient Keepers + Rhok’delar, Longbow of the Ancient Keepers  
 
 ---
 
-## ✅ Already Owned Gear
-- **Eye of Hakkar** (Neck – ZG)  
-- **Giantstalker Epaulets** (Shoulders – MC)  
-- **Earthweaver Cloak** (Back – Quest)  
-- **Giantstalker Breastplate** (Chest – MC)  
-- **Zandalar Predator’s Belt** (Waist – ZG)  
-- **Blooddrenched Footpads** (Feet – ZG)  
-- **Devilsaur Eye** (Trinket – Quest)  
-- **Royal Seal of Eldre’Thalas** (Trinket – DM Quest)  
-- **Blackhand’s Breadth** (Trinket – UBRS Quest)  
-- **Giantstalker Gloves** (Hands – MC)  
-- **Rank 10 PvP Set**  
+## 🔥 Raid (PvE DPS)
+
+Focus: Agility (crit/AP), Hit %, Ranged Attack Power.  
+
+- **Head:** Striker's Diadem (AQ40) – Best DPS helm.  
+- **Neck:** Prestor's Talisman of Connivery (BWL) – High crit, perfect for raid DPS.  
+- **Shoulders:** Giantstalker Epaulets (MC) – Solid DPS until AQ40 set pieces.  
+- **Back:** Cloak of the Unseen Path (AQ20) – Quest reward, good Agi/Hit.  
+- **Chest:** Striker's Hauberk (AQ40) – BiS chest.  
+- **Wrists:** Wristguards of True Flight (MC Majordomo) – Ranged AP.  
+- **Hands:** Giantstalker Gloves (MC) – Crit + AP, strong until AQ set upgrades.  
+- **Waist:** Zandalar Predator's Belt (ZG) – Good mix of stats, set bonus with ZG items.  
+- **Legs:** Dragonstalker's Legguards (MC Ragnaros) – Solid raid legs.  
+- **Feet:** Blooddrenched Footpads (ZG Venoxis) – Crit/AP until AQ boots.  
+- **Rings:** Band of Accuria (MC Ragnaros), Royal Seal of Eldre'Thalas (Dire Maul Quest).  
+- **Trinkets:** Drake Fang Talisman (BWL), Blackhand’s Breadth (UBRS Quest).  
+- **Weapons:** Rhok’delar, Longbow of the Ancient Keepers (Class Quest) – Best ranged until Naxx.  
+- **Melee:** Lok’delar, Stave of the Ancient Keepers – AP/crit stick for stats.  
 
 ---
 
-## 🔥 Raid Upgrades (Phase 5 Targets)
+## ⚔️ PvP (Battlegrounds / World PvP)
 
-### Molten Core (MC)
-| Item | Slot | Source |
-|------|------|--------|
-| **Band of Accuria** | Ring | Ragnaros (~24%) |
-| **Dragonstalker’s Legguards** | Legs | Ragnaros (~20%) |
-| **Choker of the Firelord** | Neck | Ragnaros (Upgrade over Eye of Hakkar) |
+Focus: Stamina, crit, on-use trinkets for burst.  
 
----
-
-### Blackwing Lair (BWL)
-| Item | Slot | Source |
-|------|------|--------|
-| **Prestor’s Talisman of Connivery** | Neck | Various Bosses (~30%) |
-| **Drake Fang Talisman** | Trinket | Ebonroc (~33%) |
-| **Black Brood Pauldrons** | Shoulders | Chromaggus (Upgrade over Giantstalker Epaulets) |
-
----
-
-### AQ20
-| Item | Slot | Source |
-|------|------|--------|
-| **Cloak of the Unseen Path** | Back | Quest Reward |
-| **Ossirian’s Binding** | Wrists | Ossirian the Unscarred |
+- **Head:** Giantstalker’s Helm or PvP Rank 10 Helm – more stamina for PvP.  
+- **Neck:** Eye of Hakkar (ZG) – Stamina/crit option.  
+- **Shoulders:** PvP Rank 10 Shoulders – good for stamina/armor.  
+- **Back:** Earthweaver Cloak (ZG) – Balanced stats + stamina.  
+- **Chest:** Giantstalker’s Breastplate or PvP Chest – more stamina.  
+- **Wrists:** Rockfury Bracers (Cenarion Rep) – Good DPS bracers.  
+- **Hands:** Giantstalker Gloves – DPS + crit.  
+- **Waist:** Zandalar Predator’s Belt – flexible PvP belt.  
+- **Legs:** PvP Rank 10 Legs – more stamina for PvP.  
+- **Feet:** Blooddrenched Footpads – crit/AP for burst.  
+- **Rings:** Band of Accuria, Don Julio’s Band (PvP reward).  
+- **Trinkets:** Blackhand’s Breadth, Insignia of the Alliance (PvP trinket).  
 
 ---
 
-### AQ40
-| Item | Slot | Source |
-|------|------|--------|
-| **Striker’s Diadem** | Head | Various Bosses |
-| **Striker’s Hauberk** | Chest | Various Bosses (Upgrade over Giantstalker Breastplate) |
-| **Cloak of Concentrated Hatred** | Back | Twin Emperors (Upgrade over Earthweaver Cloak) |
+## 🐺 Solo / Farming
 
----
+Focus: Sustain (mana regen, some stamina).  
 
-### Onyxia’s Lair
-| Item | Slot | Source |
-|------|------|--------|
-| **Onyxia Tooth Pendant** | Neck | Onyxia (Alternative) |
-
----
-
-## ⚔️ PvP Gear (Battlegrounds / World PvP)
-| Item | Slot | Source |
-|------|------|--------|
-| **Rank 10 PvP Set** | Multiple | Already Owned |
-| **High Warlord’s/Grand Marshal Ranged Weapon** | Ranged | PvP Rewards |
-| **Surestrike Goggles v2.0** | Head | Engineering |
-| **Royal Seal of Eldre’Thalas** | Trinket | Already Owned |
-| **Blackhand’s Breadth** | Trinket | Already Owned |
-| **Engi Gadgets (Net-o-Matic, Reflectors, Grenades)** | Utility | Engineering |
-
----
-
-## 🐺 Solo / Farming Gear
-| Item | Slot | Source |
-|------|------|--------|
-| **Rank 10 PvP Set** | Multiple | Already Owned |
-| **Royal Seal of Eldre’Thalas** | Trinket | Already Owned |
-| **Devilsaur Eye** | Trinket | Already Owned |
-| **Zandalar Predator’s Set (3/5)** | Set Bonus | Already Owned |
-| **Engi Gadgets** | Utility | Engineering |
-
----
-
-## 📌 Next Goals (Phase 5 Progression)
-1. 🐉 **Prestor’s Talisman of Connivery** (BWL) → Upgrade over Eye of Hakkar  
-2. 🐉 **Drake Fang Talisman** (BWL) → Upgrade over Devilsaur Eye  
-3. 🏯 **Striker’s Diadem & Hauberk** (AQ40) → Major DPS upgrades  
-4. 🏯 **Cloak of Concentrated Hatred** (AQ40) → Upgrade over Earthweaver Cloak  
-5. 🔥 **Band of Accuria** (MC) → Best ring if not yet acquired  
+- **Head:** Eye of Hakkar – good allrounder.  
+- **Neck:** Onyxia Tooth Pendant – steady DPS stats.  
+- **Shoulders:** Giantstalker Epaulets – balanced.  
+- **Back:** Cloak of the Unseen Path – extra hit.  
+- **Chest:** Giantstalker Breastplate – crit + stamina.  
+- **Wrists:** Ossirian’s Binding (AQ20) – good balance for farming.  
+- **Hands:** Giantstalker Gloves – solid AP.  
+- **Waist:** Zandalar Predator’s Belt – great sustain piece.  
+- **Legs:** Dragonstalker’s Legguards – crit/AP.  
+- **Feet:** Blooddrenched Footpads – DPS boots.  
+- **Rings:** Royal Seal of Eldre’Thalas (mana regen), Band of Accuria.  
+- **Trinkets:** Devilsaur Eye (ZG), Royal Seal of Eldre’Thalas.  
 
 ---
