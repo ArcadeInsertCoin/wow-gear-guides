@@ -1,104 +1,122 @@
-# 🔮 Shadow Priest
+# 🔮 Shadow Priest – Gear Guide (Classic Era Phase 5)
 
-## Gear by Slot
+**Spec:** Shadow DPS (with Healing Backup)  
+**Patch:** 1.15.7 – Phase 5  
+**Server:** PvE  
+**Professions:** Herbalism 🌿 / Enchanting ✨  
 
-### 👑 Head
-- **Current:** Spellweaver Turban / Circlet of Prophecy  
-- **Raid DPS:** Spellweaver Turban (shadow damage)  
-- **Heal:** Circlet of Prophecy  
-- **PvP:** Spellweaver (damage burst)  
-- **Solo:** Spellweaver  
-➡️ Upgrade: Mish’undare, Circlet of the Mind Flayer (Naxx – future)  
+---
 
-### 🧿 Neck
-- **Current:** Charm of the Shifting Sands  
-- **Raid DPS:** Charm (spell damage + hit)  
-- **Heal:** Shroud of Infinite Wisdom Necklace (if farmed)  
-- **PvP:** Charm (best mix)  
-- **Solo:** Charm  
+## 🎒 Current Gear (Owned)
+- Head: **Spellweaver’s Turban**, **Circlet of Prophecy**  
+- Neck: **Charm of the Shifting Sands**  
+- Shoulders: **Felcloth Shoulders**, **Mantle of Prophecy**  
+- Back: **Spritecaster Cape**, **Shroud of Infinite Wisdom**  
+- Chest: **Robe of Volatile Power**, **Robes of Prophecy**  
+- Wrists: **Rockfury Bracers**, **Zandalar Confessor’s Bindings**  
+- Hands: **Felcloth Gloves**, **Gloves of Dark Wisdom**, **Desert Bloom Gloves**  
+- Waist: **Ban’thok Sash**  
+- Legs: **Flarecore Leggings**  
+- Feet: **Betrayer’s Boots**  
+- Rings: **Band of Servitude**, **Songstone of Ironforge**, **Fordring’s Seal**  
+- Trinkets: **Eye of Moam**, **Songstone**, **Royal Seal of Eldre’Thalas**  
+- Weapon: **Scepter of the Unholy**, **Simone’s Cultivating Hammer**, **Eye of the Beast**  
+- Off-hand: **Tome of the Lost**  
+- Wand: **Sparkling Crystal Wand**  
 
-### 🛡️ Shoulders
-- **Current:** Felcloth Shoulders / Mantle of Prophecy  
-- **Raid DPS:** Replace Felcloth → Mantle of the Blackwing Cabal (BWL)  
-- **Heal:** Mantle of Prophecy  
-- **PvP:** Prophecy (stamina)  
-- **Solo:** Felcloth (damage until upgrade)  
+---
 
-### 🧥 Back
-- **Current:** Spritecaster Cape / Shroud of Infinite Wisdom  
-- **Raid DPS:** Cloak of Consumption (ZG – Hakkar) upgrade  
-- **Heal:** Shroud of Infinite Wisdom  
-- **PvP:** Spritecaster (stamina)  
-- **Solo:** Cloak of Consumption (farm it asap)  
+## 🔥 Raid Setup (Shadow DPS)
+Optimized for damage and raid debuff contribution.
 
-### 🥼 Chest
-- **Current:** Robe of Volatile Power / Robes of Prophecy  
-- **Raid DPS:** Robe of Volatile Power → Garb of Royal Ascension (AQ40)  
-- **Heal:** Robes of Prophecy  
-- **PvP:** Volatile Power (damage)  
-- **Solo:** Volatile Power  
+| Slot | Current | Upgrade Path | Notes |
+|------|---------|--------------|-------|
+| Head | **Spellweaver’s Turban** | T2.5 AQ40 Head | Best pre-AQ40 Shadow head. |
+| Neck | **Charm of the Shifting Sands** | — | BiS until Naxx. |
+| Shoulders | — | **Mantle of the Blackwing Cabal (BWL)** | Major DPS upgrade, farm Razorgore. |
+| Back | **Spritecaster Cape** | **Cloak of Consumption (ZG)** | Must-have dmg cloak. |
+| Chest | **Robe of Volatile Power** | **Garb of Royal Ascension (AQ40)** | Strong DPS upgrade. |
+| Wrists | **Rockfury Bracers** | — | BiS forever. |
+| Hands | **Gloves of Dark Wisdom** | **Gloves of the Messiah (AQ40)** | Messiah > Dark Wisdom. |
+| Waist | **Ban’thok Sash** | **Sash of Whispered Secrets (MC)** | Core DPS belt. |
+| Legs | **Flarecore Leggings** | AQ40 T2.5 Legs | Stronger scaling later. |
+| Feet | **Betrayer’s Boots** | **Boots of Epiphany (AQ40)** | Better dmg scaling. |
+| Rings | **Band of Servitude + Songstone** | **Band of Forced Concentration (BWL) + Ring of Spell Power (MC)** | Farm upgrades. |
+| Trinkets | **Eye of Moam + Royal Seal** | **Neltharion’s Tear (BWL) + Briarwood Reed (UBRS)** | DPS > healing trinkets. |
+| Weapon | **Scepter of the Unholy + Tome of the Lost** | **Staff of the Ruins (AQ20)** | Huge upgrade. |
+| Wand | **Sparkling Crystal Wand** | **Touch of Chaos (ZG)** | Must-have DPS wand. |
 
-### ⛓️ Wrists
-- **Current:** Rockfury Bracers / Zandalar Bindings  
-- **Raid DPS:** Rockfury (BiS)  
-- **Heal:** Zandalar Bindings  
-- **PvP:** Rockfury (damage)  
-- **Solo:** Rockfury  
+---
 
-### 🧤 Hands
-- **Current:** Felcloth Gloves / Gloves of Dark Wisdom / Desert Bloom  
-- **Raid DPS:** Felcloth Gloves → upgrade **Gloves of the Messiah (AQ40)**  
-- **Heal:** Gloves of Dark Wisdom  
-- **PvP:** Felcloth (damage) or PvP Gloves (future)  
-- **Solo:** Felcloth  
+## ✝️ Raid Setup (Healing Backup)
+Switch into Prophecy/Wisdom set + sustain.
 
-### 🪢 Waist
-- **Current:** Ban’thok Sash  
-- **Raid DPS:** Sash of Whispered Secrets (MC – Majordomo)  
-- **Heal:** Zandalar Confessor’s Belt (farm)  
-- **PvP:** Ban’thok (ok stats until better)  
-- **Solo:** Ban’thok  
+| Slot | Current | Upgrade Path | Notes |
+|------|---------|--------------|-------|
+| Head | **Circlet of Prophecy** | AQ/Naxx healer head | |
+| Shoulders | **Mantle of Prophecy** | — | |
+| Back | **Shroud of Infinite Wisdom** | — | |
+| Chest | **Robes of Prophecy** | AQ Healer Robe | |
+| Wrists | **Zandalar Confessor’s Bindings** | — | |
+| Hands | **Desert Bloom Gloves** | AQ Healer Gloves | |
+| Waist | **Ban’thok Sash** | **Zandalar Confessor’s Belt** | Healing belt upgrade. |
+| Legs | — | Prophecy Legs / AQ Healer Legs | |
+| Feet | — | Boots of Prophecy / AQ Healer Boots | |
+| Rings | **Fordring’s Seal + Songstone** | Pure +heal rings later | |
+| Trinkets | **Royal Seal + Songstone** | **Zandalarian Hero Charm (ZG)** | Best healing trinket combo. |
+| Weapon | **Eye of the Beast + Tome** | Dedicated healing weapon later | |
 
-### 🦵 Legs
-- **Current:** Flarecore Leggings  
-- **Raid DPS:** Flarecore → upgrade Leggings of Polarity (Naxx future)  
-- **Heal:** Prophecy Legs (when collected)  
-- **PvP:** Flarecore (damage)  
-- **Solo:** Flarecore  
+---
 
-### 🥾 Feet
-- **Current:** Betrayer’s Boots  
-- **Raid DPS:** Betrayer’s → Boots of Epiphany (AQ40 upgrade)  
-- **Heal:** Prophecy Boots / Wisdom Set Boots  
-- **PvP:** Betrayer’s (damage)  
-- **Solo:** Betrayer’s  
+## ⚔️ PvP Setup
+Survivability + burst with CC trinket.
 
-### 💍 Rings
-- **Current:** Band of Servitude, Songstone, Fordring’s Seal  
-- **Raid DPS:** Band of Forced Concentration (BWL) + Ring of Spell Power (MC)  
-- **Heal:** Fordring’s Seal + Songstone  
-- **PvP:** Band of Servitude + Fordring’s Seal  
-- **Solo:** Band of Servitude + Songstone  
+| Slot | Setup |
+|------|-------|
+| Head | **Spellweaver’s Turban** (crit burst) |
+| Neck | **Charm of the Shifting Sands** |
+| Shoulders | Replace Felcloth → **ZG or PvP shoulders** |
+| Back | **Spritecaster Cape** (stamina heavy) |
+| Chest | **Robe of Volatile Power** |
+| Wrists | **Rockfury Bracers** |
+| Hands | **Gloves of Dark Wisdom** |
+| Waist | **Ban’thok Sash** |
+| Legs | **Flarecore Leggings** |
+| Feet | **Betrayer’s Boots** |
+| Rings | **Fordring’s Seal + Band of Servitude** |
+| Trinkets | **Eye of Moam + Insignia of the Alliance** |
+| Weapon | **Scepter of the Unholy + Tome of the Lost** |
+| Wand | **Sparkling Crystal Wand** → Upgrade: **Touch of Chaos (ZG)** |
 
-### 📜 Trinkets
-- **Current:** Eye of Moam, Songstone, Royal Seal  
-- **Raid DPS:** Eye of Moam + Royal Seal → upgrade Neltharion’s Tear (BWL)  
-- **Heal:** Royal Seal + Zandalarian Hero Charm  
-- **PvP:** Eye of Moam + Insignia of the Alliance  
-- **Solo:** Eye of Moam + Royal Seal  
+---
 
-### ⚔️ Weapon
-- **Current:** Scepter of the Unholy + Tome of the Lost / Eye of the Beast / Simone’s Hammer  
-- **Raid DPS:** Scepter + Tome → upgrade Staff of the Ruins (AQ20)  
-- **Heal:** Eye of the Beast + Tome of the Lost  
-- **PvP:** Scepter + Tome (burst)  
-- **Solo:** Scepter + Tome  
+## 🌿 Solo / Farming
+Mana sustain + DPS mix.
 
-### 🎯 Wand
-- **Current:** Sparkling Crystal Wand  
-- **Raid DPS:** Touch of Chaos (ZG – Hakkar)  
-- **Heal:** Any +heal wand (not priority)  
-- **PvP:** Sparkling until Touch of Chaos  
-- **Solo:** Sparkling → Touch of Chaos  
+| Slot | Setup |
+|------|-------|
+| Head | **Spellweaver’s Turban** |
+| Neck | **Charm of the Shifting Sands** |
+| Shoulders | **Felcloth Shoulders** (cheaper repair) |
+| Back | **Spritecaster Cape** → Upgrade: **Cloak of Consumption (ZG)** |
+| Chest | **Robe of Volatile Power** |
+| Wrists | **Rockfury Bracers** |
+| Hands | **Gloves of Dark Wisdom** |
+| Waist | **Ban’thok Sash** |
+| Legs | **Flarecore Leggings** |
+| Feet | **Betrayer’s Boots** |
+| Rings | **Fordring’s Seal + Band of Servitude** |
+| Trinkets | **Royal Seal (mp5) + Eye of Moam** |
+| Weapon | **Scepter of the Unholy + Tome of the Lost** |
+| Wand | **Sparkling Crystal Wand** → Upgrade: **Touch of Chaos** |
+
+---
+
+## 📌 Key Notes
+- **Royal Seal of Eldre’Thalas** is **healing/sustain only**, never DPS.  
+- **Rockfury Bracers, Spellweaver Turban, Eye of Moam** = core Shadow DPS items you already own.  
+- **Raid DPS priority farm** = Mantle of the Blackwing Cabal, Cloak of Consumption, Band of Forced Concentration.  
+- **PvP** = stamina + Insignia of the Alliance always.  
+- **Solo** = mix dmg/mp5, Royal Seal great here.  
 
 ---
