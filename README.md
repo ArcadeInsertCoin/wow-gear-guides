@@ -1,17 +1,26 @@
-# ⚔️ Classic WoW Gear Dashboard
+# ⚔️ Classic WoW Gear Progression (Phase 5)
 
-![Phase](https://img.shields.io/badge/Phase-5-red?style=for-the-badge)
-![Patch](https://img.shields.io/badge/Patch-1.15.7-blue?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Hunter-Ahhotep-forestgreen?style=for-the-badge&logo=wow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Priest-Hatschepsut-darkviolet?style=for-the-badge&logo=wow&logoColor=white" />
+</p>
 
 ---
 
-## 📑 Table of Contents
-- [🏹 Marksmanship Hunter](#-marksmanship-hunter--gear-dashboard)  
+# 📊 Progress Overview
+
+**Hunter Gear Completion:** ![70%](https://progress-bar.dev/70/?title=Hunter)  
+**Shadow Priest Gear Completion:** ![80%](https://progress-bar.dev/80/?title=Priest)  
+
+---
+
+## 📑 Table of Contents 
+- [🏹 Marksmanship Hunter (Ahhotep)](#-marksmanship-hunter--gear-guide-classic-era-phase-5)  
   - 🎒 Current Gear  
   - 🔥 Raid Setup  
   - ⚔️ PvP Setup  
   - 🌿 Solo / Farming  
-- [🔮 Shadow Priest](#-shadow-priest--gear-dashboard)  
+- [🔮 Shadow Priest (Hatschepsut)](#-shadow-priest--gear-guide-classic-era-phase-5)  
   - 🎒 Current Gear  
   - 🔥 Raid Setup (Shadow DPS)  
   - ✝️ Raid Setup (Healing Backup)  
@@ -20,10 +29,12 @@
 
 ---
 
-# 🏹 Marksmanship Hunter – Gear Dashboard
+# 🏹 Marksmanship Hunter – Gear Guide (Classic Phase 5)
 
+**Character:** Ahhotep  
 **Spec:** Marksmanship DPS  
-**Server:** PvE  
+**Patch:** 1.15.7 – Phase 5  
+**Server:** PvE 
 
 ---
 
@@ -109,10 +120,13 @@ Optimized for Molten Core, BWL & AQ40.
 
 ---
 
-# 🔮 Shadow Priest – Gear Dashboard
+# 🔮 Shadow Priest – Gear Guide (Classic Phase 5)
 
+**Character:** Hatschepsut  
 **Spec:** Shadow DPS (with Healing Backup)  
+**Patch:** 1.15.7 – Phase 5  
 **Server:** PvE  
+**Professions:** Herbalism 🌿 / Enchanting ✨   
 
 ---
 
