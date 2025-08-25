@@ -1,9 +1,19 @@
-# 🎮 WoW Classic Gear Guides
+# 🏹🔮 Classic Era Gear Guides (Phase 5)
 
-Hunter 🏹 and Shadow Priest 🔮 gear guides for **Classic Era Phase 5 (1.15.7)**.  
-Account: **ArcadeInsertCoin**
+**Patch:** 1.15.7 – Phase 5  
+**Server:** PvE  
 
-## 📑 Guides
-- [Hunter Guide](./hunter.md)
-- [Shadow Priest Guide](./shadowpriest.md)
+---
 
+## 📑 Table of Contents 
+- [🏹 Marksmanship Hunter](#-marksmanship-hunter--gear-guide-classic-era-phase-5)  
+  - 🎒 Current Gear  
+  - 🔥 Raid Setup  
+  - ⚔️ PvP Setup  
+  - 🌿 Solo / Farming  
+- [🔮 Shadow Priest](#-shadow-priest--gear-guide-classic-era-phase-5)  
+  - 🎒 Current Gear  
+  - 🔥 Raid Setup (Shadow DPS)  
+  - ✝️ Raid Setup (Healing Backup)  
+  - ⚔️ PvP Setup  
+  - 🌿 Solo / Farming  
