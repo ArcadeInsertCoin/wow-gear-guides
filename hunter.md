@@ -1,4 +1,4 @@
-# 🏹 Marksmanship Hunter – Full Gear Guide (Classic Era Phase 5)
+# 🏹 Marksmanship Hunter – Gear Guide (Classic Era Phase 5)
 
 **Spec:** Marksmanship DPS  
 **Patch:** 1.15.7 – Phase 5  
@@ -6,106 +6,82 @@
 
 ---
 
-## 🔥 Raid Gear (MC / BWL / AQ20 / AQ40 / ZG / Onyxia)
-
-### Molten Core (MC)
-| Item | Slot | Source |
-|------|------|--------|
-| **Wristguards of True Flight** | Wrists | Majordomo Executus |
-| **Dragonstalker’s Legguards** | Legs | Ragnaros (~20%) |
-| **Band of Accuria** | Ring | Ragnaros (~24%) |
-| **Choker of the Firelord** | Neck | Ragnaros |
-
----
-
-### Blackwing Lair (BWL)
-| Item | Slot | Source |
-|------|------|--------|
-| **Prestor’s Talisman of Connivery** | Neck | Various Bosses (~30%) |
-| **Drake Fang Talisman** | Trinket | Ebonroc (~33%) |
-| **Black Brood Pauldrons** | Shoulders | Chromaggus |
+## 🎒 Current Gear (Owned)
+- Head: **Rank 10 PvP Set Helm**, **Striker’s Diadem**  
+- Neck: **Eye of Hakkar**, **Onyxia Tooth Pendant**  
+- Shoulders: **Giantstalker Epaulets**  
+- Back: **Earthweaver Cloak**, **Cloak of the Unseen Path**  
+- Chest: **Giantstalker Breastplate**, **Striker’s Hauberk**  
+- Wrists: **Wristguards of True Flight**, **Ossirian’s Binding**  
+- Hands: **Giantstalker Gloves**  
+- Waist: **Zandalar Predator’s Belt**  
+- Legs: **Dragonstalker’s Legguards**  
+- Feet: **Blooddrenched Footpads**  
+- Rings: **Band of Accuria**, **Devilsaur Eye**  
+- Trinkets: **Royal Seal of Eldre’Thalas**, **Blackhand’s Breadth**  
+- Weapons: **Huntsman’s Harpoon**, **Barbarous Blade**  
 
 ---
 
-### Zul’Gurub (ZG)
-| Item | Slot | Source |
-|------|------|--------|
-| **Blooddrenched Footpads** | Feet | High Priest Venoxis (~17%) |
-| **Zandalar Predator’s Belt** | Waist | Quest – ZG |
-| **Zandalar Predator’s Bracers** | Wrists | Quest – ZG |
+## 🔥 Raid Setup (Marksmanship DPS)
+Optimized for damage & crit scaling.
+
+| Slot | Current | Upgrade Path | Notes |
+|------|---------|--------------|-------|
+| Head | **Striker’s Diadem** | AQ40 T2.5 Head | Crit scaling, BiS pre-Naxx |
+| Neck | **Onyxia Tooth Pendant** | **Prestor’s Talisman of Connivery (BWL)** | Strong upgrade |
+| Shoulders | **Giantstalker Epaulets** | T2.5 Shoulders | Crit & hit scaling |
+| Back | **Earthweaver Cloak** | **Cloak of the Unseen Path (AQ20)** | Quest BiS |
+| Chest | **Giantstalker Breastplate** | **Striker’s Hauberk (AQ40)** | Stronger stats |
+| Wrists | **Wristguards of True Flight** | **Ossirian’s Binding (AQ20)** | Slight upgrade |
+| Hands | **Giantstalker Gloves** | AQ40 Gloves | DPS scaling |
+| Waist | **Zandalar Predator’s Belt** | T2.5 AQ40 Belt | |
+| Legs | **Dragonstalker’s Legguards** | AQ40 T2.5 Legs | |
+| Feet | **Blooddrenched Footpads** | AQ40 Boots | Better scaling |
+| Rings | **Band of Accuria + Devilsaur Eye** | **MC/BWL drops** | Accuria stays BiS |
+| Trinkets | **Blackhand’s Breadth + Royal Seal** | **Drake Fang Talisman (BWL)** | Swap Seal for DPS |
+| Weapons | **Huntsman’s Harpoon / Barbarous Blade** | AQ40 Weapon Drops | |
 
 ---
 
-### AQ20
-| Item | Slot | Source |
-|------|------|--------|
-| **Cloak of the Unseen Path** | Back | Quest Reward |
-| **Ossirian's Binding** | Wrists | Ossirian the Unscarred |
+## ⚔️ PvP Setup
+Burst crit + survivability.
+
+| Slot | Setup |
+|------|-------|
+| Head | **Rank 10 PvP Helm** |
+| Neck | **Eye of Hakkar** |
+| Shoulders | **Giantstalker Epaulets** |
+| Back | **Earthweaver Cloak** |
+| Chest | **Giantstalker Breastplate** |
+| Wrists | **Wristguards of True Flight** |
+| Hands | **Giantstalker Gloves** |
+| Waist | **Zandalar Predator’s Belt** |
+| Legs | **Dragonstalker’s Legguards** |
+| Feet | **Blooddrenched Footpads** |
+| Rings | **Band of Accuria + PvP Ring** |
+| Trinkets | **Insignia of the Alliance + Devilsaur Eye** |
+| Weapons | **Barbarous Blade** (burst weapon) |
 
 ---
 
-### AQ40
-| Item | Slot | Source |
-|------|------|--------|
-| **Striker’s Diadem** | Head | Various Bosses |
-| **Striker’s Hauberk** | Chest | Various Bosses |
-| **Cloak of Concentrated Hatred** | Back | Twin Emperors |
+## 🌿 Solo / Farming
+Hit chance + mana efficiency.
 
----
-
-### Onyxia’s Lair
-| Item | Slot | Source |
-|------|------|--------|
-| **Onyxia Tooth Pendant** | Neck | Onyxia |
-
----
-
-### Dungeons
-| Item | Slot | Source |
-|------|------|--------|
-| **Huntsman’s Harpoon** | Weapon | Dire Maul East – Isalien (~17%) |
-| **Barbarous Blade** | Weapon | Dire Maul North – King Gordok (~24%) |
-| **Blackhand’s Breadth** | Trinket | UBRS Quest |
-| **Royal Seal of Eldre’Thalas** | Trinket | DM Quest |
-| **Trueflight Gauntlets** | Hands | Dire Maul Drop |
-
----
-
-## ⚔️ PvP Gear (Battlegrounds / World PvP)
-
-| Item | Slot | Source |
-|------|------|--------|
-| **Rank 10 PvP Set** | Multiple | PvP Rewards |
-| **High Warlord’s/Grand Marshal Ranged Weapon** | Ranged | PvP Rewards |
-| **Surestrike Goggles v2.0** | Head | Engineering |
-| **Royal Seal of Eldre’Thalas** | Trinket | DM Quest |
-| **Blackhand’s Breadth** | Trinket | UBRS Quest |
-| **Earthweaver Cloak** | Back | Quest Reward |
-| **Engi Gadgets (Net-o-Matic, Reflectors, Grenades)** | Utility | Engineering |
-
-✅ PvP Fokus: **Stamina + Burst** → Engi Items sind Pflicht.  
-
----
-
-## 🐺 Solo / Farming Gear
-
-| Item | Slot | Source |
-|------|------|--------|
-| **Rank 10 PvP Set** | Multiple | PvP Rewards |
-| **Royal Seal of Eldre’Thalas** | Trinket | DM Quest |
-| **Devilsaur Eye** | Trinket | Quest Reward |
-| **Zandalar Predator’s Set (3/5)** | Set Bonus | ZG |
-| **Engi Gadgets** | Utility | Engineering |
-
-✅ Solo Fokus: **Überleben + Sustain** → Mehr Stamina, ZG Set für Sustain, Trinkets flexibel.  
-
----
-
-# 📌 Next Goals (Phase 5 BiS Progression)
-1. 🐉 **Prestor’s Talisman of Connivery** (BWL) → Replace Eye of Hakkar  
-2. 🐉 **Drake Fang Talisman** (BWL) → Replace Devilsaur Eye  
-3. 🏯 **Striker’s Diadem + Hauberk** (AQ40) → Replace Giantstalker / R10 Gear  
-4. 🏯 **Cloak of Concentrated Hatred** (AQ40) → Replace Earthweaver Cloak  
-5. 🔥 **Band of Accuria** (MC) → If not obtained  
+| Slot | Setup |
+|------|-------|
+| Head | **Striker’s Diadem** |
+| Neck | **Onyxia Tooth Pendant** |
+| Shoulders | **Giantstalker Epaulets** |
+| Back | **Cloak of the Unseen Path** |
+| Chest | **Giantstalker Breastplate** |
+| Wrists | **Ossirian’s Binding** |
+| Hands | **Giantstalker Gloves** |
+| Waist | **Zandalar Predator’s Belt** |
+| Legs | **Dragonstalker’s Legguards** |
+| Feet | **Blooddrenched Footpads** |
+| Rings | **Royal Seal + Band of Accuria** |
+| Trinkets | **Royal Seal + Blackhand’s Breadth** |
+| Weapons | **Huntsman’s Harpoon** |
 
 ---
