@@ -6,12 +6,12 @@
 ---
 
 ## 📑 Table of Contents 
-- [🏹 Marksmanship Hunter](#-marksmanship-hunter--gear-guide-classic-era-phase-5)  
+- [🏹 Marksmanship Hunter](#-marksmanship-hunter--gear-guide-classic-phase-5)  
   - 🎒 Current Gear  
   - 🔥 Raid Setup  
   - ⚔️ PvP Setup  
   - 🌿 Solo / Farming  
-- [🔮 Shadow Priest](#-shadow-priest--gear-guide-classic-era-phase-5)  
+- [🔮 Shadow Priest](#-shadow-priest--gear-guide-classic-phase-5)  
   - 🎒 Current Gear  
   - 🔥 Raid Setup (Shadow DPS)  
   - ✝️ Raid Setup (Healing Backup)  
