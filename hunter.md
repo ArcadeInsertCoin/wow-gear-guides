@@ -1,7 +1,7 @@
 # 🏹 Marksmanship Hunter – Gear Guide (Classic Phase 5)
 
 **Spec:** Marksmanship DPS  
-**Patch:** 1.15.7 – Phase 5  
+**Patch:** 1.15.7.61582 – Phase 5  
 **Server:** PvE  
 
 ---
