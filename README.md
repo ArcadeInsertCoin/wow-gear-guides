@@ -1,4 +1,4 @@
-# 🏹🔮 Classic Era Gear Guides (Phase 5)
+# 🏹🔮 Classic Gear Guides (Phase 5)
 
 **Patch:** 1.15.7 – Phase 5  
 **Server:** PvE  
