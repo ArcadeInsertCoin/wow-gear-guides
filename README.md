@@ -1,26 +1,19 @@
-# ⚔️ Classic WoW Gear Progression (Phase 5)
+# 🏹 Ahhotep & 🔮 Hatschepsut – Classic Era Gear Guide
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Hunter-Ahhotep-forestgreen?style=for-the-badge&logo=wow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Priest-Hatschepsut-darkviolet?style=for-the-badge&logo=wow&logoColor=white" />
-</p>
-
----
-
-# 📊 Progress Overview
-
-**Hunter Gear Completion:** ![70%](https://progress-bar.dev/70/?title=Hunter)  
-**Shadow Priest Gear Completion:** ![80%](https://progress-bar.dev/80/?title=Priest)  
+**Patch:** 1.15.7 – Phase 5  
+**Server:** PvE  
+**Faction:** Alliance ⚔️  
+**PvP Rank:** R10 (Knight-Champion)  
 
 ---
 
-## 📑 Table of Contents 
-- [🏹 Marksmanship Hunter (Ahhotep)](#-marksmanship-hunter--gear-guide-classic-anniversary-phase-5)  
+## 📑 Table of Contents
+- [🏹 Ahhotep – Marksmanship Hunter](#-ahhotep--marksmanship-hunter-gear-guide-classic-era-phase-5)  
   - 🎒 Current Gear  
   - 🔥 Raid Setup  
   - ⚔️ PvP Setup  
   - 🌿 Solo / Farming  
-- [🔮 Shadow Priest (Hatschepsut)](#-shadow-priest--gear-guide-classic-anniversary-phase-5)  
+- [🔮 Hatschepsut – Shadow Priest](#-hatschepsut--shadow-priest-gear-guide-classic-era-phase-5)  
   - 🎒 Current Gear  
   - 🔥 Raid Setup (Shadow DPS)  
   - ✝️ Raid Setup (Healing Backup)  
@@ -29,213 +22,186 @@
 
 ---
 
-# 🏹 Marksmanship Hunter – Gear Guide (Classic Anniversary Phase 5)
+# 🏹 Ahhotep – Marksmanship Hunter (Classic Era Phase 5)
 
-**Character:** Ahhotep  
+![Hunter Badge](https://img.shields.io/badge/Hunter-Marksman-2ecc71?logo=icloud&logoColor=white)
+
 **Spec:** Marksmanship DPS  
-**Patch:** 1.15.7 – Phase 5  
-**Server:** PvE  
+**Professions:** Skinning / Leatherworking  
 
 ---
 
-## 🎒 Current Gear (Owned ✅)
-- Head: **Giantstalker’s Epaulets** ✅  
-- Neck: **Eye of Hakkar** ✅  
-- Shoulders: **Giantstalker Epaulets** ✅  
-- Back: **Earthweaver Cloak** ✅  
-- Chest: **Giantstalker Breastplate** ✅  
-- Wrists: **Rank 10 PvP Bracers** ✅  
-- Hands: **Giantstalker Gloves** ✅  
-- Waist: **Zandalar Predator’s Belt** ✅  
-- Legs: **Rank 10 PvP Legs** ✅  
-- Feet: **Bloodrenched Footpads** ✅  
-- Rings: **Blackhand’s Breadth** ✅, **Royal Seal of Eldre’Thalas** ✅  
-- Trinkets: **Insignia of the Alliance** ✅, **Stormpike Insignia Rank 6** ✅  
-- Weapons: **Barbarous Blade (DM North)** ✅, **Huntsman’s Harpoon (DM East)** ✅  
-- Ranged: **Devilsaur Eye** ✅  
+## 🎒 Current Gear (Owned)
+- **R10 PvP Set (Full)**  
+- **Eye of Hakkar**  
+- **Giantstalker Epaulets**  
+- **Earthweaver Cloak**  
+- **Giantstalker Breastplate**  
+- **Zandalar Predator’s Belt**  
+- **Blooddrenched Footpads**  
+- **Devilsaur Eye**  
+- **Royal Seal of Eldre’Thalas**  
+- **Blackhand’s Breadth**  
+- **Giantstalker Gloves**  
+- **Stormpike Insignia Rank 6**  
+- **Insignia of the Alliance**
 
 ---
 
-## 🔥 Raid Setup (Hunter DPS)
+## 🔥 Raid Setup (DPS)
 
-| Slot | Current | Upgrade Path | Source |
-|------|---------|--------------|--------|
-| Head | — | **Dragonstalker Helm** | Onyxia |
-| Neck | **Eye of Hakkar** ✅ | **Prestor’s Talisman of Connivery** | BWL – Nefarian |
-| Shoulders | **Giantstalker Epaulets** ✅ | **Dragonstalker Shoulders** | Chromaggus (BWL) |
-| Back | **Earthweaver Cloak** ✅ | **Cloak of the Unseen Path** | AQ20 |
-| Chest | **Giantstalker Breastplate** ✅ | **Striker’s Hauberk** | AQ40 |
-| Wrists | **Rank 10 PvP Bracers** ✅ | **Wristguards of True Flight** | MC – Majordomo |
-| Hands | **Giantstalker Gloves** ✅ | AQ40/Naxx upgrades |
-| Waist | **Zandalar Predator’s Belt** ✅ | AQ40/Naxx upgrades |
-| Legs | **Rank 10 PvP Legs** ✅ | **Dragonstalker’s Legguards** | MC – Ragnaros |
-| Feet | **Bloodrenched Footpads** ✅ | **Boots of the Shadow Flame** | BWL – Nefarian |
-| Rings | **Blackhand’s Breadth + Royal Seal** ✅ | **Band of Accuria** | MC – Ragnaros |
-| Trinkets | **Insignia of the Alliance + Stormpike Insignia** ✅ | **Drake Fang Talisman** | BWL – Ebonroc |
-| Weapon | **Barbarous Blade / Huntsman’s Harpoon** ✅ | **Ashkandi, Greatsword of the Brotherhood** | BWL – Nefarian |
-| Ranged | **Devilsaur Eye** ✅ | **Striker’s Mark** | AQ40 – General Rajaxx |
+| Slot | Item | Source |
+|------|------|--------|
+| Head | **Dragonstalker Helm** | Onyxia |
+| Neck | **Onyxia Tooth Pendant** | Onyxia |
+| Shoulders | **Giantstalker Epaulets** | MC – Garr |
+| Back | **Cloak of the Unseen Path** | AQ20 Quest |
+| Chest | **Striker’s Hauberk** | AQ40 |
+| Wrists | **Wristguards of True Flight** | MC – Majordomo Executus |
+| Hands | **Giantstalker Gloves** | MC – Garr |
+| Waist | **Zandalar Predator’s Belt** | ZG Quest |
+| Legs | **Dragonstalker Legguards** | MC – Ragnaros |
+| Feet | **Blooddrenched Footpads** | ZG – Venoxis |
+| Rings | **Band of Accuria** | MC – Ragnaros |
+| Rings | **Ring of Precision** | AQ20 – Ossirian |
+| Trinkets | **Drake Fang Talisman** | BWL – Ebonroc |
+| Trinkets | **Blackhand’s Breadth** | LBRS Quest |
+| Weapon (Melee) | **Barbarous Blade** | DM North – King Gordok |
+| Weapon (Melee 2) | **Huntsman’s Harpoon** | DM East – Isalien |
+| Weapon (Ranged) | **Striker’s Mark** | BWL – Nefarian |
 
 ---
 
-## ⚔️ PvP Setup
-
-| Slot | Setup |
-|------|-------|
-| Head | **Rank 10 PvP Head** |
-| Neck | **Eye of Hakkar** |
-| Shoulders | **Giantstalker Epaulets** |
-| Back | **Earthweaver Cloak** |
-| Chest | **Giantstalker Breastplate** |
-| Wrists | **Rank 10 PvP Bracers** |
-| Hands | **Giantstalker Gloves** |
-| Waist | **Zandalar Predator’s Belt** |
-| Legs | **Rank 10 PvP Legs** |
-| Feet | **Bloodrenched Footpads** |
-| Rings | **Blackhand’s Breadth + Royal Seal** |
-| Trinkets | **Insignia of the Alliance + Stormpike Insignia Rank 6** ✅ |
-| Weapon | **Barbarous Blade / Huntsman’s Harpoon** |
-| Ranged | **Devilsaur Eye** → Upgrade: **Striker’s Mark (AQ40)** |
+## ⚔️ PvP Setup (Burst + Utility)
+- **Full R10 PvP Set**  
+- **Eye of Hakkar** (Neck)  
+- **Earthweaver Cloak** (Stamina heavy)  
+- **Royal Seal of Eldre’Thalas** + **Insignia of the Alliance**  
+- **Stormpike Insignia Rank 6** (utility)  
+- **Striker’s Mark** (burst ranged weapon)  
 
 ---
 
 ## 🌿 Solo / Farming
-
-| Slot | Setup |
-|------|-------|
-| Head | **Rank 10 PvP Head** |
-| Neck | **Eye of Hakkar** |
-| Shoulders | **Giantstalker Epaulets** |
-| Back | **Earthweaver Cloak** |
-| Chest | **Giantstalker Breastplate** |
-| Wrists | **Rank 10 PvP Bracers** |
-| Hands | **Giantstalker Gloves** |
-| Waist | **Zandalar Predator’s Belt** |
-| Legs | **Rank 10 PvP Legs** |
-| Feet | **Bloodrenched Footpads** |
-| Rings | **Blackhand’s Breadth + Royal Seal** |
-| Trinkets | **Stormpike Insignia Rank 6 + Royal Seal** |
-| Weapon | **Barbarous Blade / Huntsman’s Harpoon** |
-| Ranged | **Devilsaur Eye** |
+- Stamina + sustain gear (PvP set + trinkets for safety).  
+- **Royal Seal of Eldre’Thalas** for mp5 sustain.  
+- **Stormpike Insignia** for free recall.  
+- Use **Huntsman’s Harpoon** for cheap repairs instead of Striker’s Mark.  
 
 ---
 
-# 🔮 Shadow Priest – Gear Guide (Classic Era Phase 5)
+# 🔮 Hatschepsut – Shadow Priest (Classic Era Phase 5)
 
-**Character:** Hatschepsut  
+![Priest Badge](https://img.shields.io/badge/Priest-Shadow-9b59b6?logo=icloud&logoColor=white)
+
 **Spec:** Shadow DPS (with Healing Backup)  
-**Patch:** 1.15.7 – Phase 5  
-**Server:** PvE  
 **Professions:** Herbalism 🌿 / Enchanting ✨  
 
 ---
 
-## 🎒 Current Gear (Owned ✅)
-- Head: **Spellweaver’s Turban** ✅, **Circlet of Prophecy** ✅  
-- Neck: **Charm of the Shifting Sands** ✅  
-- Shoulders: **Felcloth Shoulders**, **Mantle of Prophecy** ✅  
-- Back: **Spritecaster Cape**, **Shroud of Infinite Wisdom** ✅  
-- Chest: **Robe of Volatile Power**, **Robes of Prophecy** ✅  
-- Wrists: **Rockfury Bracers** ✅, **Zandalar Confessor’s Bindings** ✅  
-- Hands: **Gloves of Dark Wisdom**, **Desert Bloom Gloves** ✅  
-- Waist: **Ban’thok Sash** ✅  
-- Legs: **Flarecore Leggings** ✅  
-- Feet: **Betrayer’s Boots** ✅  
-- Rings: **Band of Servitude**, **Songstone of Ironforge**, **Fordring’s Seal** ✅  
-- Trinkets: **Eye of Moam**, **Royal Seal of Eldre’Thalas**, **Songstone** ✅  
-- Weapon: **Scepter of the Unholy**, **Simone’s Cultivating Hammer**, **Eye of the Beast** ✅  
-- Off-hand: **Tome of the Lost** ✅  
-- Wand: **Sparkling Crystal Wand**, **Touch of Chaos (ZG)** ✅  
+## 🎒 Current Gear (Owned)
+- **Spellweaver’s Turban**  
+- **Circlet of Prophecy**  
+- **Charm of the Shifting Sands**  
+- **Felcloth Shoulders**  
+- **Mantle of Prophecy**  
+- **Spritecaster Cape**  
+- **Shroud of Infinite Wisdom**  
+- **Robe of Volatile Power**  
+- **Robes of Prophecy**  
+- **Rockfury Bracers**  
+- **Zandalar Confessor’s Bindings**  
+- **Felcloth Gloves**  
+- **Gloves of Dark Wisdom**  
+- **Desert Bloom Gloves**  
+- **Ban’thok Sash**  
+- **Flarecore Leggings**  
+- **Betrayer’s Boots**  
+- **Band of Servitude**  
+- **Songstone of Ironforge**  
+- **Fordring’s Seal**  
+- **Eye of Moam**  
+- **Royal Seal of Eldre’Thalas**  
+- **Scepter of the Unholy**  
+- **Tome of the Lost**  
+- **Sparkling Crystal Wand**  
+- **Touch of Chaos** ✅  
 
 ---
 
 ## 🔥 Raid Setup (Shadow DPS)
 
-| Slot | Current | Upgrade Path | Source |
-|------|---------|--------------|--------|
-| Head | **Spellweaver’s Turban** ✅ | T2.5 AQ40 Head | AQ40 |
-| Neck | **Charm of the Shifting Sands** ✅ | — | BiS until Naxx |
-| Shoulders | — | **Mantle of the Blackwing Cabal** | BWL – Razorgore |
-| Back | **Spritecaster Cape** ✅ | **Cloak of Consumption** | ZG |
-| Chest | **Robe of Volatile Power** ✅ | **Garb of Royal Ascension** | AQ40 |
-| Wrists | **Rockfury Bracers** ✅ | — | BiS forever |
-| Hands | **Gloves of Dark Wisdom** ✅ | **Gloves of the Messiah** | AQ40 |
-| Waist | **Ban’thok Sash** ✅ | **Sash of Whispered Secrets** | MC |
-| Legs | **Flarecore Leggings** ✅ | T2.5 AQ40 Legs | AQ40 |
-| Feet | **Betrayer’s Boots** ✅ | **Boots of Epiphany** | AQ40 |
-| Rings | **Band of Servitude + Songstone** ✅ | **Band of Forced Concentration** (BWL) + **Ring of Spell Power** (MC) | |
-| Trinkets | **Eye of Moam + Royal Seal** ✅ | **Neltharion’s Tear** (BWL) + **Briarwood Reed** (UBRS) | |
-| Weapon | **Scepter of the Unholy + Tome of the Lost** ✅ | **Staff of the Ruins** | AQ20 |
-| Wand | **Touch of Chaos** ✅ | — | BiS |
+| Slot | Item | Source |
+|------|------|--------|
+| Head | **Spellweaver’s Turban** | UBRS – General Drakkisath |
+| Neck | **Charm of the Shifting Sands** | AQ20 Quest |
+| Shoulders | **Mantle of the Blackwing Cabal** | BWL – Razorgore |
+| Back | **Cloak of Consumption** | ZG – Hakkar |
+| Chest | **Robe of Volatile Power** | MC – Golemagg |
+| Wrists | **Rockfury Bracers** | Silithus Quest |
+| Hands | **Gloves of Dark Wisdom** | AQ20 – Ossirian |
+| Waist | **Sash of Whispered Secrets** | MC – Shazzrah |
+| Legs | **Flarecore Leggings** | Crafted |
+| Feet | **Boots of Epiphany** | AQ40 – Fankriss |
+| Rings | **Band of Forced Concentration** | BWL – Chromaggus |
+| Rings | **Ring of Spell Power** | MC – Lucifron |
+| Trinkets | **Neltharion’s Tear** | BWL – Nefarian |
+| Trinkets | **Briarwood Reed** | UBRS – Jed |
+| Weapon | **Staff of the Ruins** | AQ20 – Ossirian |
+| Wand | **Touch of Chaos** | ZG – Hakkar |
 
 ---
 
 ## ✝️ Raid Setup (Healing Backup)
 
-*(Switch into Prophecy/Wisdom set + sustain)*
-
-| Slot | Current | Upgrade Path | Source |
-|------|---------|--------------|--------|
-| Head | **Circlet of Prophecy** ✅ | AQ/Naxx Healer Head | AQ/Naxx |
-| Shoulders | **Mantle of Prophecy** ✅ | — | |
-| Back | **Shroud of Infinite Wisdom** ✅ | — | |
-| Chest | **Robes of Prophecy** ✅ | AQ Healer Robe | AQ |
-| Wrists | **Zandalar Confessor’s Bindings** ✅ | — | |
-| Hands | **Desert Bloom Gloves** ✅ | AQ Healer Gloves | AQ |
-| Waist | **Ban’thok Sash** ✅ | **Zandalar Confessor’s Belt** | ZG |
-| Legs | — | Prophecy Legs / AQ Healer Legs | |
-| Feet | — | Boots of Prophecy / AQ Healer Boots | |
-| Rings | **Fordring’s Seal + Songstone** ✅ | Pure +heal rings later | |
-| Trinkets | **Royal Seal + Songstone** ✅ | **Zandalarian Hero Charm** | ZG |
-| Weapon | **Eye of the Beast + Tome** ✅ | Dedicated healing staff | |
+| Slot | Item | Source |
+|------|------|--------|
+| Head | **Circlet of Prophecy** | MC – Garr |
+| Neck | **Charm of the Shifting Sands** | AQ20 Quest |
+| Shoulders | **Mantle of Prophecy** | MC – Sulfuron |
+| Back | **Shroud of Infinite Wisdom** | ZG Quest |
+| Chest | **Robes of Prophecy** | MC – Golemagg |
+| Wrists | **Zandalar Confessor’s Bindings** | ZG Quest |
+| Hands | **Desert Bloom Gloves** | AQ20 |
+| Waist | **Zandalar Confessor’s Belt** | ZG Quest |
+| Legs | **Prophecy Pants** | MC – Ragnaros |
+| Feet | **Boots of Prophecy** | MC – Golemagg |
+| Rings | **Fordring’s Seal** | Quest |
+| Rings | **Pure +heal Rings** | AQ40 / Naxx |
+| Trinkets | **Royal Seal of Eldre’Thalas + Zandalarian Hero Charm** | DM + ZG |
+| Weapon | **Eye of the Beast + Tome of the Lost** | UBRS + Strat |
+| Wand | **Touch of Chaos** | ZG – Hakkar |
 
 ---
 
 ## ⚔️ PvP Setup
-
-| Slot | Setup |
-|------|-------|
-| Head | **Spellweaver’s Turban** |
-| Neck | **Charm of the Shifting Sands** |
-| Shoulders | **ZG or PvP shoulders** |
-| Back | **Spritecaster Cape** |
-| Chest | **Robe of Volatile Power** |
-| Wrists | **Rockfury Bracers** |
-| Hands | **Gloves of Dark Wisdom** |
-| Waist | **Ban’thok Sash** |
-| Legs | **Flarecore Leggings** |
-| Feet | **Betrayer’s Boots** |
-| Rings | **Fordring’s Seal + Band of Servitude** |
-| Trinkets | **Eye of Moam + Insignia of the Alliance** ✅ |
-| Weapon | **Scepter of the Unholy + Tome of the Lost** |
-| Wand | **Touch of Chaos** ✅ |
+- **Spellweaver’s Turban** (crit burst)  
+- **Charm of the Shifting Sands**  
+- **Cloak of Consumption** (ZG)  
+- **Robe of Volatile Power**  
+- **Rockfury Bracers**  
+- **Gloves of Dark Wisdom**  
+- **Flarecore Leggings**  
+- **Betrayer’s Boots**  
+- **Insignia of the Alliance**  
+- **Eye of Moam** + **Royal Seal** (sustain/burst mix)  
+- **Touch of Chaos** (burst wand)  
 
 ---
 
 ## 🌿 Solo / Farming
-
-| Slot | Setup |
-|------|-------|
-| Head | **Spellweaver’s Turban** |
-| Neck | **Charm of the Shifting Sands** |
-| Shoulders | **Felcloth Shoulders** |
-| Back | **Spritecaster Cape** → **Cloak of Consumption (ZG)** |
-| Chest | **Robe of Volatile Power** |
-| Wrists | **Rockfury Bracers** |
-| Hands | **Gloves of Dark Wisdom** |
-| Waist | **Ban’thok Sash** |
-| Legs | **Flarecore Leggings** |
-| Feet | **Betrayer’s Boots** |
-| Rings | **Fordring’s Seal + Band of Servitude** |
-| Trinkets | **Royal Seal (mp5) + Eye of Moam** |
-| Weapon | **Scepter of the Unholy + Tome of the Lost** |
-| Wand | **Touch of Chaos** ✅ |
-
----
-
-# 📌 Key Notes
-- ✅ **Hunterin Ahhotep** → alle PvP-Items + Stormpike R6 korrekt.  
-- ✅ **Priesterin Hatschepsut** → **Touch of Chaos** BiS Wand eingetragen.  
-- Upgrade-Sources sind jetzt klar benannt (**MC, BWL, AQ20, AQ40, ZG**).  
-- `—` steht nicht mehr, sondern *Upgrade fehlt* oder *kein BiS nötig*.  
+- **Spellweaver’s Turban**  
+- **Charm of the Shifting Sands**  
+- **Felcloth Shoulders** (cheap repair)  
+- **Cloak of Consumption** (ZG)  
+- **Robe of Volatile Power**  
+- **Rockfury Bracers**  
+- **Gloves of Dark Wisdom**  
+- **Ban’thok Sash**  
+- **Flarecore Leggings**  
+- **Betrayer’s Boots**  
+- **Royal Seal of Eldre’Thalas** + **Eye of Moam**  
+- **Scepter of the Unholy + Tome of the Lost**  
+- **Touch of Chaos**  
 
 ---
