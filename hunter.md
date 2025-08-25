@@ -1,4 +1,4 @@
-# 🏹 Marksmanship Hunter – Gear Guide (Classic Era Phase 5)
+# 🏹 Marksmanship Hunter – Gear Guide (Classic Phase 5)
 
 **Spec:** Marksmanship DPS  
 **Patch:** 1.15.7 – Phase 5  
