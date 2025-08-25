@@ -29,7 +29,7 @@
 
 ---
 
-# 🏹 Marksmanship Hunter – Gear Guide (Classic Phase 5)
+# 🏹 Marksmanship Hunter – Gear Guide (Classic Era Phase 5)
 
 **Character:** Ahhotep  
 **Spec:** Marksmanship DPS  
