@@ -1,4 +1,4 @@
-# 🔮 Shadow Priest – Gear Guide (Classic Era Phase 5)
+# 🔮 Shadow Priest – Gear Guide (Classic Phase 5)
 
 **Spec:** Shadow DPS (with Healing Backup)  
 **Patch:** 1.15.7 – Phase 5  
@@ -22,34 +22,32 @@
 - Trinkets: **Eye of Moam**, **Songstone**, **Royal Seal of Eldre’Thalas**  
 - Weapon: **Scepter of the Unholy**, **Simone’s Cultivating Hammer**, **Eye of the Beast**  
 - Off-hand: **Tome of the Lost**  
-- Wand: **Sparkling Crystal Wand**  
+- Wand: **Touch of Chaos** ✅  
 
 ---
 
 ## 🔥 Raid Setup (Shadow DPS)
-Optimized for damage and raid debuff contribution.
-
 | Slot | Current | Upgrade Path | Notes |
 |------|---------|--------------|-------|
-| Head | **Spellweaver’s Turban** | T2.5 AQ40 Head | Best pre-AQ40 Shadow head. |
-| Neck | **Charm of the Shifting Sands** | — | BiS until Naxx. |
-| Shoulders | — | **Mantle of the Blackwing Cabal (BWL)** | Major DPS upgrade, farm Razorgore. |
-| Back | **Spritecaster Cape** | **Cloak of Consumption (ZG)** | Must-have dmg cloak. |
-| Chest | **Robe of Volatile Power** | **Garb of Royal Ascension (AQ40)** | Strong DPS upgrade. |
-| Wrists | **Rockfury Bracers** | — | BiS forever. |
-| Hands | **Gloves of Dark Wisdom** | **Gloves of the Messiah (AQ40)** | Messiah > Dark Wisdom. |
-| Waist | **Ban’thok Sash** | **Sash of Whispered Secrets (MC)** | Core DPS belt. |
-| Legs | **Flarecore Leggings** | AQ40 T2.5 Legs | Stronger scaling later. |
-| Feet | **Betrayer’s Boots** | **Boots of Epiphany (AQ40)** | Better dmg scaling. |
-| Rings | **Band of Servitude + Songstone** | **Band of Forced Concentration (BWL) + Ring of Spell Power (MC)** | Farm upgrades. |
-| Trinkets | **Eye of Moam + Royal Seal** | **Neltharion’s Tear (BWL) + Briarwood Reed (UBRS)** | DPS > healing trinkets. |
-| Weapon | **Scepter of the Unholy + Tome of the Lost** | **Staff of the Ruins (AQ20)** | Huge upgrade. |
-| Wand | **Sparkling Crystal Wand** | **Touch of Chaos (ZG)** | Must-have DPS wand. |
+| Head | **Spellweaver’s Turban** | AQ40 T2.5 Head | |
+| Neck | **Charm of the Shifting Sands** | — | |
+| Shoulders | — | **Mantle of the Blackwing Cabal (BWL)** | |
+| Back | **Spritecaster Cape** | **Cloak of Consumption (ZG)** | |
+| Chest | **Robe of Volatile Power** | **Garb of Royal Ascension (AQ40)** | |
+| Wrists | **Rockfury Bracers** | — | |
+| Hands | **Gloves of Dark Wisdom** | **Gloves of the Messiah (AQ40)** | |
+| Waist | **Ban’thok Sash** | **Sash of Whispered Secrets (MC)** | |
+| Legs | **Flarecore Leggings** | AQ40 T2.5 Legs | |
+| Feet | **Betrayer’s Boots** | **Boots of Epiphany (AQ40)** | |
+| Rings | **Band of Servitude + Songstone** | **Band of Forced Concentration (BWL) + Ring of Spell Power (MC)** | |
+| Trinkets | **Eye of Moam + Royal Seal** | **Neltharion’s Tear (BWL) + Briarwood Reed (UBRS)** | |
+| Weapon | **Scepter of the Unholy + Tome of the Lost** | **Staff of the Ruins (AQ20)** | |
+| Wand | **Touch of Chaos (ZG)** | — | BiS wand pre-Naxx |
 
 ---
 
 ## ✝️ Raid Setup (Healing Backup)
-Switch into Prophecy/Wisdom set + sustain.
+Switch into Prophecy/Wisdom set.
 
 | Slot | Current | Upgrade Path | Notes |
 |------|---------|--------------|-------|
@@ -59,24 +57,24 @@ Switch into Prophecy/Wisdom set + sustain.
 | Chest | **Robes of Prophecy** | AQ Healer Robe | |
 | Wrists | **Zandalar Confessor’s Bindings** | — | |
 | Hands | **Desert Bloom Gloves** | AQ Healer Gloves | |
-| Waist | **Ban’thok Sash** | **Zandalar Confessor’s Belt** | Healing belt upgrade. |
+| Waist | **Ban’thok Sash** | **Zandalar Confessor’s Belt** | Healing upgrade |
 | Legs | — | Prophecy Legs / AQ Healer Legs | |
 | Feet | — | Boots of Prophecy / AQ Healer Boots | |
 | Rings | **Fordring’s Seal + Songstone** | Pure +heal rings later | |
-| Trinkets | **Royal Seal + Songstone** | **Zandalarian Hero Charm (ZG)** | Best healing trinket combo. |
-| Weapon | **Eye of the Beast + Tome** | Dedicated healing weapon later | |
+| Trinkets | **Royal Seal + Songstone** | **Zandalarian Hero Charm (ZG)** | |
+| Weapon | **Eye of the Beast + Tome** | Healing staff later | |
 
 ---
 
 ## ⚔️ PvP Setup
-Survivability + burst with CC trinket.
+Survivability + burst.
 
 | Slot | Setup |
 |------|-------|
-| Head | **Spellweaver’s Turban** (crit burst) |
+| Head | **Spellweaver’s Turban** |
 | Neck | **Charm of the Shifting Sands** |
-| Shoulders | Replace Felcloth → **ZG or PvP shoulders** |
-| Back | **Spritecaster Cape** (stamina heavy) |
+| Shoulders | **PvP/ZG shoulders** |
+| Back | **Spritecaster Cape** |
 | Chest | **Robe of Volatile Power** |
 | Wrists | **Rockfury Bracers** |
 | Hands | **Gloves of Dark Wisdom** |
@@ -86,19 +84,19 @@ Survivability + burst with CC trinket.
 | Rings | **Fordring’s Seal + Band of Servitude** |
 | Trinkets | **Eye of Moam + Insignia of the Alliance** |
 | Weapon | **Scepter of the Unholy + Tome of the Lost** |
-| Wand | **Sparkling Crystal Wand** → Upgrade: **Touch of Chaos (ZG)** |
+| Wand | **Touch of Chaos (ZG)** |
 
 ---
 
 ## 🌿 Solo / Farming
-Mana sustain + DPS mix.
+Mana sustain + DPS.
 
 | Slot | Setup |
 |------|-------|
 | Head | **Spellweaver’s Turban** |
 | Neck | **Charm of the Shifting Sands** |
-| Shoulders | **Felcloth Shoulders** (cheaper repair) |
-| Back | **Spritecaster Cape** → Upgrade: **Cloak of Consumption (ZG)** |
+| Shoulders | **Felcloth Shoulders** |
+| Back | **Spritecaster Cape** → **Cloak of Consumption (ZG)** |
 | Chest | **Robe of Volatile Power** |
 | Wrists | **Rockfury Bracers** |
 | Hands | **Gloves of Dark Wisdom** |
@@ -106,17 +104,8 @@ Mana sustain + DPS mix.
 | Legs | **Flarecore Leggings** |
 | Feet | **Betrayer’s Boots** |
 | Rings | **Fordring’s Seal + Band of Servitude** |
-| Trinkets | **Royal Seal (mp5) + Eye of Moam** |
+| Trinkets | **Royal Seal + Eye of Moam** |
 | Weapon | **Scepter of the Unholy + Tome of the Lost** |
-| Wand | **Sparkling Crystal Wand** → Upgrade: **Touch of Chaos** |
-
----
-
-## 📌 Key Notes
-- **Royal Seal of Eldre’Thalas** is **healing/sustain only**, never DPS.  
-- **Rockfury Bracers, Spellweaver Turban, Eye of Moam** = core Shadow DPS items you already own.  
-- **Raid DPS priority farm** = Mantle of the Blackwing Cabal, Cloak of Consumption, Band of Forced Concentration.  
-- **PvP** = stamina + Insignia of the Alliance always.  
-- **Solo** = mix dmg/mp5, Royal Seal great here.  
+| Wand | **Touch of Chaos (ZG)** |
 
 ---
