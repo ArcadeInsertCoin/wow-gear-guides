@@ -1,91 +1,111 @@
-# 🎮 Classic Era Gear Guide (Phase 5)  
-**Account:** ArcadeInsertCoin  
-**Patch:** 1.15.7 – AQ40 Phase  
+# 🏹 Marksmanship Hunter – Full Gear Guide (Classic Era Phase 5)
+
+**Spec:** Marksmanship DPS  
+**Patch:** 1.15.7 – Phase 5  
 **Server:** PvE  
 
 ---
 
-# 🏹 Hunter (Marksmanship – Rank 10)
+## 🔥 Raid Gear (MC / BWL / AQ20 / AQ40 / ZG / Onyxia)
 
-## Gear by Slot
+### Molten Core (MC)
+| Item | Slot | Source |
+|------|------|--------|
+| **Wristguards of True Flight** | Wrists | Majordomo Executus |
+| **Dragonstalker’s Legguards** | Legs | Ragnaros (~20%) |
+| **Band of Accuria** | Ring | Ragnaros (~24%) |
+| **Choker of the Firelord** | Neck | Ragnaros |
 
-### 👑 Head
-- **Current:** Rank 10 PvP Helm  
-- **Raid:** Giantstalker Helm (MC – Garr) → later **Striker’s Diadem** (AQ40)  
-- **PvP:** Rank 10 Helm (Stamina heavy)  
-- **Solo:** Rank 10 Helm (allround stats)  
-➡️ Upgrade: Striker’s Diadem (AQ40 BiS)  
+---
 
-### 🧿 Neck
-- **Current:** Eye of Hakkar  
-- **Raid:** Onyxia Tooth Pendant (Ony) or Prestor’s Talisman (BWL)  
-- **PvP:** Eye of Hakkar (Stamina/crit mix)  
-- **Solo:** Eye of Hakkar (good balance)  
+### Blackwing Lair (BWL)
+| Item | Slot | Source |
+|------|------|--------|
+| **Prestor’s Talisman of Connivery** | Neck | Various Bosses (~30%) |
+| **Drake Fang Talisman** | Trinket | Ebonroc (~33%) |
+| **Black Brood Pauldrons** | Shoulders | Chromaggus |
 
-### 🛡️ Shoulders
-- **Current:** Giantstalker Epaulets  
-- **Raid:** Giantstalker until Striker’s Spaulders (AQ40)  
-- **PvP:** PvP Shoulders (Stamina focus)  
-- **Solo:** Giantstalker for hit/crit  
+---
 
-### 🧥 Back
-- **Current:** Earthweave Cloak / Cloak of the Shrouded Mists  
-- **Raid:** Cloak of the Shrouded Mists (crit/agility)  
-- **PvP:** Earthweave Cloak (more stamina)  
-- **Solo:** Shrouded Mists (damage boost)  
+### Zul’Gurub (ZG)
+| Item | Slot | Source |
+|------|------|--------|
+| **Blooddrenched Footpads** | Feet | High Priest Venoxis (~17%) |
+| **Zandalar Predator’s Belt** | Waist | Quest – ZG |
+| **Zandalar Predator’s Bracers** | Wrists | Quest – ZG |
 
-### 🥼 Chest
-- **Current:** Giantstalker Breastplate  
-- **Raid:** Giantstalker → later Striker’s Hauberk (AQ40 BiS)  
-- **PvP:** Rank 10 Chest (higher stamina)  
-- **Solo:** Giantstalker (versatile DPS)  
+---
 
-### ⛓️ Wrists
-- **Current:** Sandreaver Wristguards  
-- **Raid:** Sandreaver = solid until AQ40 Bindings (Striker’s Bindings)  
-- **PvP:** PvP bracers or Sandreaver (ok stamina)  
-- **Solo:** Sandreaver (solid stats)  
+### AQ20
+| Item | Slot | Source |
+|------|------|--------|
+| **Cloak of the Unseen Path** | Back | Quest Reward |
+| **Ossirian's Binding** | Wrists | Ossirian the Unscarred |
 
-### 🧤 Hands
-- **Current:** Giantstalker Gloves  
-- **Raid:** Giantstalker Gloves → later Striker’s Gauntlets (AQ40 BiS)  
-- **PvP:** PvP Gloves (stamina)  
-- **Solo:** Giantstalker (fine DPS)  
+---
 
-### 🪢 Waist
-- **Current:** Zandalar Predator’s Belt  
-- **Raid:** Predator’s Belt → upgrade **Belt of Never-ending Agony (AQ40 C’Thun Quest)**  
-- **PvP:** Predator’s Belt (balanced stats)  
-- **Solo:** Predator’s Belt  
+### AQ40
+| Item | Slot | Source |
+|------|------|--------|
+| **Striker’s Diadem** | Head | Various Bosses |
+| **Striker’s Hauberk** | Chest | Various Bosses |
+| **Cloak of Concentrated Hatred** | Back | Twin Emperors |
 
-### 🦵 Legs
-- **Current:** Rank 10 Legs  
-- **Raid:** Dragonstalker’s Legguards (MC – Ragnaros) → later Striker’s Leggings (AQ40)  
-- **PvP:** Rank 10 Legs (best stamina)  
-- **Solo:** Dragonstalker’s (more damage)  
+---
 
-### 🥾 Feet
-- **Current:** Blooddrenched Footpads  
-- **Raid:** Boots of the Shadow Flame (BWL – Nefarian)  
-- **PvP:** PvP Boots / Blooddrenched (good Stamina/crit)  
-- **Solo:** Blooddrenched  
+### Onyxia’s Lair
+| Item | Slot | Source |
+|------|------|--------|
+| **Onyxia Tooth Pendant** | Neck | Onyxia |
 
-### 💍 Rings
-- **Current:** Don Julio’s Band, Signet of Bronze Dragonflight  
-- **Raid:** Don Julio’s + Band of Accuria (MC – Ragnaros)  
-- **PvP:** Bronze Dragonflight Ring + Don Julio’s  
-- **Solo:** Don Julio’s + Bronze Dragonflight  
+---
 
-### 📜 Trinkets
-- **Current:** Blackhand’s Breadth, Royal Seal, Stormpike Insignia  
-- **Raid:** Blackhand’s Breadth + Royal Seal (swap → Drakefang Talisman, Devilsaur Eye later)  
-- **PvP:** Insignia of the Alliance + Blackhand’s Breadth  
-- **Solo:** Royal Seal + Blackhand’s (mana + DPS)  
+### Dungeons
+| Item | Slot | Source |
+|------|------|--------|
+| **Huntsman’s Harpoon** | Weapon | Dire Maul East – Isalien (~17%) |
+| **Barbarous Blade** | Weapon | Dire Maul North – King Gordok (~24%) |
+| **Blackhand’s Breadth** | Trinket | UBRS Quest |
+| **Royal Seal of Eldre’Thalas** | Trinket | DM Quest |
+| **Trueflight Gauntlets** | Hands | Dire Maul Drop |
 
-### ⚔️ Weapons
-- **Current:** Rhok’delar (Bow), Lok’delar (Staff)  
-- **Raid:** Class weapons stay BiS until AQ/Naxx  
-- **PvP:** Same, + use Engineering gadgets (Iron Grenade etc.)  
-- **Solo:** Rhok’delar (no ammo costs)  
+---
+
+## ⚔️ PvP Gear (Battlegrounds / World PvP)
+
+| Item | Slot | Source |
+|------|------|--------|
+| **Rank 10 PvP Set** | Multiple | PvP Rewards |
+| **High Warlord’s/Grand Marshal Ranged Weapon** | Ranged | PvP Rewards |
+| **Surestrike Goggles v2.0** | Head | Engineering |
+| **Royal Seal of Eldre’Thalas** | Trinket | DM Quest |
+| **Blackhand’s Breadth** | Trinket | UBRS Quest |
+| **Earthweaver Cloak** | Back | Quest Reward |
+| **Engi Gadgets (Net-o-Matic, Reflectors, Grenades)** | Utility | Engineering |
+
+✅ PvP Fokus: **Stamina + Burst** → Engi Items sind Pflicht.  
+
+---
+
+## 🐺 Solo / Farming Gear
+
+| Item | Slot | Source |
+|------|------|--------|
+| **Rank 10 PvP Set** | Multiple | PvP Rewards |
+| **Royal Seal of Eldre’Thalas** | Trinket | DM Quest |
+| **Devilsaur Eye** | Trinket | Quest Reward |
+| **Zandalar Predator’s Set (3/5)** | Set Bonus | ZG |
+| **Engi Gadgets** | Utility | Engineering |
+
+✅ Solo Fokus: **Überleben + Sustain** → Mehr Stamina, ZG Set für Sustain, Trinkets flexibel.  
+
+---
+
+# 📌 Next Goals (Phase 5 BiS Progression)
+1. 🐉 **Prestor’s Talisman of Connivery** (BWL) → Replace Eye of Hakkar  
+2. 🐉 **Drake Fang Talisman** (BWL) → Replace Devilsaur Eye  
+3. 🏯 **Striker’s Diadem + Hauberk** (AQ40) → Replace Giantstalker / R10 Gear  
+4. 🏯 **Cloak of Concentrated Hatred** (AQ40) → Replace Earthweaver Cloak  
+5. 🔥 **Band of Accuria** (MC) → If not obtained  
 
 ---
