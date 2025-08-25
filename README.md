@@ -4,7 +4,7 @@
 ![Hunter](https://img.shields.io/badge/Class-Hunter-ffcc00?style=for-the-badge&logo=wowl)
 ![Priest](https://img.shields.io/badge/Class-Priest-ffffff?style=for-the-badge&logo=wowl)
 ![Phase](https://img.shields.io/badge/Phase-5-red?style=for-the-badge)
-![Patch](https://img.shields.io/badge/Patch-1.15.7-blue?style=for-the-badge)
+![Patch](https://img.shields.io/badge/Patch-1.15.7.61582-blue?style=for-the-badge)
 
 ---
 
