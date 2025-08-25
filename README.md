@@ -1,4 +1,4 @@
-# 🏹 Ahhotep & 🔮 Hatschepsut – Classic Era Gear Guide
+# 🏹 Ahhotep & 🔮 Hatschepsut – Classic Anniversary Gear Guide
 
 **Patch:** 1.15.7 – Phase 5  
 **Server:** PvE  
@@ -8,12 +8,12 @@
 ---
 
 ## 📑 Table of Contents
-- [🏹 Ahhotep – Marksmanship Hunter](#-ahhotep--marksmanship-hunter-gear-guide-classic-era-phase-5)  
+- [🏹 Ahhotep – Marksmanship Hunter](#-ahhotep--marksmanship-hunter-gear-guide-classic-anniversary-phase-5)  
   - 🎒 Current Gear  
   - 🔥 Raid Setup  
   - ⚔️ PvP Setup  
   - 🌿 Solo / Farming  
-- [🔮 Hatschepsut – Shadow Priest](#-hatschepsut--shadow-priest-gear-guide-classic-era-phase-5)  
+- [🔮 Hatschepsut – Shadow Priest](#-hatschepsut--shadow-priest-gear-guide-classic-anniversary-phase-5)  
   - 🎒 Current Gear  
   - 🔥 Raid Setup (Shadow DPS)  
   - ✝️ Raid Setup (Healing Backup)  
@@ -22,7 +22,7 @@
 
 ---
 
-# 🏹 Ahhotep – Marksmanship Hunter (Classic Era Phase 5)
+# 🏹 Ahhotep – Marksmanship Hunter (Classic Phase 5)
 
 ![Hunter Badge](https://img.shields.io/badge/Hunter-Marksman-2ecc71?logo=icloud&logoColor=white)
 
@@ -90,7 +90,7 @@
 
 ---
 
-# 🔮 Hatschepsut – Shadow Priest (Classic Era Phase 5)
+# 🔮 Hatschepsut – Shadow Priest (Classic Phase 5)
 
 ![Priest Badge](https://img.shields.io/badge/Priest-Shadow-9b59b6?logo=icloud&logoColor=white)
 
