@@ -1,155 +1,170 @@
-# ⚔️ Classic WoW Gear Guides
+# ⚔️ Classic WoW Gear Dashboard
 
-![Hunter](https://img.shields.io/badge/Class-Hunter-ffcc00?style=for-the-badge&logo=wowl)
-![Priest](https://img.shields.io/badge/Class-Priest-ffffff?style=for-the-badge&logo=wowl)
 ![Phase](https://img.shields.io/badge/Phase-5-red?style=for-the-badge)
 ![Patch](https://img.shields.io/badge/Patch-1.15.7-blue?style=for-the-badge)
 
 ---
 
 ## 📑 Table of Contents
-- [🏹 Marksmanship Hunter](#-marksmanship-hunter--gear-guide-classic-anniversary-phase-5)  
-  - 🎒 Current Gear  
-  - 🔥 Raid Setup  
-  - ⚔️ PvP Setup  
-  - 🌿 Solo / Farming  
-- [🔮 Shadow Priest](#-shadow-priest--gear-guide-classic-anniversary-phase-5)  
-  - 🎒 Current Gear  
-  - 🔥 Raid Setup (Shadow DPS)  
-  - ✝️ Raid Setup (Healing Backup)  
-  - ⚔️ PvP Setup  
-  - 🌿 Solo / Farming  
+- [🏹 Marksmanship Hunter](#-marksmanship-hunter--gear-dashboard)
+- [🔮 Shadow Priest](#-shadow-priest--gear-dashboard)
 
 ---
 
-# 🏹 Marksmanship Hunter – Gear Guide (Classic Anniversary Phase 5)
+# 🏹 Marksmanship Hunter – Gear Dashboard
 
 **Spec:** Marksmanship DPS  
-**Patch:** 1.15.7 – Phase 5  
 **Server:** PvE  
 
----
-
-## 🎒 Current Gear (Owned ✅)
-- Head: ✅ **Striker's Diadem**  
-- Neck: ✅ **Prestor's Talisman of Connivery (BWL)**  
-- Shoulders: ✅ **Giantstalker Epaulets**  
-- Back: ✅ **Earthweaver Cloak**  
-- Chest: ✅ **Giantstalker Breastplate**  
-- Wrists: —  
-- Hands: ✅ **Giantstalker Gloves**  
-- Waist: ✅ **Zandalar Predator’s Belt**  
-- Legs: —  
-- Feet: ✅ **Blooddrenched Footpads (ZG)**  
-- Rings: ✅ **Royal Seal of Eldre’Thalas**  
-- Trinkets: ✅ **Devilsaur Eye**, ✅ **Blackhand’s Breadth**  
-- Weapons: —  
-- Ranged: —  
-
----
-
-## 🔥 Raid Setup (Optimized DPS)
-| Slot | Current | Upgrade Path | Notes |
-|------|---------|--------------|-------|
-| Head | ✅ **Striker’s Diadem** | AQ40 | BiS |
-| Neck | ✅ **Prestor’s Talisman of Connivery (BWL)** | — | |
-| Shoulders | ✅ **Giantstalker Epaulets** | AQ40 T2.5 | |
-| Back | ✅ **Earthweaver Cloak** | AQ20 Cloak of the Unseen Path | |
-| Chest | ✅ **Giantstalker Breastplate** | Striker’s Hauberk (AQ40) | |
-| Wrists | — | Ossirian’s Binding (AQ20) | |
-| Hands | ✅ **Giantstalker Gloves** | AQ40 upgrade | |
-| Waist | ✅ **Zandalar Predator’s Belt** | AQ40 upgrade | |
-| Legs | — | Dragonstalker’s Legguards (MC Ragnaros) | |
-| Feet | ✅ **Blooddrenched Footpads (ZG)** | — | BiS early |
-| Rings | ✅ **Royal Seal of Eldre’Thalas** | Band of Accuria (MC) | |
-| Trinkets | ✅ **Devilsaur Eye + Blackhand’s Breadth** | Drake Fang Talisman (BWL) | |
-| Weapons | — | AQ40 / Naxx upgrade | |
-| Ranged | — | Upgrade later | |
+### 🎒 Current Gear
+| Slot | Item | Status |
+|------|------|--------|
+| Head | Striker's Diadem | ✅ Owned |
+| Neck | Prestor's Talisman (BWL) | ✅ Owned |
+| Shoulders | Giantstalker Epaulets | ✅ Owned 🔼 AQ40 Upgrade |
+| Back | Earthweaver Cloak | ✅ Owned 🔼 AQ20 Upgrade |
+| Chest | Giantstalker Breastplate | ✅ Owned 🔼 AQ40 Upgrade |
+| Wrists | — | 🔼 Ossirian's Binding (AQ20) |
+| Hands | Giantstalker Gloves | ✅ Owned 🔼 AQ40 Upgrade |
+| Waist | Zandalar Predator’s Belt | ✅ Owned 🔼 AQ40 Upgrade |
+| Legs | — | 🔼 Dragonstalker's Legguards (MC) |
+| Feet | Blooddrenched Footpads | ✅ Owned |
+| Rings | Royal Seal of Eldre’Thalas | ✅ Owned 🔼 Band of Accuria (MC) |
+| Trinkets | Devilsaur Eye, Blackhand's Breadth | ✅ Owned 🔼 Drake Fang Talisman (BWL) |
+| Weapons | — | 🔼 AQ40/Naxx Upgrade |
+| Ranged | — | 🔼 Upgrade Later |
 
 ---
 
-## ⚔️ PvP Setup
-- Full Rank 10 Set ✅  
-- Trinkets: ✅ **Devilsaur Eye + Insignia of the Alliance**  
-- Stamina-heavy cloak/neck options for duels  
+### 🔥 Raid Setup
+| Slot | Item | Status | Notes |
+|------|------|--------|-------|
+| Head | Striker's Diadem | ✅ Owned | BiS |
+| Neck | Prestor's Talisman (BWL) | ✅ Owned | — |
+| Shoulders | Giantstalker Epaulets | ✅ Owned 🔼 AQ40 | — |
+| Back | Earthweaver Cloak | ✅ Owned 🔼 Cloak of the Unseen Path (AQ20) | — |
+| Chest | Giantstalker Breastplate | ✅ Owned 🔼 Striker’s Hauberk (AQ40) | — |
+| Wrists | — | 🔼 Ossirian's Binding (AQ20) | — |
+| Hands | Giantstalker Gloves | ✅ Owned 🔼 AQ40 Gloves | — |
+| Waist | Zandalar Predator’s Belt | ✅ Owned 🔼 AQ40 Upgrade | — |
+| Legs | — | 🔼 Dragonstalker’s Legguards (MC) | — |
+| Feet | Blooddrenched Footpads | ✅ Owned | BiS Early |
+| Rings | Royal Seal of Eldre’Thalas | ✅ Owned 🔼 Band of Accuria (MC) | — |
+| Trinkets | Devilsaur Eye + Blackhand's Breadth | ✅ Owned 🔼 Drake Fang Talisman (BWL) | — |
+| Weapons | — | 🔼 AQ40/Naxx Upgrade | — |
+| Ranged | — | 🔼 Upgrade Later | — |
 
 ---
 
-## 🌿 Solo / Farming
-- Use ✅ **Royal Seal of Eldre’Thalas** for mana sustain  
-- Keep ✅ **Blooddrenched Footpads** and ✅ **Blackhand’s Breadth** for balanced dmg  
+### ⚔️ PvP Setup
+| Slot | Item | Status |
+|------|------|--------|
+| Head | Striker's Diadem | ✅ Owned |
+| Neck | Prestor's Talisman | ✅ Owned |
+| Shoulders | Giantstalker Epaulets | ✅ Owned |
+| Back | Earthweaver Cloak | ✅ Owned |
+| Chest | Giantstalker Breastplate | ✅ Owned |
+| Wrists | — | — |
+| Hands | Giantstalker Gloves | ✅ Owned |
+| Waist | Zandalar Predator’s Belt | ✅ Owned |
+| Legs | — | — |
+| Feet | Blooddrenched Footpads | ✅ Owned |
+| Rings | Royal Seal of Eldre’Thalas | ✅ Owned |
+| Trinkets | Devilsaur Eye + Blackhand's Breadth | ✅ Owned |
+| Weapons | — | — |
+| Ranged | — | — |
 
 ---
 
-# 🔮 Shadow Priest – Gear Guide (Classic Anniversary Phase 5)
+### 🌿 Solo / Farming
+| Slot | Item | Status |
+|------|------|--------|
+| Head | Striker's Diadem | ✅ Owned |
+| Neck | Prestor's Talisman | ✅ Owned |
+| Shoulders | Giantstalker Epaulets | ✅ Owned |
+| Back | Earthweaver Cloak | ✅ Owned 🔼 Cloak of Consumption (ZG) |
+| Chest | Giantstalker Breastplate | ✅ Owned |
+| Wrists | — | — |
+| Hands | Giantstalker Gloves | ✅ Owned |
+| Waist | Zandalar Predator’s Belt | ✅ Owned |
+| Legs | — | — |
+| Feet | Blooddrenched Footpads | ✅ Owned |
+| Rings | Royal Seal of Eldre’Thalas | ✅ Owned |
+| Trinkets | Devilsaur Eye + Blackhand's Breadth | ✅ Owned |
+| Weapons | — | — |
+| Ranged | — | — |
+
+---
+
+# 🔮 Shadow Priest – Gear Dashboard
 
 **Spec:** Shadow DPS (with Healing Backup)  
-**Patch:** 1.15.7 – Phase 5  
 **Server:** PvE  
-**Professions:** Herbalism 🌿 / Enchanting ✨  
+
+### 🎒 Current Gear
+| Slot | Item | Status |
+|------|------|--------|
+| Head | Spellweaver’s Turban, Circlet of Prophecy | ✅ Owned |
+| Neck | Charm of the Shifting Sands | ✅ Owned |
+| Shoulders | Felcloth Shoulders, Mantle of Prophecy | ✅ Owned 🔼 BWL Upgrade |
+| Back | Spritecaster Cape, Shroud of Infinite Wisdom | ✅ Owned 🔼 Cloak of Consumption (ZG) |
+| Chest | Robe of Volatile Power, Robes of Prophecy | ✅ Owned 🔼 Garb of Royal Ascension (AQ40) |
+| Wrists | Rockfury Bracers, Zandalar Confessor’s Bindings | ✅ Owned |
+| Hands | Felcloth Gloves, Gloves of Dark Wisdom, Desert Bloom Gloves | ✅ Owned 🔼 Gloves of the Messiah (AQ40) |
+| Waist | Ban’thok Sash | ✅ Owned 🔼 Sash of Whispered Secrets (MC) |
+| Legs | Flarecore Leggings | ✅ Owned 🔼 AQ40 T2.5 Legs |
+| Feet | Betrayer’s Boots | ✅ Owned 🔼 Boots of Epiphany (AQ40) |
+| Rings | Band of Servitude, Songstone, Fordring’s Seal | ✅ Owned 🔼 Band of Forced Concentration (BWL), Ring of Spell Power (MC) |
+| Trinkets | Eye of Moam, Songstone, Royal Seal of Eldre’Thalas | ✅ Owned 🔼 Neltharion’s Tear (BWL), Briarwood Reed (UBRS) |
+| Weapon | Scepter of the Unholy, Simone’s Cultivating Hammer, Eye of the Beast | ✅ Owned 🔼 Staff of the Ruins (AQ20) |
+| Off-hand | Tome of the Lost | ✅ Owned |
+| Wand | Touch of Chaos | ✅ Owned |
 
 ---
 
-## 🎒 Current Gear (Owned ✅)
-- Head: ✅ **Spellweaver’s Turban**, ✅ **Circlet of Prophecy**  
-- Neck: ✅ **Charm of the Shifting Sands**  
-- Shoulders: ✅ **Felcloth Shoulders**, ✅ **Mantle of Prophecy**  
-- Back: ✅ **Spritecaster Cape**, ✅ **Shroud of Infinite Wisdom**  
-- Chest: ✅ **Robe of Volatile Power**, ✅ **Robes of Prophecy**  
-- Wrists: ✅ **Rockfury Bracers**, ✅ **Zandalar Confessor’s Bindings**  
-- Hands: ✅ **Felcloth Gloves**, ✅ **Gloves of Dark Wisdom**, ✅ **Desert Bloom Gloves**  
-- Waist: ✅ **Ban’thok Sash**  
-- Legs: ✅ **Flarecore Leggings**  
-- Feet: ✅ **Betrayer’s Boots**  
-- Rings: ✅ **Band of Servitude**, ✅ **Songstone of Ironforge**, ✅ **Fordring’s Seal**  
-- Trinkets: ✅ **Eye of Moam**, ✅ **Songstone**, ✅ **Royal Seal of Eldre’Thalas**  
-- Weapon: ✅ **Scepter of the Unholy**, ✅ **Simone’s Cultivating Hammer**, ✅ **Eye of the Beast**  
-- Off-hand: ✅ **Tome of the Lost**  
-- Wand: ✅ **Touch of Chaos (ZG)**  
+### 🔥 Raid Setup (Shadow DPS)
+| Slot | Item | Status | Notes |
+|------|------|--------|-------|
+| Head | Spellweaver’s Turban | ✅ Owned | BiS |
+| Neck | Charm of the Shifting Sands | ✅ Owned | BiS until Naxx |
+| Shoulders | Mantle of Prophecy | ✅ Owned 🔼 Mantle of the Blackwing Cabal (BWL) | DPS upgrade |
+| Back | Spritecaster Cape | ✅ Owned 🔼 Cloak of Consumption (ZG) | — |
+| Chest | Robe of Volatile Power | ✅ Owned 🔼 Garb of Royal Ascension (AQ40) | — |
+| Wrists | Rockfury Bracers | ✅ Owned | — |
+| Hands | Gloves of Dark Wisdom | ✅ Owned 🔼 Gloves of the Messiah (AQ40) | — |
+| Waist | Ban’thok Sash | ✅ Owned 🔼 Sash of Whispered Secrets (MC) | — |
+| Legs | Flarecore Leggings | ✅ Owned 🔼 AQ40 T2.5 Legs | — |
+| Feet | Betrayer’s Boots | ✅ Owned 🔼 Boots of Epiphany (AQ40) | — |
+| Rings | Band of Servitude + Songstone | ✅ Owned 🔼 Band of Forced Concentration (BWL), Ring of Spell Power (MC) | — |
+| Trinkets | Eye of Moam + Royal Seal | ✅ Owned 🔼 Neltharion’s Tear (BWL), Briarwood Reed (UBRS) | — |
+| Weapon | Scepter of the Unholy + Tome of the Lost | ✅ Owned 🔼 Staff of the Ruins (AQ20) | — |
+| Wand | Touch of Chaos | ✅ Owned | BiS pre-Naxx |
 
 ---
 
-## 🔥 Raid Setup (Shadow DPS)
-| Slot | Current | Upgrade Path | Notes |
-|------|---------|--------------|-------|
-| Head | ✅ **Spellweaver’s Turban** | AQ40 T2.5 | BiS |
-| Neck | ✅ **Charm of the Shifting Sands** | — | BiS until Naxx |
-| Shoulders | — | Mantle of the Blackwing Cabal (BWL) | DPS upgrade |
-| Back | ✅ **Spritecaster Cape** | Cloak of Consumption (ZG) | |
-| Chest | ✅ **Robe of Volatile Power** | Garb of Royal Ascension (AQ40) | |
-| Wrists | ✅ **Rockfury Bracers** | — | |
-| Hands | ✅ **Gloves of Dark Wisdom** | Gloves of the Messiah (AQ40) | |
-| Waist | ✅ **Ban’thok Sash** | Sash of Whispered Secrets (MC) | |
-| Legs | ✅ **Flarecore Leggings** | AQ40 T2.5 | |
-| Feet | ✅ **Betrayer’s Boots** | Boots of Epiphany (AQ40) | |
-| Rings | ✅ **Band of Servitude + Songstone** | Band of Forced Concentration (BWL), Ring of Spell Power (MC) | |
-| Trinkets | ✅ **Eye of Moam + Royal Seal** | Neltharion’s Tear (BWL), Briarwood Reed (UBRS) | |
-| Weapon | ✅ **Scepter of the Unholy + Tome of the Lost** | Staff of the Ruins (AQ20) | |
-| Wand | ✅ **Touch of Chaos (ZG)** | — | BiS pre-Naxx |
+### ⚔️ PvP Setup
+| Slot | Setup |
+|------|-------|
+| Head | Spellweaver’s Turban | ✅ Owned |
+| Neck | Charm of the Shifting Sands | ✅ Owned |
+| Shoulders | Mantle of Prophecy | ✅ Owned |
+| Back | Spritecaster Cape | ✅ Owned |
+| Chest | Robe of Volatile Power | ✅ Owned |
+| Wrists | Rockfury Bracers | ✅ Owned |
+| Hands | Gloves of Dark Wisdom | ✅ Owned |
+| Waist | Ban’thok Sash | ✅ Owned |
+| Legs | Flarecore Leggings | ✅ Owned |
+| Feet | Betrayer’s Boots | ✅ Owned |
+| Rings | Fordring’s Seal + Band of Servitude | ✅ Owned |
+| Trinkets | Eye of Moam + Touch of Chaos | ✅ Owned |
+| Weapon | Scepter of the Unholy + Tome | ✅ Owned |
+| Wand | Touch of Chaos | ✅ Owned |
 
 ---
 
-## ✝️ Raid Setup (Healing Backup)
-(Switch to Prophecy/Wisdom Set)
-
----
-
-## ⚔️ PvP Setup
-- Burst: ✅ **Spellweaver’s Turban**, ✅ **Touch of Chaos**, ✅ **Eye of Moam**  
-- Defensive: **Insignia of the Alliance**, Stamina cloak/back options  
-
----
-
-## 🌿 Solo / Farming
-- Sustain with ✅ **Royal Seal of Eldre’Thalas**  
-- Efficient AoE farming with ✅ **Rockfury Bracers + Touch of Chaos**  
-
----
-
-## 📌 Key Notes
-- ✅ All listed owned items are marked.  
-- Farm priorities: Mantle of the Blackwing Cabal, Cloak of Consumption, Band of Forced Concentration  
-- PvP = stamina + Insignia  
-- Solo/Farming = mix dmg/mp5  
-
----
+### 🌿 Solo / Farming
+| Slot | Setup | Status |
+|------|-------|--------|
+| Head | Spellweaver’s Turban | ✅ Owned |
+| Neck | Charm of the Shifting Sands | ✅ Owned |
+| Shoulders | Fel
