@@ -1,7 +1,7 @@
 # 🔮 Shadow Priest – Gear Guide (Classic Phase 5)
 
 **Spec:** Shadow DPS (with Healing Backup)  
-**Patch:** 1.15.7 – Phase 5  
+**Patch:** 1.15.7.61582 – Phase 5  
 **Server:** PvE  
 **Professions:** Herbalism 🌿 / Enchanting ✨  
 
