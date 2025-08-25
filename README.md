@@ -15,12 +15,12 @@
 ---
 
 ## 📑 Table of Contents 
-- [🏹 Marksmanship Hunter (Ahhotep)](#-marksmanship-hunter--gear-guide-classic-era-phase-5)  
+- [🏹 Marksmanship Hunter (Ahhotep)](#-marksmanship-hunter--gear-guide-classic-anniversary-phase-5)  
   - 🎒 Current Gear  
   - 🔥 Raid Setup  
   - ⚔️ PvP Setup  
   - 🌿 Solo / Farming  
-- [🔮 Shadow Priest (Hatschepsut)](#-shadow-priest--gear-guide-classic-era-phase-5)  
+- [🔮 Shadow Priest (Hatschepsut)](#-shadow-priest--gear-guide-classic-anniversary-phase-5)  
   - 🎒 Current Gear  
   - 🔥 Raid Setup (Shadow DPS)  
   - ✝️ Raid Setup (Healing Backup)  
@@ -29,7 +29,7 @@
 
 ---
 
-# 🏹 Marksmanship Hunter – Gear Guide (Classic Era Phase 5)
+# 🏹 Marksmanship Hunter – Gear Guide (Classic Anniversary Phase 5)
 
 **Character:** Ahhotep  
 **Spec:** Marksmanship DPS  
