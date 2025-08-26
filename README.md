@@ -47,11 +47,19 @@
 
 ---
 
+## 🦴 Shoulders
+| Item | Status |
+|------|--------|
+| **Giantstalker Epaulets (MC/Garr/Gehennas)** | ✅ Current |
+| **Striker’s Pauldrons (AQ40)** | 🔼 Upgrade – BiS |
+
+---
+
 ## 🧥 Back
 | Item | Status |
 |------|--------|
 | **Earthweave Cloak** | ✅ Current |
-| **Cloak of the Shrouded Mists (Onyxia)** | ✅ Current Alternative |
+| **Cloak of the Shrouded Mists (Onyxia)** | ✅ Alternative |
 | **Cloak of Concentrated Hatred (AQ40 Twins)** | 🔼 Upgrade – BiS DPS Cloak |
 
 ---
@@ -68,8 +76,23 @@
 | Item | Status |
 |------|--------|
 | **Sand Reaver Wristguards (AQ40 Trash)** | ✅ Current |
-| **Wristguards of True Flight (MC Majordomo)** | 🔼 Alternative |
-| **Ossirian’s Binding (AQ20 Ossirian)** | 🔼 Upgrade |
+| **Ossirian’s Binding (AQ20 Ossirian)** | 🔼 Upgrade (better hit/agi mix) |
+
+---
+
+## 🧤 Hands
+| Item | Status |
+|------|--------|
+| **Lieutenant Commander’s Chain Gauntlets (Rank 10 PvP)** | ✅ Current |
+| **Gloves of Rapid Evolution (AQ40)** | 🔼 BiS Upgrade |
+
+---
+
+## 🪢 Waist
+| Item | Status |
+|------|--------|
+| **Zandalar Predator’s Belt (ZG)** | ✅ Current |
+| **Striker’s Belt (AQ40)** | 🔼 Upgrade – BiS |
 
 ---
 
@@ -82,13 +105,21 @@
 
 ---
 
+## 🥾 Feet
+| Item | Status |
+|------|--------|
+| **Blooddrenched Footpads (ZG Venoxis)** | ✅ Current |
+| **Striker’s Footguards (AQ40)** | 🔼 BiS |
+
+---
+
 ## 💍 Rings
 | Item | Status |
 |------|--------|
 | **Don Julio’s Band (PvP Vendor)** | ✅ Current |
 | **Tarnished Elven Ring (Dire Maul Quest)** | ✅ Current |
 | **Band of Accuria (MC Ragnaros)** | 🔼 BiS |
-| **Ring of Precision (ZG)** | 🔼 Good Alternative |
+| **Ring of Precision (ZG)** | 🔼 Strong Alternative |
 
 ---
 
@@ -97,55 +128,29 @@
 |------|--------|
 | **Blackhand’s Breadth (UBRS Quest)** | ✅ Current |
 | **Royal Seal of Eldre’Thalas (DM Quest)** | ✅ Current |
+| **Devilsaur Eye (Quest)** | ✅ PvP Burst Trinket |
 | **Drake Fang Talisman (BWL Ebonroc)** | 🔼 BiS |
-| **Devilsaur Eye (Quest)** | 🔼 PvP Burst Trinket |
 
 ---
 
 ## ⚔️ Weapons
 | Item | Status |
 |------|--------|
-| **Barbarous Blade (DM North)** | ✅ Current |
-| **Huntsman’s Harpoon (DM East)** | ✅ Current |
-| **Class Staff (Quest)** | ✅ Current |
-| **Class Bow (Quest)** | ✅ Current |
+| **Class Staff (Hunter Epic Quest)** | ✅ Current |
+| **Class Bow (Hunter Epic Quest)** | ✅ Current |
 | **Striker’s Mark (MC Golemagg)** | 🔼 Ranged Upgrade |
 | **Ashjre’thul, Crossbow of Smiting (AQ40)** | 🔼 BiS Ranged |
 | **Core Hound Tooth (MC Magmadar)** | 🔼 Melee Hit Weapon |
 
 ---
 
-# ⚔️ PvP Gear (BG / World PvP)
-
-| Item | Slot | Status |
-|------|------|--------|
-| **Rank 10 PvP Set (5/6)** | ✅ Core |
-| **Don Julio’s Band** | ✅ Current |
-| **Royal Seal of Eldre’Thalas** | ✅ Stamina Trinket |
-| **Blackhand’s Breadth** | ✅ Burst Trinket |
-| **Engineering Gadgets (Reflectors, Grenades, Net-o-Matic)** | 🔼 Must-Have |
-
----
-
-# 🐺 Solo / Farming Gear
-
-| Item | Slot | Notes |
-|------|------|-------|
-| **Rank 10 PvP Set** | More Stamina → safer farming |
-| **Royal Seal of Eldre’Thalas** | Sustain |
-| **Devilsaur Eye** | Burst |
-| **ZG Predator’s Set (3/5)** | Good sustain option |
-| **Engineering Gadgets** | Always useful for escapes |
-
----
-
-# 📌 Next Gear Goals
+# 📌 Next Gear Goals (Raid Focus)
 1. 🐉 **Prestor’s Talisman of Connivery (BWL)** – Replace Eye of Hakkar  
 2. 🐉 **Drake Fang Talisman (BWL)** – Best trinket  
-3. 🏯 **Striker’s Diadem & Hauberk (AQ40)** – Head & Chest BiS  
-4. 🏯 **Cloak of Concentrated Hatred (AQ40)** – BiS DPS Cloak  
+3. 🏯 **Striker’s Set (AQ40)** – Diadem, Pauldrons, Hauberk, Leggings, Footguards  
+4. 🏯 **Cloak of Concentrated Hatred (AQ40 Twins)** – BiS DPS Cloak  
 5. 🔥 **Band of Accuria (MC Ragnaros)** – Best ring  
-6. 🐲 **Ashjre’thul, Crossbow of Smiting (AQ40)** – Ranged BiS 
+6. 🐲 **Ashjre’thul, Crossbow of Smiting (AQ40)** – Ranged BiS  
 
 ---
 
