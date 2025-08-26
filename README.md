@@ -294,7 +294,6 @@
 | Item | Status |
 |------|--------|
 | **Touch of Chaos (ZG Hakkar)** | ✅ Current & 🔼 BiS |
-| **Bonecreeper Stylus (Scholo)** | 🔼 Alternative |
 
 ---
 
