@@ -219,7 +219,6 @@
 | Item | Status |
 |------|--------|
 | **Rockfury Bracers (Cenarion Circle Revered)** | ✅ Current & 🔼 Best Available |
-| **Bindings of the Windcaller (MC Trash)** | 🔼 Alternative |
 
 ---
 
