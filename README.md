@@ -3,7 +3,7 @@
 **Patch:** 1.15.7 – Phase 5  
 **Server:** PvE  
 **Faction:** Alliance ⚔️  
-**PvP Rank:** R10 (Knight-Champion)  
+**PvP Rank:** R10 (Knight-Champion) 
 
 ---
 
@@ -33,7 +33,7 @@
 ## 👑 Head
 | Item | Status |
 |------|--------|
-| **Rank 10 PvP Helm (Lieutenant Commander’s Chain Helm)** | ✅ Current |
+| **Lieutenant Commander’s Chain Helm (Rank 10 PvP)** | ✅ Current |
 | **Striker’s Diadem (AQ40)** | 🔼 Upgrade – BiS |
 
 ---
@@ -41,8 +41,8 @@
 ## 🧿 Neck
 | Item | Status |
 |------|--------|
-| **— (none of the raid necks yet)** | ❌ |
-| **Onyxia Tooth Pendant (Onyxia)** | 🔼 Upgrade – Strong PvE Neck |
+| **Eye of Hakkar (ZG Quest)** | ✅ Current |
+| **Onyxia Tooth Pendant (Onyxia)** | 🔼 Strong PvE Upgrade |
 | **Prestor’s Talisman of Connivery (BWL)** | 🔼 BiS Neck |
 
 ---
@@ -51,7 +51,7 @@
 | Item | Status |
 |------|--------|
 | **Earthweave Cloak** | ✅ Current |
-| **Cloak of the Shrouded Mists (Ony)** | ✅ Current Alternative |
+| **Cloak of the Shrouded Mists (Onyxia)** | ✅ Current Alternative |
 | **Cloak of Concentrated Hatred (AQ40 Twins)** | 🔼 Upgrade – BiS DPS Cloak |
 
 ---
@@ -59,7 +59,7 @@
 ## 🥼 Chest
 | Item | Status |
 |------|--------|
-| **Giantstalker Breastplate** | ✅ Current |
+| **Giantstalker Breastplate (MC)** | ✅ Current |
 | **Striker’s Hauberk (AQ40)** | 🔼 Upgrade – BiS |
 
 ---
@@ -76,7 +76,7 @@
 ## 🦵 Legs
 | Item | Status |
 |------|--------|
-| **— (not Dragonstalker’s yet)** | ❌ |
+| **Knight-Captain’s Chain Legguards (Rank 10 PvP)** | ✅ Current |
 | **Dragonstalker’s Legguards (MC Ragnaros)** | 🔼 Upgrade |
 | **Striker’s Leggings (AQ40)** | 🔼 BiS |
 
@@ -107,7 +107,8 @@
 |------|--------|
 | **Barbarous Blade (DM North)** | ✅ Current |
 | **Huntsman’s Harpoon (DM East)** | ✅ Current |
-| **Class Staff / Class Bow (Quest Rewards)** | ✅ Current |
+| **Class Staff (Quest)** | ✅ Current |
+| **Class Bow (Quest)** | ✅ Current |
 | **Striker’s Mark (MC Golemagg)** | 🔼 Ranged Upgrade |
 | **Ashjre’thul, Crossbow of Smiting (AQ40)** | 🔼 BiS Ranged |
 | **Core Hound Tooth (MC Magmadar)** | 🔼 Melee Hit Weapon |
@@ -139,12 +140,12 @@
 ---
 
 # 📌 Next Gear Goals
-1. 🐉 **Prestor’s Talisman of Connivery (BWL)** – Neck upgrade  
+1. 🐉 **Prestor’s Talisman of Connivery (BWL)** – Replace Eye of Hakkar  
 2. 🐉 **Drake Fang Talisman (BWL)** – Best trinket  
 3. 🏯 **Striker’s Diadem & Hauberk (AQ40)** – Head & Chest BiS  
 4. 🏯 **Cloak of Concentrated Hatred (AQ40)** – BiS DPS Cloak  
 5. 🔥 **Band of Accuria (MC Ragnaros)** – Best ring  
-6. 🐲 **Ashjre’thul, Crossbow of Smiting (AQ40)** – Ranged BiS  
+6. 🐲 **Ashjre’thul, Crossbow of Smiting (AQ40)** – Ranged BiS 
 
 ---
 
