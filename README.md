@@ -163,109 +163,148 @@
 
 ---
 
-## 🎒 Current Gear (Owned)
-- **Spellweaver’s Turban**  
-- **Circlet of Prophecy**  
-- **Charm of the Shifting Sands**  
-- **Felcloth Shoulders**  
-- **Mantle of Prophecy**  
-- **Spritecaster Cape**  
-- **Shroud of Infinite Wisdom**  
-- **Robe of Volatile Power**  
-- **Robes of Prophecy**  
-- **Rockfury Bracers**  
-- **Zandalar Confessor’s Bindings**  
-- **Felcloth Gloves**  
-- **Gloves of Dark Wisdom**  
-- **Desert Bloom Gloves**  
-- **Ban’thok Sash**  
-- **Flarecore Leggings**  
-- **Betrayer’s Boots**  
-- **Band of Servitude**  
-- **Songstone of Ironforge**  
-- **Fordring’s Seal**  
-- **Eye of Moam**  
-- **Royal Seal of Eldre’Thalas**  
-- **Scepter of the Unholy**  
-- **Tome of the Lost**  
-- **Sparkling Crystal Wand**  
-- **Touch of Chaos** ✅  
+# 🪄 Shadow Priest – Personal Gear Progress (Phase 5 Pre-Naxx)
+
+**Spec:** Shadow DPS  
+**Patch:** 1.15.7 – Phase 5  
+**Server:** PvE  
+**Professions:** Herbalism 🌿 / Enchanting ✨  
 
 ---
 
-## 🔥 Raid Setup (Shadow DPS)
-
-| Slot | Item | Source |
-|------|------|--------|
-| Head | **Spellweaver’s Turban** | UBRS – General Drakkisath |
-| Neck | **Charm of the Shifting Sands** | AQ20 Quest |
-| Shoulders | **Mantle of the Blackwing Cabal** | BWL – Razorgore |
-| Back | **Cloak of Consumption** | ZG – Hakkar |
-| Chest | **Robe of Volatile Power** | MC – Golemagg |
-| Wrists | **Rockfury Bracers** | Silithus Quest |
-| Hands | **Gloves of Dark Wisdom** | AQ20 – Ossirian |
-| Waist | **Sash of Whispered Secrets** | MC – Shazzrah |
-| Legs | **Flarecore Leggings** | Crafted |
-| Feet | **Boots of Epiphany** | AQ40 – Fankriss |
-| Rings | **Band of Forced Concentration** | BWL – Chromaggus |
-| Rings | **Ring of Spell Power** | MC – Lucifron |
-| Trinkets | **Neltharion’s Tear** | BWL – Nefarian |
-| Trinkets | **Briarwood Reed** | UBRS – Jed |
-| Weapon | **Staff of the Ruins** | AQ20 – Ossirian |
-| Wand | **Touch of Chaos** | ZG – Hakkar |
+## 👑 Head
+| Item | Status |
+|------|--------|
+| **Spellweaver’s Turban (Quest Reward)** | ✅ Current |
+| **Skul’s Ghastly Touch (Stratholme)** | 🔼 Strong Alternative |
+| **T3 Head (Future – Naxx)** | 🔼 BiS Long-term |
 
 ---
 
-## ✝️ Raid Setup (Healing Backup)
-
-| Slot | Item | Source |
-|------|------|--------|
-| Head | **Circlet of Prophecy** | MC – Garr |
-| Neck | **Charm of the Shifting Sands** | AQ20 Quest |
-| Shoulders | **Mantle of Prophecy** | MC – Sulfuron |
-| Back | **Shroud of Infinite Wisdom** | ZG Quest |
-| Chest | **Robes of Prophecy** | MC – Golemagg |
-| Wrists | **Zandalar Confessor’s Bindings** | ZG Quest |
-| Hands | **Desert Bloom Gloves** | AQ20 |
-| Waist | **Zandalar Confessor’s Belt** | ZG Quest |
-| Legs | **Prophecy Pants** | MC – Ragnaros |
-| Feet | **Boots of Prophecy** | MC – Golemagg |
-| Rings | **Fordring’s Seal** | Quest |
-| Rings | **Pure +heal Rings** | AQ40 / Naxx |
-| Trinkets | **Royal Seal of Eldre’Thalas + Zandalarian Hero Charm** | DM + ZG |
-| Weapon | **Eye of the Beast + Tome of the Lost** | UBRS + Strat |
-| Wand | **Touch of Chaos** | ZG – Hakkar |
+## 🧿 Neck
+| Item | Status |
+|------|--------|
+| **Charm of the Shifting Sands (AQ20 Quest)** | ✅ Current |
+| **Choker of the Firelord (MC Ragnaros)** | 🔼 Upgrade |
+| **Jeklik’s Opaline Talisman (ZG Jeklik)** | 🔼 Alternative |
 
 ---
 
-## ⚔️ PvP Setup
-- **Spellweaver’s Turban** (crit burst)  
-- **Charm of the Shifting Sands**  
-- **Cloak of Consumption** (ZG)  
-- **Robe of Volatile Power**  
-- **Rockfury Bracers**  
-- **Gloves of Dark Wisdom**  
-- **Flarecore Leggings**  
-- **Betrayer’s Boots**  
-- **Insignia of the Alliance**  
-- **Eye of Moam** + **Royal Seal** (sustain/burst mix)  
-- **Touch of Chaos** (burst wand)  
+## 🦴 Shoulders
+| Item | Status |
+|------|--------|
+| **Felcloth Shoulders (Crafted)** | ✅ Current |
+| **Mantle of the Blackwing Cabal (BWL Razorgore)** | 🔼 BiS |
 
 ---
 
-## 🌿 Solo / Farming
-- **Spellweaver’s Turban**  
-- **Charm of the Shifting Sands**  
-- **Felcloth Shoulders** (cheap repair)  
-- **Cloak of Consumption** (ZG)  
-- **Robe of Volatile Power**  
-- **Rockfury Bracers**  
-- **Gloves of Dark Wisdom**  
-- **Ban’thok Sash**  
-- **Flarecore Leggings**  
-- **Betrayer’s Boots**  
-- **Royal Seal of Eldre’Thalas** + **Eye of Moam**  
-- **Scepter of the Unholy + Tome of the Lost**  
-- **Touch of Chaos**  
+## 🧥 Back
+| Item | Status |
+|------|--------|
+| **Spritecaster Cape (Dungeon Drop)** | ✅ Current |
+| **Cloak of Consumption (ZG Hakkar)** | 🔼 Upgrade |
+| **Cloak of the Hakkari Worshipers (ZG Venoxis/Thekal)** | 🔼 Alternative |
+
+---
+
+## 🥼 Chest
+| Item | Status |
+|------|--------|
+| **Robe of Volatile Power (MC Drop)** | ✅ Current |
+| **Garb of Royal Ascension (AQ40 Trash Drop ~0.2%)** | 🔼 BiS |
+
+---
+
+## ⛓️ Wrists
+| Item | Status |
+|------|--------|
+| **Rockfury Bracers (Cenarion Circle Revered)** | ✅ Current & 🔼 Best Available |
+| **Bindings of the Windcaller (MC Trash)** | 🔼 Alternative |
+
+---
+
+## 🧤 Hands
+| Item | Status |
+|------|--------|
+| **Felcloth Gloves (Crafted)** | ✅ Current |
+| **Gloves of Rapid Evolution (AQ40)** | 🔼 BiS |
+
+---
+
+## 🪢 Waist
+| Item | Status |
+|------|--------|
+| **Ban’thok Sash (LBRS)** | ✅ Current |
+| **Sash of Whispered Secrets (MC Majordomo)** | 🔼 Upgrade |
+| **Belt of Untapped Power (ZG)** | 🔼 Strong Alternative |
+
+---
+
+## 🦵 Legs
+| Item | Status |
+|------|--------|
+| **Flarecore Leggings (Crafted)** | ✅ Current |
+| **Nemesis Leggings (MC Magmadar)** | 🔼 Upgrade |
+| **Leggings of Polarity (Future – Naxx)** | 🔼 BiS Long-term |
+
+---
+
+## 🥾 Feet
+| Item | Status |
+|------|--------|
+| **Betrayer’s Boots (ZG)** | ✅ Current |
+| **Boots of Pure Thought (MC)** | 🔼 Healing Alternative |
+| **Boots of Epiphany (Future – Naxx)** | 🔼 BiS DPS |
+
+---
+
+## 💍 Rings
+| Item | Status |
+|------|--------|
+| **Band of Servitude (ZG)** | ✅ Current |
+| **Royal Seal of Eldre’Thalas (DM Quest)** | ✅ Current |
+| **Ring of Spell Power (MC Ragnaros)** | 🔼 BiS |
+| **Band of Forced Concentration (BWL Ebonroc)** | 🔼 Upgrade |
+| **Rune Band of Wizardry (UBRS ~25%)** | 🔼 Alternative |
+
+---
+
+## 📜 Trinkets
+| Item | Status |
+|------|--------|
+| **Songstone of Ironforge (PvP)** | ✅ Current |
+| **Eye of Moam (AQ20)** | ✅ Current |
+| **Blackhand’s Breadth (UBRS Quest)** | 🔼 Alternative |
+| **Talisman of Ephemeral Power (MC)** | 🔼 Upgrade |
+| **Neltharion’s Tear (BWL Nefarian)** | 🔼 BiS |
+| **Briarwood Reed (UBRS ~31%)** | 🔼 Alternative |
+
+---
+
+## 🔮 Weapons
+| Item | Status |
+|------|--------|
+| **Scepter of the Unholy (Scholo – Darkmaster Gandling)** | ✅ Current |
+| **Tome of the Lost (Dungeon Drop)** | ✅ Current |
+| **Staff of the Ruins (AQ20 Ossirian / Priest Quest)** | 🔼 BiS Pre-Naxx |
+| **Anathema/Benediction (Priest Quest)** | 🔼 Flexible DPS/Heal |
+
+---
+
+## 🔫 Wand
+| Item | Status |
+|------|--------|
+| **Touch of Chaos (ZG Hakkar)** | ✅ Current & 🔼 BiS |
+| **Bonecreeper Stylus (Scholo)** | 🔼 Alternative |
+
+---
+
+# 📌 Next Gear Goals (Raid Focus)
+1. 🐉 **Mantle of the Blackwing Cabal (BWL)** – Best Shoulders  
+2. 🔥 **Ring of Spell Power (MC)** – Must-have ring  
+3. 🐉 **Neltharion’s Tear (BWL Nefarian)** – Top trinket  
+4. 🏯 **Staff of the Ruins (AQ20)** – Big upgrade main weapon  
+5. 🏯 **Sash of Whispered Secrets (MC Majordomo)** – Replace Ban’thok  
+6. 🏜️ **Cloak of Consumption (ZG Hakkar)** – Replace Spritecaster Cape  
 
 ---
