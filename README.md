@@ -24,9 +24,10 @@
 
 # 🏹 Marksmanship Hunter – Personal Gear Progress (Phase 5 Pre-Naxx)
 
+![Hunter Badge](https://img.shields.io/badge/Hunter-Marksmanship-f39c12?logo=icloud&logoColor=white)
+
 **Spec:** Marksmanship DPS  
-**Patch:** 1.15.7 – Phase 5  
-**Server:** PvE  
+**Professions:** Mining ⛏️ / Engineering ⚙️  
 
 ---
 
