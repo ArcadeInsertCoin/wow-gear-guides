@@ -164,12 +164,6 @@
 **Patch:** 1.15.7 – Phase 5  
 **Server:** PvE  
 
-
-**Spec:** Shadow DPS (with Healing Backup)  
-**Professions:** Herbalism 🌿 / Enchanting ✨  
-**Patch:** 1.15.7 – Phase 5  
-**Server:** PvE  
-
 ---
 
 ## 👑 Head
