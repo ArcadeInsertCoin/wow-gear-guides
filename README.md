@@ -295,7 +295,9 @@
 | Item | Status |
 |------|--------|
 | **Touch of Chaos (ZG Hakkar)** | ✅ Current |
-
+| **Doomfinger (Naxx)** | 🔼 Kel'Thuzad |
+| **Wand of Qiraji Nobility (AQ40)** | 🔼 Lord Kri |
+| **Wand of Fates (Naxx)** | 🔼 BiS Patchwerk |
 ---
 
 # 📌 Next Gear Goals (Raid Focus)
