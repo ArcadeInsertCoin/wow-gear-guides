@@ -160,7 +160,7 @@
 ![Priest Badge](https://img.shields.io/badge/Priest-Shadow-9b59b6?logo=icloud&logoColor=white)
 
 **Spec:** Shadow DPS (with Healing Backup)  
-**Professions:** Herbalism 🌿 / Alchemy ✨  
+**Professions:** Herbalism 🌿 / Enchanting ✨  
 **Patch:** 1.15.7 – Phase 5  
 **Server:** PvE  
 
@@ -175,6 +175,7 @@
 
 ## 🧿 Neck
 🟢 **Charm of the Shifting Sands** *(AQ20 Quest Reward)*  
+🟡 **Amulet of Vek’nilash** *(AQ40 – Twin Emperors)*  
 🟡 **Choker of the Firelord** *(MC – Ragnaros)*  
 🟣 **Malice Stone Pendant** *(Naxx – Anub’Rekhan)*  
 
@@ -249,7 +250,7 @@
 ---
 
 ## 📜 Trinkets
-🟢 **Songstone of Ironforge** *(PvP)*  
+🟢 **Songstone of Ironforge** *(PvP Reward)*  
 🟢 **Eye of Moam** *(AQ20 – Ossirian)*  
 🟡 **Blackhand’s Breadth** *(UBRS Quest)*  
 🟡 **Talisman of Ephemeral Power** *(MC – Various)*  
@@ -271,7 +272,7 @@
 
 ## 📚 Off-hand / Tome
 🟢 **Tome of the Lost** *(Dungeon Drop)*  
-🟣 **Tome of Shadow Force** *(Naxx – Kel’Thuzad)*  
+🟣 **Tome of Shadow Force** *(PvP – Exalted Stormpike/Frostwolf AV)*  
 
 ---
 
@@ -285,10 +286,11 @@
 
 # 📌 Next Gear Goals
 1. 🟡 **Mantle of the Blackwing Cabal (BWL)** – Replace Felcloth Shoulders  
-2. 🟡 **Ring of Spell Power (MC)** – Replace weaker ring  
-3. 🟣 **Neltharion’s Tear (BWL Nefarian)** – Best trinket  
-4. 🟡 **Staff of the Ruins (AQ20)** – Replace Scepter of the Unholy  
-5. 🟣 **Leggings of Polarity (Naxx)** – Endgame BiS  
-6. 🟣 **Crystal Webbed Robe (Naxx)** – Endgame BiS  
+2. 🟡 **Ring of Spell Power (MC)** – Must-have ring  
+3. 🟡 **Amulet of Vek’nilash (AQ40)** – Replace Charm of the Shifting Sands  
+4. 🟣 **Neltharion’s Tear (BWL Nefarian)** – Best trinket  
+5. 🟡 **Staff of the Ruins (AQ20)** – Replace Scepter of the Unholy  
+6. 🟣 **Leggings of Polarity (Naxx)** – Endgame BiS  
+7. 🟣 **Crystal Webbed Robe (Naxx)** – Endgame BiS  
 
 ---
