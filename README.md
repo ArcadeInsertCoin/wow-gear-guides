@@ -294,7 +294,7 @@
 ## 🔫 Wand
 | Item | Status |
 |------|--------|
-| **Touch of Chaos (ZG Hakkar)** | ✅ Current & 🔼 BiS |
+| **Touch of Chaos (ZG Hakkar)** | 🔼 BiS Pre-Naxx |
 
 ---
 
