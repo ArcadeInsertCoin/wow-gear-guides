@@ -158,6 +158,12 @@
 # 🔮 Hatschepsut – Shadow Priest (Classic Phase 5 + Naxx Prep)
 
 ![Priest Badge](https://img.shields.io/badge/Priest-Shadow-9b59b6?logo=icloud&logoColor=white)
+![Professions](https://img.shields.io/badge/Alchemy%20⚗️-Herbalism%20🌿-2ecc71?style=flat&logo=leaf&logoColor=white)
+
+**Spec:** Shadow DPS (with Healing Backup)  
+**Patch:** 1.15.7 – Phase 5  
+**Server:** PvE  
+
 
 **Spec:** Shadow DPS (with Healing Backup)  
 **Professions:** Herbalism 🌿 / Enchanting ✨  
