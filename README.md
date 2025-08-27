@@ -164,178 +164,44 @@
 
 ---
 
-# 🪄 Shadow Priest – Personal Gear Progress (Phase 5 + Naxx Prep)
+# 🔮 Hatschepsut – Shadow Priest (Classic Phase 5 + Naxx Prep)
 
-**Spec:** Shadow DPS  
+![Priest Badge](https://img.shields.io/badge/Priest-Shadow-9b59b6?logo=icloud&logoColor=white)
+
+**Spec:** Shadow DPS (with Healing Backup)  
+**Professions:** Herbalism 🌿 / Enchanting ✨  
 **Patch:** 1.15.7 – Phase 5  
 **Server:** PvE  
 
 ---
 
-## 👑 Head
-| Item | Status |
-|------|--------|
-| **Spellweaver’s Turban (Quest Reward)** | ✅ Current |
-| **Skul’s Ghastly Touch (Stratholme)** | 🔼 Alternative |
-| **Preceptor’s Hat (Naxx Instructor Razuvious)** | 🔼 Upgrade |
-| **T3 Circlet of Faith (Naxx)** | 🔼 BiS Long-term |
+## 📊 Gear Progress Overview
+
+| Slot      | Current Gear | Upgrades | BiS (Pre-Naxx / Naxx) |
+|-----------|--------------|----------|------------------------|
+| **Head**  | Spellweaver’s Turban | Skul’s Ghastly Touch | Preceptor’s Hat / T3 Circlet of Faith |
+| **Neck**  | Charm of the Shifting Sands | Choker of the Firelord / Jeklik’s Opaline Talisman | Malice Stone Pendant / Gem of Trapped Innocents |
+| **Shoulders** | Felcloth Shoulders | Mantle of the Blackwing Cabal | Rime Covered Mantle / T3 Shoulderpads of Faith |
+| **Back**  | Spritecaster Cape | Cloak of Consumption | Cloak of the Devoured / Cloak of the Necropolis |
+| **Chest** | Robe of Volatile Power | Crystal Webbed Robe / Garb of Royal Ascension | T3 Robe of Faith |
+| **Wrists** | Rockfury Bracers | Bracers of Arcane Accuracy | T3 Bindings of Faith |
+| **Hands** | Felcloth Gloves | Dark Storm Gauntlets / Firemaw’s Clutch | Gloves of Rapid Evolution / T3 Handguards of Faith |
+| **Waist** | Ban’thok Sash | Sash of Whispered Secrets / Belt of Untapped Power | Eyestalk Waist Cord / T3 Belt of Faith |
+| **Legs**  | Flarecore Leggings | Nemesis Leggings | Leggings of Polarity |
+| **Feet**  | Betrayer’s Boots | Sandals of the Shadow Flame | Boots of Epiphany |
+| **Rings** | Band of Servitude / Royal Seal of Eldre’Thalas | Ring of Spell Power / Band of Forced Concentration | Band of the Inevitable / Seal of the Damned / Band of Dark Dominion |
+| **Trinkets** | Songstone of Ironforge / Eye of Moam | Talisman of Ephemeral Power / Blackhand’s Breadth | Neltharion’s Tear / Essence of Sapphiron |
+| **Weapons** | Scepter of the Unholy + Tome of the Lost | Blessed Qiraji Acolyte Staff / Lok’amir il Romathis | Staff of the Shadow Flame / Maexxna’s Fang + Sapphiron’s Left Eye |
+| **Wand** | Touch of Chaos | Wand of Qiraji Nobility | Doomfinger / Wand of Fates |
 
 ---
 
-## 🧿 Neck
-| Item | Status |
-|------|--------|
-| **Charm of the Shifting Sands (AQ20 Quest)** | ✅ Current |
-| **Choker of the Firelord (MC Ragnaros)** | 🔼 Upgrade |
-| **Jeklik’s Opaline Talisman (ZG)** | 🔼 Alternative |
-| **Amulet of Vek’nilash (AQ40 Twins)** | 🔼 BiS |
-| **Malice Stone Pendant (Naxx Gothik)** | 🔼 BiS Long-term |
-| **Gem of Trapped Innocents (Naxx Sapphiron)** | 🔼 BiS Long-term |
-
----
-
-## 🦴 Shoulders
-| Item | Status |
-|------|--------|
-| **Felcloth Shoulders (Crafted)** | ✅ Current |
-| **Mantle of the Blackwing Cabal (BWL Razorgore)** | 🔼 Upgrade |
-| **Rime Covered Mantle (Naxx Kel’Thuzad)** | 🔼 BiS |
-| **T3 Shoulderpads of Faith (Naxx)** | 🔼 BiS Long-term |
-
----
-
-## 🧥 Back
-| Item | Status |
-|------|--------|
-| **Spritecaster Cape (Dungeon Drop)** | ✅ Current |
-| **Cloak of Consumption (ZG Hakkar)** | 🔼 Upgrade |
-| **Cloak of the Hakkari Worshipers (ZG)** | 🔼 Alternative |
-| **Shroud of Dominion (AQ40 C’Thun)** | 🔼 BiS |
-| **Cloak of the Devoured (Naxx Noth)** | 🔼 BiS Long-term |
-| **Cloak of the Necropolis (Naxx Patchwerk)** | 🔼 BiS Long-term |
-
----
-
-## 🥼 Chest
-| Item | Status |
-|------|--------|
-| **Robe of Volatile Power (MC)** | ✅ Current |
-| **Crystal Webbed Robe (Naxx Maexxna)** | 🔼 Upgrade |
-| **Garb of Royal Ascension (AQ40 Trash ~0.2%)** | 🔼 Upgrade |
-| **T3 Robe of Faith (Naxx)** | 🔼 BiS Long-term |
-
----
-
-## ⛓️ Wrists
-| Item | Status |
-|------|--------|
-| **Rockfury Bracers (Cenarion Revered)** | ✅ Current |
-| **Bracers of Arcane Accuracy (AQ40 Viscidus)** | 🔼 BiS Pre-Naxx |
-| **T3 Bindings of Faith (Naxx)** | 🔼 BiS Long-term |
-
----
-
-## 🧤 Hands
-| Item | Status |
-|------|--------|
-| **Felcloth Gloves (Crafted)** | ✅ Current |
-| **Dark Storm Gauntlets (BWL Firemaw)** | 🔼 Upgrade |
-| **Firemaw’s Clutch (BWL Firemaw)** | 🔼 Upgrade |
-| **Ebony Flame Gloves (MC Garr)** | 🔼 Alternative |
-| **Gloves of Rapid Evolution (AQ40)** | 🔼 BiS |
-| **T3 Handguards of Faith (Naxx)** | 🔼 BiS Long-term |
-
----
-
-## 🪢 Waist
-| Item | Status |
-|------|--------|
-| **Ban’thok Sash (LBRS)** | ✅ Current |
-| **Sash of Whispered Secrets (MC Majordomo)** | 🔼 Upgrade |
-| **Belt of Untapped Power (ZG)** | 🔼 Alternative |
-| **Eyestalk Waist Cord (Naxx Sapphiron)** | 🔼 BiS |
-| **T3 Belt of Faith (Naxx)** | 🔼 BiS Long-term |
-
----
-
-## 🦵 Legs
-| Item | Status |
-|------|--------|
-| **Flarecore Leggings (Crafted)** | ✅ Current |
-| **Nemesis Leggings (MC Magmadar)** | 🔼 Upgrade |
-| **Leggings of Polarity (Naxx Thaddius)** | 🔼 BiS Long-term |
-
----
-
-## 🥾 Feet
-| Item | Status |
-|------|--------|
-| **Betrayer’s Boots (ZG)** | ✅ Current |
-| **Sandals of the Shadow Flame (BWL Nefarian)** | 🔼 Upgrade |
-| **Boots of Epiphany (Naxx Loatheb)** | 🔼 BiS Long-term |
-
----
-
-## 💍 Rings
-| Item | Status |
-|------|--------|
-| **Band of Servitude (ZG)** | ✅ Current |
-| **Royal Seal of Eldre’Thalas (DM Quest)** | ✅ Current |
-| **Ring of Spell Power (MC Ragnaros)** | 🔼 Upgrade |
-| **Band of Forced Concentration (BWL Ebonroc)** | 🔼 Upgrade |
-| **Band of Dark Dominion (AQ40 Ouro)** | 🔼 BiS |
-| **Band of the Inevitable (Naxx Heigan)** | 🔼 BiS |
-| **Seal of the Damned (Naxx Kel’Thuzad)** | 🔼 BiS |
-| **Ring of the Fallen God (AQ40 C’Thun)** | 🔼 BiS |
-| **Ring of the Eternal Flame (Naxx Razuvious)** | 🔼 BiS Long-term |
-
----
-
-## 📜 Trinkets
-| Item | Status |
-|------|--------|
-| **Songstone of Ironforge (PvP)** | ✅ Current |
-| **Eye of Moam (AQ20)** | ✅ Current |
-| **Blackhand’s Breadth (UBRS Quest)** | 🔼 Alternative |
-| **Talisman of Ephemeral Power (MC)** | 🔼 Upgrade |
-| **Neltharion’s Tear (BWL Nefarian)** | 🔼 BiS |
-| **Briarwood Reed (UBRS ~31%)** | 🔼 Alternative |
-| **Eye of the Dead (Naxx Gothik)** | 🔼 Healing Utility |
-| **The Restrained Essence of Sapphiron (Naxx)** | 🔼 BiS Long-term |
-
----
-
-## 🔮 Weapons
-| Item | Status |
-|------|--------|
-| **Scepter of the Unholy (Scholo Gandling)** | ✅ Current |
-| **Tome of the Lost (Dungeon Drop)** | ✅ Current |
-| **Staff of the Ruins (AQ20 Ossirian / Priest Quest)** | 🔼 Pre-Naxx Upgrade |
-| **Blessed Qiraji Acolyte Staff (AQ40 Quest – Prophet Skeram)** | 🔼 BiS Pre-Naxx |
-| **Lok’amir il Romathis (BWL Nefarian)** | 🔼 Upgrade |
-| **Tome of Shadow Force (AQ40 Twins)** | 🔼 BiS Off-hand |
-| **Staff of the Shadow Flame (BWL Nefarian)** | 🔼 BiS |
-| **Anathema/Benediction (Quest)** | 🔼 Hybrid |
-| **Maexxna’s Fang + Sapphiron’s Left Eye (Naxx)** | 🔼 BiS Long-term |
-
----
-
-## 🔫 Wand
-| Item | Status |
-|------|--------|
-| **Touch of Chaos (ZG Hakkar)** | ✅ Current |
-| **Wand of Qiraji Nobility (AQ40 Lord Kri)** | 🔼 Upgrade |
-| **Doomfinger (Naxx Kel’Thuzad)** | 🔼 BiS |
-| **Wand of Fates (Naxx Patchwerk)** | 🔼 BiS Long-term |
-
----
-
-# 📌 Next Gear Goals (Raid Focus)
+## 📌 Priority Upgrades
 1. 🐉 **Staff of the Shadow Flame (BWL Nefarian)** – Endgame staff  
 2. ❄️ **Leggings of Polarity (Naxx Thaddius)** – Core DPS legs  
 3. ❄️ **Eyestalk Waist Cord (Naxx Sapphiron)** – Best caster belt  
-4. 🐙 **Band of the Inevitable (Naxx Heigan)** – Top ring upgrade  
-5. 🐙 **Cloak of the Devoured (Naxx Noth)** – Strong cloak  
-6. 🏜️ **Blessed Qiraji Acolyte Staff (AQ40 Quest)** – Strong pre-Naxx weapon  
+4. 🐙 **Band of the Inevitable (Naxx Heigan)** – Strong ring upgrade  
+5. 🐙 **Cloak of the Devoured (Naxx Noth)** – Top cloak  
+6. 🏯 **Blessed Qiraji Acolyte Staff (AQ40)** – Strong pre-Naxx weapon  
 
 ---
