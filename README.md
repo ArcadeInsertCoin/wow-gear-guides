@@ -177,6 +177,7 @@
 |------|--------|
 | **Spellweaver’s Turban (Quest Reward)** | ✅ Current |
 | **Skul’s Ghastly Touch (Stratholme)** | 🔼 Alternative |
+| **Preceptor’s Hat (Naxx Instructor Razuvious)** | 🔼 Upgrade |
 | **T3 Circlet of Faith (Naxx)** | 🔼 BiS Long-term |
 
 ---
@@ -188,6 +189,7 @@
 | **Choker of the Firelord (MC Ragnaros)** | 🔼 Upgrade |
 | **Jeklik’s Opaline Talisman (ZG)** | 🔼 Alternative |
 | **Amulet of Vek’nilash (AQ40 Twins)** | 🔼 BiS |
+| **Malice Stone Pendant (Naxx Gothik)** | 🔼 BiS Long-term |
 | **Gem of Trapped Innocents (Naxx Sapphiron)** | 🔼 BiS Long-term |
 
 ---
@@ -197,6 +199,7 @@
 |------|--------|
 | **Felcloth Shoulders (Crafted)** | ✅ Current |
 | **Mantle of the Blackwing Cabal (BWL Razorgore)** | 🔼 Upgrade |
+| **Rime Covered Mantle (Naxx Kel’Thuzad)** | 🔼 BiS |
 | **T3 Shoulderpads of Faith (Naxx)** | 🔼 BiS Long-term |
 
 ---
@@ -206,8 +209,9 @@
 |------|--------|
 | **Spritecaster Cape (Dungeon Drop)** | ✅ Current |
 | **Cloak of Consumption (ZG Hakkar)** | 🔼 Upgrade |
-| **Cloak of the Hakkari Worshipers (ZG Venoxis/Thekal)** | 🔼 Alternative |
+| **Cloak of the Hakkari Worshipers (ZG)** | 🔼 Alternative |
 | **Shroud of Dominion (AQ40 C’Thun)** | 🔼 BiS |
+| **Cloak of the Devoured (Naxx Noth)** | 🔼 BiS Long-term |
 | **Cloak of the Necropolis (Naxx Patchwerk)** | 🔼 BiS Long-term |
 
 ---
@@ -216,6 +220,7 @@
 | Item | Status |
 |------|--------|
 | **Robe of Volatile Power (MC)** | ✅ Current |
+| **Crystal Webbed Robe (Naxx Maexxna)** | 🔼 Upgrade |
 | **Garb of Royal Ascension (AQ40 Trash ~0.2%)** | 🔼 Upgrade |
 | **T3 Robe of Faith (Naxx)** | 🔼 BiS Long-term |
 
@@ -234,7 +239,10 @@
 | Item | Status |
 |------|--------|
 | **Felcloth Gloves (Crafted)** | ✅ Current |
-| **Gloves of Rapid Evolution (AQ40)** | 🔼 Upgrade |
+| **Dark Storm Gauntlets (BWL Firemaw)** | 🔼 Upgrade |
+| **Firemaw’s Clutch (BWL Firemaw)** | 🔼 Upgrade |
+| **Ebony Flame Gloves (MC Garr)** | 🔼 Alternative |
+| **Gloves of Rapid Evolution (AQ40)** | 🔼 BiS |
 | **T3 Handguards of Faith (Naxx)** | 🔼 BiS Long-term |
 
 ---
@@ -245,6 +253,7 @@
 | **Ban’thok Sash (LBRS)** | ✅ Current |
 | **Sash of Whispered Secrets (MC Majordomo)** | 🔼 Upgrade |
 | **Belt of Untapped Power (ZG)** | 🔼 Alternative |
+| **Eyestalk Waist Cord (Naxx Sapphiron)** | 🔼 BiS |
 | **T3 Belt of Faith (Naxx)** | 🔼 BiS Long-term |
 
 ---
@@ -262,8 +271,7 @@
 | Item | Status |
 |------|--------|
 | **Betrayer’s Boots (ZG)** | ✅ Current |
-| **Boots of Pure Thought (MC)** | 🔼 Healing Alternative |
-| **Sandals of the Shadow Flame (BWL Nefarian)** | 🔼 DPS Upgrade |
+| **Sandals of the Shadow Flame (BWL Nefarian)** | 🔼 Upgrade |
 | **Boots of Epiphany (Naxx Loatheb)** | 🔼 BiS Long-term |
 
 ---
@@ -275,6 +283,9 @@
 | **Royal Seal of Eldre’Thalas (DM Quest)** | ✅ Current |
 | **Ring of Spell Power (MC Ragnaros)** | 🔼 Upgrade |
 | **Band of Forced Concentration (BWL Ebonroc)** | 🔼 Upgrade |
+| **Band of Dark Dominion (AQ40 Ouro)** | 🔼 BiS |
+| **Band of the Inevitable (Naxx Heigan)** | 🔼 BiS |
+| **Seal of the Damned (Naxx Kel’Thuzad)** | 🔼 BiS |
 | **Ring of the Fallen God (AQ40 C’Thun)** | 🔼 BiS |
 | **Ring of the Eternal Flame (Naxx Razuvious)** | 🔼 BiS Long-term |
 
@@ -299,8 +310,11 @@
 |------|--------|
 | **Scepter of the Unholy (Scholo Gandling)** | ✅ Current |
 | **Tome of the Lost (Dungeon Drop)** | ✅ Current |
-| **Staff of the Ruins (AQ20 Ossirian / Priest Quest)** | 🔼 BiS Pre-Naxx |
-| **Fang of Venoxis (ZG)** | 🔼 Upgrade |
+| **Staff of the Ruins (AQ20 Ossirian / Priest Quest)** | 🔼 Pre-Naxx Upgrade |
+| **Blessed Qiraji Acolyte Staff (AQ40 Quest – Prophet Skeram)** | 🔼 BiS Pre-Naxx |
+| **Lok’amir il Romathis (BWL Nefarian)** | 🔼 Upgrade |
+| **Tome of Shadow Force (AQ40 Twins)** | 🔼 BiS Off-hand |
+| **Staff of the Shadow Flame (BWL Nefarian)** | 🔼 BiS |
 | **Anathema/Benediction (Quest)** | 🔼 Hybrid |
 | **Maexxna’s Fang + Sapphiron’s Left Eye (Naxx)** | 🔼 BiS Long-term |
 
@@ -317,11 +331,11 @@
 ---
 
 # 📌 Next Gear Goals (Raid Focus)
-1. 🦴 **Mantle of the Blackwing Cabal (BWL Razorgore)** – Top shoulders pre-Naxx  
-2. 🐉 **Neltharion’s Tear (BWL Nefarian)** – BiS trinket  
-3. 🏜️ **Cloak of Consumption (ZG Hakkar)** – Strong back upgrade  
-4. 🏯 **Ring of the Fallen God (AQ40 C’Thun)** – Core BiS ring  
-5. ❄️ **Leggings of Polarity (Naxx Thaddius)** – Must-have caster legs  
-6. ❄️ **The Restrained Essence of Sapphiron (Naxx)** – Endgame trinket  
+1. 🐉 **Staff of the Shadow Flame (BWL Nefarian)** – Endgame staff  
+2. ❄️ **Leggings of Polarity (Naxx Thaddius)** – Core DPS legs  
+3. ❄️ **Eyestalk Waist Cord (Naxx Sapphiron)** – Best caster belt  
+4. 🐙 **Band of the Inevitable (Naxx Heigan)** – Top ring upgrade  
+5. 🐙 **Cloak of the Devoured (Naxx Noth)** – Strong cloak  
+6. 🏜️ **Blessed Qiraji Acolyte Staff (AQ40 Quest)** – Strong pre-Naxx weapon  
 
 ---
