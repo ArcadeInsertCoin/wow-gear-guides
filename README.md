@@ -161,15 +161,6 @@
 
 **Spec:** Shadow DPS (with Healing Backup)  
 **Professions:** Herbalism 🌿 / Enchanting ✨  
-
----
-
-# 🔮 Hatschepsut – Shadow Priest (Classic Phase 5 + Naxx Prep)
-
-![Priest Badge](https://img.shields.io/badge/Priest-Shadow-9b59b6?logo=icloud&logoColor=white)
-
-**Spec:** Shadow DPS (with Healing Backup)  
-**Professions:** Herbalism 🌿 / Enchanting ✨  
 **Patch:** 1.15.7 – Phase 5  
 **Server:** PvE  
 
@@ -177,31 +168,33 @@
 
 ## 📊 Gear Progress Overview
 
-| Slot      | Current Gear | Upgrades | BiS (Pre-Naxx / Naxx) |
-|-----------|--------------|----------|------------------------|
-| **Head**  | Spellweaver’s Turban | Skul’s Ghastly Touch | Preceptor’s Hat / T3 Circlet of Faith |
-| **Neck**  | Charm of the Shifting Sands | Choker of the Firelord / Jeklik’s Opaline Talisman | Malice Stone Pendant / Gem of Trapped Innocents |
-| **Shoulders** | Felcloth Shoulders | Mantle of the Blackwing Cabal | Rime Covered Mantle / T3 Shoulderpads of Faith |
-| **Back**  | Spritecaster Cape | Cloak of Consumption | Cloak of the Devoured / Cloak of the Necropolis |
-| **Chest** | Robe of Volatile Power | Crystal Webbed Robe / Garb of Royal Ascension | T3 Robe of Faith |
-| **Wrists** | Rockfury Bracers | Bracers of Arcane Accuracy | T3 Bindings of Faith |
-| **Hands** | Felcloth Gloves | Dark Storm Gauntlets / Firemaw’s Clutch | Gloves of Rapid Evolution / T3 Handguards of Faith |
-| **Waist** | Ban’thok Sash | Sash of Whispered Secrets / Belt of Untapped Power | Eyestalk Waist Cord / T3 Belt of Faith |
-| **Legs**  | Flarecore Leggings | Nemesis Leggings | Leggings of Polarity |
-| **Feet**  | Betrayer’s Boots | Sandals of the Shadow Flame | Boots of Epiphany |
-| **Rings** | Band of Servitude / Royal Seal of Eldre’Thalas | Ring of Spell Power / Band of Forced Concentration | Band of the Inevitable / Seal of the Damned / Band of Dark Dominion |
-| **Trinkets** | Songstone of Ironforge / Eye of Moam | Talisman of Ephemeral Power / Blackhand’s Breadth | Neltharion’s Tear / Essence of Sapphiron |
-| **Weapons** | Scepter of the Unholy + Tome of the Lost | Blessed Qiraji Acolyte Staff / Lok’amir il Romathis | Staff of the Shadow Flame / Maexxna’s Fang + Sapphiron’s Left Eye |
-| **Wand** | Touch of Chaos | Wand of Qiraji Nobility | Doomfinger / Wand of Fates |
+| Slot      | Current Gear | Upgrade | BiS (Naxx Prep / Naxx) |
+|-----------|--------------|---------|-------------------------|
+| **Head**  | Spellweaver’s Turban *(Quest – Scholomance)* | Skul’s Ghastly Touch *(Stratholme – Skul)* | Preceptor’s Hat *(Naxx – Instructor Razuvious)* / Circlet of Faith *(Naxx – T3)* |
+| **Neck**  | Charm of the Shifting Sands *(AQ20 Quest)* | Choker of the Firelord *(MC – Ragnaros)* / Jeklik’s Opaline Talisman *(ZG – Jeklik)* | Malice Stone Pendant *(Naxx – Loatheb)* / Gem of Trapped Innocents *(Naxx – Sapphiron)* |
+| **Shoulders** | Felcloth Shoulders *(Tailoring Crafted)* | Mantle of the Blackwing Cabal *(BWL – Razorgore)* | Rime Covered Mantle *(Naxx – Sapphiron)* / Shoulderpads of Faith *(Naxx – T3)* |
+| **Back**  | Spritecaster Cape *(Dungeon Drop)* | Cloak of Consumption *(ZG – Hakkar)* | Cloak of the Devoured *(Naxx – Noth)* / Cloak of the Necropolis *(Naxx – Kel’Thuzad)* |
+| **Chest** | Robe of Volatile Power *(MC – Golemagg / Garr)* | Crystal Webbed Robe *(Naxx – Maexxna)* / Garb of Royal Ascension *(AQ40 Trash ~0.2%)* | Robe of Faith *(Naxx – T3)* |
+| **Wrists** | Rockfury Bracers *(Cenarion Circle – Revered)* | Bracers of Arcane Accuracy *(AQ40 – Viscidus / Huhuran)* | Bindings of Faith *(Naxx – T3)* |
+| **Hands** | Felcloth Gloves *(Tailoring Crafted)* | Dark Storm Gauntlets *(BWL – Chromaggus)* / Firemaw’s Clutch *(BWL – Firemaw)* | Gloves of Rapid Evolution *(AQ40 – Ouro)* / Handguards of Faith *(Naxx – T3)* |
+| **Waist** | Ban’thok Sash *(LBRS – Overlord Wyrmthalak)* | Sash of Whispered Secrets *(MC – Majordomo)* / Belt of Untapped Power *(ZG – Various)* | Eyestalk Waist Cord *(Naxx – Sapphiron)* / Belt of Faith *(Naxx – T3)* |
+| **Legs**  | Flarecore Leggings *(Tailoring Crafted)* | Nemesis Leggings *(MC – Magmadar)* | Leggings of Polarity *(Naxx – Thaddius)* |
+| **Feet**  | Betrayer’s Boots *(ZG – Thekal)* | Sandals of the Shadow Flame *(BWL – Nefarian)* | Boots of Epiphany *(Naxx – Four Horsemen)* |
+| **Rings** | Band of Servitude *(ZG – Various)* / Royal Seal of Eldre’Thalas *(DM Quest)* | Ring of Spell Power *(MC – Ragnaros)* / Band of Forced Concentration *(BWL – Ebonroc)* | Band of the Inevitable *(Naxx – Heigan)* / Seal of the Damned *(Naxx – Kel’Thuzad)* / Band of Dark Dominion *(Naxx – Loatheb)* |
+| **Trinkets** | Songstone of Ironforge *(PvP Reward)* / Eye of Moam *(AQ20 – Moam)* | Talisman of Ephemeral Power *(MC – Random Boss)* / Blackhand’s Breadth *(UBRS Quest)* | Neltharion’s Tear *(BWL – Nefarian)* / Sapphiron’s Left Eye *(Naxx – Sapphiron)* / Essence of Sapphiron *(Naxx – Sapphiron)* |
+| **Weapons** | Scepter of the Unholy *(Scholo – Darkmaster Gandling)* + Tome of the Lost *(Dungeon Drop)* | Blessed Qiraji Acolyte Staff *(AQ40 – Prophet Skeram Quest Reward)* / Lok’amir il Romathis *(MC – Garr)* | Staff of the Shadow Flame *(BWL – Nefarian)* / Maexxna’s Fang + Tome of Shadow Force *(Naxx – Maexxna / Gothik)* |
+| **Wand** | Touch of Chaos *(ZG – Hakkar)* | Wand of Qiraji Nobility *(AQ40 – Battleguard Sartura / Lord Kri)* | Doomfinger *(Naxx – Kel’Thuzad)* / Wand of Fates *(Naxx – Patchwerk)* |
 
 ---
 
-## 📌 Priority Upgrades
-1. 🐉 **Staff of the Shadow Flame (BWL Nefarian)** – Endgame staff  
-2. ❄️ **Leggings of Polarity (Naxx Thaddius)** – Core DPS legs  
-3. ❄️ **Eyestalk Waist Cord (Naxx Sapphiron)** – Best caster belt  
-4. 🐙 **Band of the Inevitable (Naxx Heigan)** – Strong ring upgrade  
-5. 🐙 **Cloak of the Devoured (Naxx Noth)** – Top cloak  
-6. 🏯 **Blessed Qiraji Acolyte Staff (AQ40)** – Strong pre-Naxx weapon  
+## 📌 Priority Upgrades (Phase 5 ➝ Naxx)
+1. 🐉 **Staff of the Shadow Flame (BWL – Nefarian)** – Core endgame weapon  
+2. ❄️ **Leggings of Polarity (Naxx – Thaddius)** – Best caster legs  
+3. ❄️ **Eyestalk Waist Cord (Naxx – Sapphiron)** – BiS caster belt  
+4. 🐉 **Neltharion’s Tear (BWL – Nefarian)** – Best caster trinket  
+5. 🐙 **Band of the Inevitable (Naxx – Heigan)** – Must-have ring  
+6. 🐙 **Cloak of the Devoured (Naxx – Noth)** – Upgrade cloak  
+7. 🐜 **Blessed Qiraji Acolyte Staff (AQ40)** – Pre-Naxx best staff  
+8. 🧊 **Preceptor’s Hat (Naxx – Razuvious)** – BiS helm before T3  
 
 ---
