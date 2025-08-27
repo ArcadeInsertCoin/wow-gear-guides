@@ -287,6 +287,7 @@
 | **Scepter of the Unholy (Scholo – Darkmaster Gandling)** | ✅ Current |
 | **Tome of the Lost (Dungeon Drop)** | ✅ Current |
 | **Staff of the Ruins (AQ20 Ossirian / Priest Quest)** | 🔼 BiS Pre-Naxx |
+| **Fang of Venoxis (ZG)** | 🔼 Upgrade |
 | **Anathema/Benediction (Priest Quest)** | 🔼 Flexible DPS/Heal |
 
 ---
