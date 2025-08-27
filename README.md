@@ -160,7 +160,7 @@
 ![Priest Badge](https://img.shields.io/badge/Priest-Shadow-9b59b6?logo=icloud&logoColor=white)
 
 **Spec:** Shadow DPS (with Healing Backup)  
-**Professions:** Herbalism 🌿 / Enchanting ✨  
+**Professions:** Herbalism 🌿 / Alchemy ✨  
 **Patch:** 1.15.7 – Phase 5  
 **Server:** PvE  
 
