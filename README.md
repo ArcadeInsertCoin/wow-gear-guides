@@ -1,99 +1,83 @@
-# 🏹 Ahhotep & 🔮 Hatschepsut – Classic Anniversary Gear Guide
-
-**Patch:** 1.15.7 – Phase 5  
-**Server:** PvE  
-**Faction:** Alliance ⚔️  
-**PvP Rank:** R10 (Knight-Champion) 
-
----
-
-## 📑 Table of Contents
-- [🏹 Ahhotep – Marksmanship Hunter](#-ahhotep--marksmanship-hunter-gear-guide-classic-anniversary-phase-5)  
-  - 🎒 Current Gear  
-  - 🔥 Raid Setup  
-  - ⚔️ PvP Setup  
-  - 🌿 Solo / Farming  
-- [🔮 Hatschepsut – Shadow Priest](#-hatschepsut--shadow-priest-gear-guide-classic-anniversary-phase-5)  
-  - 🎒 Current Gear  
-  - 🔥 Raid Setup (Shadow DPS)  
-  - ✝️ Raid Setup (Healing Backup)  
-  - ⚔️ PvP Setup  
-  - 🌿 Solo / Farming  
-
----
-
-# 🏹 Marksmanship Hunter – Personal Gear Progress (Phase 5 Pre-Naxx)
+# 🏹 Hatschepsut – Marksmanship Hunter (Classic Phase 5 + Naxx Prep)
 
 ![Hunter Badge](https://img.shields.io/badge/Hunter-Marksmanship-f39c12?logo=icloud&logoColor=white)
+![Professions](https://img.shields.io/badge/Mining%20⛏️-Engineering%20⚙️-3498db?style=flat&logo=codesandbox&logoColor=white)
 
 **Spec:** Marksmanship DPS  
-**Professions:** Mining ⛏️ / Engineering ⚙️  
+**Patch:** 1.15.7 – Phase 5  
+**Server:** PvE  
+
+---
+
+# 🏹 Hunter – Personal Gear Progress (Phase 5 + Naxx Prep)
 
 ---
 
 ## 👑 Head
 | Item | Status |
 |------|--------|
-| **Lieutenant Commander’s Chain Helm (Rank 10 PvP)** | ✅ Current |
-| **Striker’s Diadem (AQ40)** | 🔼 Upgrade – BiS |
+| **Knight-Captain’s Chain Helm (Rank 10 PvP)** | ✅ Current |
+| **Dragonstalker’s Helm (Onyxia)** | 🔼 Upgrade |
+| **Striker’s Diadem (AQ40)** | 🔼 BiS Long-term |
 
 ---
 
 ## 🧿 Neck
 | Item | Status |
 |------|--------|
-| **Eye of Hakkar (ZG Quest)** | ✅ Current |
-| **Onyxia Tooth Pendant (Onyxia)** | 🔼 Strong PvE Upgrade |
-| **Prestor’s Talisman of Connivery (BWL)** | 🔼 BiS Neck |
-
----
-
-## 🦴 Shoulders
-| Item | Status |
-|------|--------|
-| **Giantstalker Epaulets (MC/Garr/Gehennas)** | ✅ Current |
-| **Striker’s Pauldrons (AQ40)** | 🔼 Upgrade – BiS |
+| **Eye of Hakkar (ZG)** | ✅ Current |
+| **Onyxia Tooth Pendant (Onyxia)** | 🔼 Upgrade |
+| **Prestor’s Talisman of Connivery (BWL – ~30%)** | 🔼 BiS |
 
 ---
 
 ## 🧥 Back
 | Item | Status |
 |------|--------|
-| **Earthweave Cloak** | ✅ Current |
-| **Cloak of the Shrouded Mists (Onyxia)** | ✅ Alternative |
-| **Cloak of Concentrated Hatred (AQ40 Twins)** | 🔼 Upgrade – BiS DPS Cloak |
+| **Earthweave Cloak (Crafted)** | ✅ Current |
+| **Cloak of the Shrouded Mists (MC – Golemagg)** | ✅ Current |
+| **Cloak of the Unseen Path (AQ20 – Quest Reward)** | 🔼 Upgrade |
 
 ---
 
 ## 🥼 Chest
 | Item | Status |
 |------|--------|
-| **Giantstalker Breastplate (MC)** | ✅ Current |
-| **Striker’s Hauberk (AQ40)** | 🔼 Upgrade – BiS |
+| **Giantstalker’s Breastplate (MC – Garr)** | ✅ Current |
+| **Striker’s Hauberk (AQ40 – Various Bosses)** | 🔼 BiS |
 
 ---
 
 ## ⛓️ Wrists
 | Item | Status |
 |------|--------|
-| **Sand Reaver Wristguards (AQ40 Trash)** | ✅ Current |
-| **Ossirian’s Binding (AQ20 Ossirian)** | 🔼 Upgrade (better hit/agi mix) |
+| **Sand Reaver Wristguards (AQ40 – Fankriss)** | ✅ Current |
+| **Wristguards of True Flight (MC – Majordomo Executus)** | 🔼 Upgrade |
+
+---
+
+## 🦴 Shoulders
+| Item | Status |
+|------|--------|
+| **Giantstalker’s Epaulets (MC – Sulfuron Harbinger)** | ✅ Current |
+| **Striker’s Pauldrons (AQ40 – Various Bosses)** | 🔼 BiS |
 
 ---
 
 ## 🧤 Hands
 | Item | Status |
 |------|--------|
-| **Lieutenant Commander’s Chain Gauntlets (Rank 10 PvP)** | ✅ Current |
-| **Gloves of Rapid Evolution (AQ40)** | 🔼 BiS Upgrade |
+| **Knight-Captain’s Chain Gauntlets (Rank 10 PvP)** | ✅ Current |
+| **Gauntlets of Annihilation (BWL – Chromaggus)** | 🔼 Upgrade |
 
 ---
 
 ## 🪢 Waist
 | Item | Status |
 |------|--------|
-| **Zandalar Predator’s Belt (ZG)** | ✅ Current |
-| **Striker’s Belt (AQ40)** | 🔼 Upgrade – BiS |
+| **Zandalar Predator’s Belt (ZG – Quest Reward)** | ✅ Current |
+| **Waistband of Wrath (BWL – Firemaw)** | 🔼 Upgrade |
+| **Striker’s Belt (AQ40)** | 🔼 BiS |
 
 ---
 
@@ -101,15 +85,16 @@
 | Item | Status |
 |------|--------|
 | **Knight-Captain’s Chain Legguards (Rank 10 PvP)** | ✅ Current |
-| **Dragonstalker’s Legguards (MC Ragnaros)** | 🔼 Upgrade |
-| **Striker’s Leggings (AQ40)** | 🔼 BiS |
+| **Dragonstalker’s Legguards (MC – Ragnaros)** | 🔼 Upgrade |
+| **Striker’s Leggings (AQ40 – Various Bosses)** | 🔼 BiS |
 
 ---
 
 ## 🥾 Feet
 | Item | Status |
 |------|--------|
-| **Blooddrenched Footpads (ZG Venoxis)** | ✅ Current |
+| **Blooddrenched Footpads (ZG – High Priest Venoxis ~17%)** | ✅ Current |
+| **Chromatic Boots (BWL – Chromaggus)** | 🔼 Upgrade |
 | **Striker’s Footguards (AQ40)** | 🔼 BiS |
 
 ---
@@ -117,41 +102,41 @@
 ## 💍 Rings
 | Item | Status |
 |------|--------|
-| **Don Julio’s Band (PvP Vendor)** | ✅ Current |
-| **Tarnished Elven Ring (Dire Maul Quest)** | ✅ Current |
-| **Band of Accuria (MC Ragnaros)** | 🔼 BiS |
-| **Ring of Precision (ZG)** | 🔼 Strong Alternative |
+| **Don Julio’s Band (PvP – Exalted AV)** | ✅ Current |
+| **Tarnished Elven Ring (Quest Reward)** | ✅ Current |
+| **Band of Accuria (MC – Ragnaros ~24%)** | 🔼 Upgrade |
+| **Ring of Precision (AQ40 – Ouro)** | 🔼 BiS |
 
 ---
 
 ## 📜 Trinkets
 | Item | Status |
 |------|--------|
-| **Blackhand’s Breadth (UBRS Quest)** | ✅ Current |
-| **Royal Seal of Eldre’Thalas (DM Quest)** | ✅ Current |
-| **Devilsaur Eye (Quest)** | ✅ PvP Burst Trinket |
-| **Drake Fang Talisman (BWL Ebonroc)** | 🔼 BiS |
+| **Blackhand’s Breadth (UBRS Quest Reward)** | ✅ Current |
+| **Royal Seal of Eldre’Thalas (DM Quest Reward)** | ✅ Current |
+| **Drake Fang Talisman (BWL – Ebonroc ~33%)** | 🔼 BiS |
+| **Jom Gabbar (AQ40 – Emperor)** | 🔼 Alternative BiS |
 
 ---
 
 ## ⚔️ Weapons
 | Item | Status |
 |------|--------|
-| **Class Staff (Hunter Epic Quest)** | ✅ Current |
-| **Class Bow (Hunter Epic Quest)** | ✅ Current |
-| **Striker’s Mark (MC Golemagg)** | 🔼 Ranged Upgrade |
-| **Ashjre’thul, Crossbow of Smiting (AQ40)** | 🔼 BiS Ranged |
-| **Core Hound Tooth (MC Magmadar)** | 🔼 Melee Hit Weapon |
+| **Class Quest Staff (Rhokedelar/Staff of the Hunt)** | ✅ Current |
+| **Class Quest Bow (Lok’delar/Bow of the Hunt)** | ✅ Current |
+| **Barbarous Blade (Dire Maul North – King Gordok ~24%)** | 🔼 Alternative |
+| **Huntsman’s Harpoon (Dire Maul East – Isalien ~17%)** | 🔼 Alternative |
+| **Striker’s Mark (AQ40 – Twin Emperors)** | 🔼 BiS Ranged |
+| **Ashjre’thul, Crossbow of Smiting (BWL – Chromaggus)** | 🔼 BiS Pre-AQ40 |
 
 ---
 
 # 📌 Next Gear Goals (Raid Focus)
-1. 🐉 **Prestor’s Talisman of Connivery (BWL)** – Replace Eye of Hakkar  
-2. 🐉 **Drake Fang Talisman (BWL)** – Best trinket  
-3. 🏯 **Striker’s Set (AQ40)** – Diadem, Pauldrons, Hauberk, Leggings, Footguards  
-4. 🏯 **Cloak of Concentrated Hatred (AQ40 Twins)** – BiS DPS Cloak  
-5. 🔥 **Band of Accuria (MC Ragnaros)** – Best ring  
-6. 🐲 **Ashjre’thul, Crossbow of Smiting (AQ40)** – Ranged BiS  
+1. 🐉 **Prestor’s Talisman of Connivery (BWL)** – Top Neck  
+2. 🐉 **Drake Fang Talisman (BWL Ebonroc)** – BiS Trinket  
+3. 🏯 **Striker’s Leggings / Hauberk / Pauldrons (AQ40)** – Core BiS Set  
+4. 🐉 **Ashjre’thul, Crossbow of Smiting (BWL Chromaggus)** – Pre-AQ40 Ranged Upgrade  
+5. 🏜️ **Cloak of the Unseen Path (AQ20)** – Replace current cloaks  
 
 ---
 
