@@ -83,15 +83,12 @@
 
 ---
 
-
----
-
 ## ✨ Infinite Wisdom Set (Healing Alternative)
 | Slot | Item | Source |
 |------|------|--------|
-| **Ring** | Ring of Infinite Wisdom | Cenarion Circle Exalted – Windcaller Yessendra |
-| **Cloak** | Shroud of Infinite Wisdom | Cenarion Circle Exalted |
-| **Weapon** | Gavel of Infinite Wisdom | Cenarion Circle Exalted |
+| **Ring** | Ring of Infinite Wisdom |
+| **Cloak** | Shroud of Infinite Wisdom |
+| **Weapon** | Gavel of Infinite Wisdom |
 
 📌 **Bonus (3/3):** +Healing Power & Mana Efficiency → stark für **Healer-Offspec**, nutzbar in Raids wenn Shadow-Gear nicht benötigt wird.
 
