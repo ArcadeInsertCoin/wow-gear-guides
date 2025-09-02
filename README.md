@@ -206,6 +206,7 @@ Solo & Farming setzt auf **mana efficiency**, **pet synergy**, und **Stamina/Sur
 | **Rhokedelar (Class Bow)** | ✅ Current |
 | **Huntsman’s Harpoon (DM East)** | 🔼 Farming DPS |
 
+---
 
 # 🔮 Hatschepsut – Shadow Priest (Classic Phase 5 + Naxx Prep)
 
