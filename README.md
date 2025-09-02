@@ -63,24 +63,26 @@
 
 ---
 
-## 🪄 Raid Gear Progress – Priest
-
+## 🎯 Raid Gear Progress – Shadow Priest
 | Slot | Current | Upgrade | BiS (Naxx) | Source |
 |------|---------|---------|------------|--------|
-| **Head** | Spellweaver’s Turban ✅ | Skul’s Ghastly Touch 🔼 | Preceptor’s Hat 🌟 | Quest / Stratholme / Naxx |
-| **Neck** | Charm of the Shifting Sands ✅ | Amulet of Vek’nilash 🔼 | Choker of the Firelord 🌟 | AQ20 / AQ40 / MC |
+| **Head** | Spellweaver’s Turban ✅ | Preceptor’s Hat 🔼 | T3 Circlet of Faith 🌟 | Quest / AQ40 / Naxx |
+| **Neck** | Charm of the Shifting Sands ✅ | Choker of the Firelord / Amulet of Vek’nilash 🔼 | Malice Stone Pendant 🌟 | AQ20 / MC / AQ40 / Naxx |
 | **Shoulders** | Felcloth Shoulders ✅ | Mantle of the Blackwing Cabal 🔼 | Rime Covered Mantle 🌟 | Crafted / BWL / Naxx |
-| **Back** | Spritecaster Cape ✅ | Cloak of Consumption 🔼 | Cloak of the Devoured 🌟 | Dungeon / ZG / Naxx |
-| **Chest** | Robe of Volatile Power ✅ | Garb of Royal Ascension 🔼 | Crystal Webbed Robe 🌟 | MC / AQ40 / Naxx |
-| **Wrists** | Rockfury Bracers ✅ | – | Naxx Cuffs 🌟 | Cenarion Circle / Naxx |
-| **Hands** | Felcloth Gloves ✅ | Firemaw’s Clutch / Dark Storm Gauntlets 🔼 | Ebony Flame Gloves 🌟 | Crafted / BWL / Naxx |
-| **Waist** | Ban’thok Sash ✅ | Sash of Whispered Secrets 🔼 | Eyestalk Waist Cord 🌟 | LBRS / MC / Naxx |
+| **Back** | Spritecaster Cape ✅ | Cloak of Consumption / Cloak of the Devoured 🔼 | Cloak of Suturing 🌟 | Dungeon / ZG / AQ40 / Naxx |
+| **Chest** | Robe of Volatile Power ✅ | Garb of Royal Ascension / Crystal Webbed Robe 🔼 | T3 Robe of Faith 🌟 | MC / AQ40 / Naxx |
+| **Wrists** | Rockfury Bracers ✅ | — | T3 Wristguards 🌟 | Silithus / Naxx |
+| **Hands** | Felcloth Gloves ✅ | Dark Storm Gauntlets / Firemaw’s Clutch 🔼 | Ebony Flame Gloves 🌟 | Crafted / BWL / Naxx |
+| **Waist** | Ban’thok Sash ✅ | Sash of Whispered Secrets / Eyestalk Waist Cord 🔼 | T3 Cord 🌟 | LBRS / MC / AQ40 / Naxx |
 | **Legs** | Flarecore Leggings ✅ | Nemesis Leggings 🔼 | Leggings of Polarity 🌟 | Crafted / MC / Naxx |
 | **Feet** | Betrayer’s Boots ✅ | Boots of Pure Thought 🔼 | Boots of Epiphany 🌟 | ZG / MC / Naxx |
-| **Rings** | Band of Servitude ✅ / Royal Seal of Eldre’Thalas ✅ | Band of Forced Concentration 🔼 / Ring of Spell Power 🔼 | Band of Dark Dominion / Band of the Inevitable 🌟 | ZG / DM / BWL / MC / Naxx |
-| **Trinkets** | Eye of Moam ✅ / Songstone of Ironforge ✅ | Talisman of Ephemeral Power 🔼 / Neltharion’s Tear 🔼 | Sapphiron’s Left Eye / Seal of the Damned 🌟 | AQ20 / PvP / MC / BWL / Naxx |
-| **Weapons** | Scepter of the Unholy ✅ / Tome of the Lost ✅ | Staff of the Ruins 🔼 / Lok’amir il Romathis 🔼 | Staff of the Shadow Flame / Blessed Qiraji Acolyte Staff 🌟 | Scholo / Dungeon / AQ20 / BWL / Naxx |
-| **Wand** | Touch of Chaos ✅ | Wand of Qiraji Nobility 🔼 | Doomfinger / Wand of Fates 🌟 | ZG / AQ40 / Naxx |
+| **Rings** | Band of Servitude / Royal Seal of Eldre’Thalas ✅ | Ring of Spell Power / Band of Forced Concentration 🔼 | Band of Dark Dominion / Seal of the Damned 🌟 | ZG / DM / MC / BWL / Naxx |
+| **Trinkets** | Songstone of Ironforge / Eye of Moam ✅ | Talisman of Ephemeral Power 🔼 | Neltharion’s Tear / Sapphiron’s Left Eye 🌟 | PvP / AQ20 / MC / BWL / Naxx |
+| **Weapons** | Scepter of the Unholy + Tome of the Lost ✅ | Fang of Venoxis / Staff of the Ruins 🔼 | Staff of the Shadow Flame / Lok’amir il Romathis 🌟 | Scholo / ZG / AQ20 / BWL / Naxx |
+| **Wand** | Touch of Chaos ✅ | Wand of Qiraji Nobility 🔼 | Wand of Fates / Doomfinger 🌟 | ZG / AQ40 / Naxx |
+
+---
+
 
 ---
 
