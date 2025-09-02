@@ -1,221 +1,54 @@
-# 🏹 Ahhotep – Marksmanship Hunter (Classic Phase 5 + PvP/Solo)
+# 🏹 Ahhotep – Marksmanship Hunter (Classic Phase 5 + Naxx Prep)
 
-![Hunter Badge](https://img.shields.io/badge/Hunter-Marksmanship-f39c12?logo=icloud&logoColor=white)
-![Professions](https://img.shields.io/badge/Mining%20⛏️-Engineering%20⚙️-3498db?style=flat&logo=codesandbox&logoColor=white)
+![Hunter Badge](https://img.shields.io/badge/Hunter-Marksmanship-27ae60?logo=icloud&logoColor=white)  
+![Professions](https://img.shields.io/badge/Mining⛏️-Engineering🛠️-2980b9)
 
 **Spec:** Marksmanship DPS  
 **Patch:** 1.15.7 – Phase 5  
-**Server:** PvE/PvP Hybrid  
-
----
-
-# 🎯 Hunter – PvP Gear (Rank 10 + Engineering Focus)
-
-PvP setzt auf **burst damage**, **stuns/snares** und **survivability**.  
-Engineering Gadgets (Grenades, Helm, Reflectors) sind Pflicht.
-
----
-
-## 👑 Head
-| Item | Status |
-|------|--------|
-| **Knight-Captain’s Chain Helm (Rank 10 PvP)** | ✅ Current |
-| **Engineering Helm (Goblin/Eng Helm)** | 🔼 Situational (PvP burst/reflect) |
-
----
-
-## 🧿 Neck
-| Item | Status |
-|------|--------|
-| **Eye of Hakkar (ZG)** | ✅ Current |
-| **Onyxia Tooth Pendant (Ony)** | 🔼 Upgrade |
-
----
-
-## 🦴 Shoulders
-| Item | Status |
-|------|--------|
-| **Giantstalker’s Epaulets (MC)** | ✅ Current |
-| **Zandalar Predator’s Mantle (ZG Quest)** | 🔼 PvP burst alternative |
-
----
-
-## 🧥 Back
-| Item | Status |
-|------|--------|
-| **Cloak of the Shrouded Mists (MC)** | ✅ Current |
-| **Earthweave Cloak (Crafted – Stamina heavy)** | 🔼 Defensive PvP option |
-
----
-
-## 🥼 Chest
-| Item | Status |
-|------|--------|
-| **Giantstalker’s Breastplate (MC)** | ✅ Current |
-| **Knight-Captain’s PvP Chest (Rank 10)** | 🔼 PvP Stam alternative |
-
----
-
-## ⛓️ Wrists
-| Item | Status |
-|------|--------|
-| **Sand Reaver Wristguards (AQ40)** | ✅ Current |
-| **PvP Bracers (Rank 10)** | 🔼 Stamina PvP alternative |
-
----
-
-## 🧤 Hands
-| Item | Status |
-|------|--------|
-| **Knight-Captain’s Gauntlets (Rank 10 PvP)** | ✅ Current |
-| **Gauntlets of Annihilation (BWL)** | 🔼 Burst PvP Upgrade |
-
----
-
-## 🪢 Waist
-| Item | Status |
-|------|--------|
-| **Zandalar Predator’s Belt (ZG)** | ✅ Current |
-
----
-
-## 🦵 Legs
-| Item | Status |
-|------|--------|
-| **Knight-Captain’s Chain Legguards (Rank 10 PvP)** | ✅ Current |
-| **Dragonstalker’s Legguards (MC Ragnaros)** | 🔼 Upgrade (less Stam, more DPS) |
-
----
-
-## 🥾 Feet
-| Item | Status |
-|------|--------|
-| **Blooddrenched Footpads (ZG Venoxis)** | ✅ Current |
-| **Knight-Captain’s Boots (PvP)** | 🔼 Stam-heavy PvP choice |
-
----
-
-## 💍 Rings
-| Item | Status |
-|------|--------|
-| **Don Julio’s Band (AV Exalted PvP)** | ✅ Current |
-| **Tarnished Elven Ring (Quest)** | ✅ Current |
-| **Protector’s Band (PvP Rank Reward)** | 🔼 PvP Stam choice |
-
----
-
-## 📜 Trinkets
-| Item | Status |
-|------|--------|
-| **Royal Seal of Eldre’Thalas (DM Quest)** | ✅ Current |
-| **Blackhand’s Breadth (UBRS Quest)** | ✅ Current |
-| **Insignia of the Alliance (PvP Trinket)** | ✅ Mandatory |
-| **Engineering Trinkets (Reflectors, Nets, Grenades)** | 🔼 PvP Utility |
-
----
-
-## ⚔️ Weapons
-| Item | Status |
-|------|--------|
-| **Rhokedelar (Class Bow)** | ✅ Current |
-| **Lok’delar (Class Staff)** | ✅ Current |
-| **Ashjre’thul (BWL Chromaggus)** | 🔼 Burst PvP Upgrade |
-| **Barbarous Blade (DM North)** | 🔼 Melee option |
-
----
-
----
-
-# 🐺 Hunter – Solo / Farming Gear
-
-Solo & Farming setzt auf **mana efficiency**, **pet synergy**, und **Stamina/Survival**.  
-
----
-
-## 👑 Head
-| Item | Status |
-|------|--------|
-| **Knight-Captain’s Chain Helm (PvP)** | ✅ Current |
-| **Mask of the Unforgiven (Stratholme)** | 🔼 Alternative for crit |
-
----
-
-## 🧿 Neck
-| Item | Status |
-|------|--------|
-| **Eye of Hakkar (ZG)** | ✅ Current |
-
----
-
-## 🧥 Back
-| Item | Status |
-|------|--------|
-| **Earthweave Cloak (Crafted)** | ✅ Current (Stamina heavy) |
-
----
-
-## 🥼 Chest
-| Item | Status |
-|------|--------|
-| **Giantstalker’s Breastplate (MC)** | ✅ Current |
-
----
-
-## 🪢 Waist
-| Item | Status |
-|------|--------|
-| **Zandalar Predator’s Belt (ZG)** | ✅ Current |
-
----
-
-## 🦵 Legs
-| Item | Status |
-|------|--------|
-| **Knight-Captain’s Chain Legguards (PvP)** | ✅ Current |
-
----
-
-## 🥾 Feet
-| Item | Status |
-|------|--------|
-| **Blooddrenched Footpads (ZG)** | ✅ Current |
-
----
-
-## 💍 Rings
-| Item | Status |
-|------|--------|
-| **Don Julio’s Band (AV Exalted PvP)** | ✅ Current |
-| **Tarnished Elven Ring (Quest)** | ✅ Current |
-
----
-
-## 📜 Trinkets
-| Item | Status |
-|------|--------|
-| **Royal Seal of Eldre’Thalas (DM Quest)** | ✅ Current |
-| **Blackhand’s Breadth (UBRS Quest)** | ✅ Current |
-| **Carrot on a Stick (Zul’Farrak Quest)** | 🔼 Solo/farm movement |
-
----
-
-## ⚔️ Weapons
-| Item | Status |
-|------|--------|
-| **Lok’delar (Class Staff)** | ✅ Current |
-| **Rhokedelar (Class Bow)** | ✅ Current |
-| **Huntsman’s Harpoon (DM East)** | 🔼 Farming DPS |
-
----
-
-# 🔮 Hatschepsut – Shadow Priest (Classic Phase 5 + PvP/Solo + Naxx Prep)
-
-![Priest Badge](https://img.shields.io/badge/Priest-Shadow-9b59b6?logo=icloud&logoColor=white)
-![Professions](https://img.shields.io/badge/Herbalism%20🌿-Alchemy%20⚗️-27ae60?style=flat&logo=codesandbox&logoColor=white)
-
-**Spec:** Shadow DPS (with Healing Backup)  
-**Patch:** 1.15.7 – Phase 5  
 **Server:** PvE & PvP  
+
+---
+
+## 🎯 Raid Gear Progress – Hunter
+
+| Slot | Current | Upgrade | BiS (Naxx) | Source |
+|------|---------|---------|------------|--------|
+| **Head** | Knight-Captain’s Chain Headguard ✅ | Dragonstalker’s Helmet 🔼 | Cryptstalker Headpiece 🌟 | PvP / MC / Naxx |
+| **Neck** | Eye of Hakkar ✅ | Prestor’s Talisman 🔼 | Onyxia Tooth Pendant 🌟 | ZG / BWL / Onyxia |
+| **Shoulders** | Giantstalker Epaulets ✅ | Striker’s Pauldrons 🔼 | Cryptstalker Spaulders 🌟 | MC / AQ40 / Naxx |
+| **Back** | Earthweave Cloak / Cloak of the Shrouded Mists ✅ | Cloak of Veiled Shadows 🔼 | Naxx Hunter Cloak 🌟 | Dungeon / Onyxia / AQ40 / Naxx |
+| **Chest** | Giantstalker Breastplate ✅ | Striker’s Hauberk 🔼 | Cryptstalker Tunic 🌟 | MC / AQ40 / Naxx |
+| **Wrists** | Sand Reaver Wristguards ✅ | Dragonstalker Bracers 🔼 | Cryptstalker Wristguards 🌟 | AQ40 / MC / Naxx |
+| **Hands** | Knight-Captain’s Chain Gloves ✅ | Gauntlets of Annihilation 🔼 | Cryptstalker Handguards 🌟 | PvP / BWL / Naxx |
+| **Waist** | Zandalar Predator’s Belt ✅ | Hive Tunneler’s Belt 🔼 | Cryptstalker Girdle 🌟 | ZG / AQ40 / Naxx |
+| **Legs** | Knight-Captain’s Chain Legguards ✅ | Striker’s Leggings 🔼 | Cryptstalker Legguards 🌟 | PvP / AQ40 / Naxx |
+| **Feet** | Blooddrenched Footpads ✅ | Striker’s Footguards 🔼 | Cryptstalker Boots 🌟 | ZG / AQ40 / Naxx |
+| **Rings** | Don Julio’s Band ✅ / Tarnished Elven Ring ✅ | Band of Accuria 🔼 / Ring of Precision 🔼 | Naxx Hunter Rings 🌟 | PvP / Quest / MC / AQ40 / Naxx |
+| **Trinkets** | Blackhand’s Breadth ✅ / Royal Seal of Eldre’Thalas ✅ | Drake Fang Talisman 🔼 | Kiss of the Spider 🌟 | UBRS / DM / BWL / Naxx |
+| **Weapons (Ranged)** | Class Quest Bow ✅ | Striker’s Mark 🔼 | Naxx Crossbow 🌟 | Quest / AQ40 / Naxx |
+| **Weapons (Melee)** | Class Staff ✅ | Barbarous Blade / Huntsman’s Harpoon 🔼 | Naxx Hunter Melee 🌟 | Quest / Dire Maul / Naxx |
+
+---
+
+## 🧪 Consumables – Hunter
+
+### Raid
+- Smoked Desert Dumplings 🍖  
+- Elixir of the Mongoose 🐾  
+- Elixir of Giants 💪  
+- Juju Might / Juju Flurry 🪶  
+- Flask of Supreme Power ⚗️  
+
+### PvP
+- Free Action Potion 🛡️  
+- Rumsey Rum Black Label 🍺  
+- Limited Invulnerability Potion ⏳  
+- Engineering Bombs / Nets 🧨  
+
+### Solo/Farm
+- Elixir of Fortitude ❤️  
+- Mageblood Potion 🌙  
+- Major Healing Potion 💊  
 
 ---
 
