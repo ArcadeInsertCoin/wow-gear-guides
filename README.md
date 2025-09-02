@@ -1,4 +1,4 @@
-# 🏹 Hatschepsut – Marksmanship Hunter (Classic Phase 5 + PvP/Solo)
+# 🏹 Ahhotep – Marksmanship Hunter (Classic Phase 5 + PvP/Solo)
 
 ![Hunter Badge](https://img.shields.io/badge/Hunter-Marksmanship-f39c12?logo=icloud&logoColor=white)
 ![Professions](https://img.shields.io/badge/Mining%20⛏️-Engineering%20⚙️-3498db?style=flat&logo=codesandbox&logoColor=white)
