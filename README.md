@@ -84,6 +84,45 @@
 
 ---
 
+## ⚔️ PvP Set – Priest
+
+| Slot | Item | Source |
+|------|------|--------|
+| **Head** | Spellweaver’s Turban | Quest Reward |
+| **Neck** | Charm of the Shifting Sands | AQ20 Quest |
+| **Shoulders** | Felcloth Shoulders | Crafted |
+| **Back** | Spritecaster Cape | Dungeon Drop |
+| **Chest** | Robe of Volatile Power | MC |
+| **Wrists** | Rockfury Bracers | Cenarion Circle Rep |
+| **Hands** | Felcloth Gloves | Crafted |
+| **Waist** | Ban’thok Sash | LBRS |
+| **Legs** | Flarecore Leggings | Crafted |
+| **Feet** | Betrayer’s Boots | ZG |
+| **Rings** | Band of Servitude / Royal Seal of Eldre’Thalas | ZG / DM |
+| **Trinkets** | Eye of Moam / Songstone of Ironforge | AQ20 / PvP |
+| **Weapons** | Scepter of the Unholy / Tome of the Lost | Scholo / Dungeon |
+
+---
+
+## 🌿 Solo/Farm Set – Priest
+
+- **Focus**: Mana regen + survivability for farming  
+- **Best Mix of your Gear**:
+  - Head: Spellweaver’s Turban  
+  - Neck: Charm of the Shifting Sands  
+  - Shoulders: Felcloth Shoulders  
+  - Back: Spritecaster Cape  
+  - Chest: Robe of Volatile Power  
+  - Wrists: Rockfury Bracers  
+  - Waist: Ban’thok Sash  
+  - Legs: Flarecore Leggings  
+  - Feet: Betrayer’s Boots  
+  - Rings: Royal Seal of Eldre’Thalas + Band of Servitude  
+  - Trinkets: Eye of Moam + Royal Seal of Eldre’Thalas (for sustain)  
+  - Weapon: Gavel of Infinite Wisdom + Tome of Shadow Force  
+
+---
+
 ## 🧪 Consumables – Priest
 
 ### Raid
