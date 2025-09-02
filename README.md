@@ -208,142 +208,207 @@ Solo & Farming setzt auf **mana efficiency**, **pet synergy**, und **Stamina/Sur
 
 ---
 
-# 🔮 Hatschepsut – Shadow Priest (Classic Phase 5 + Naxx Prep)
+# 🔮 Hatschepsut – Shadow Priest (Classic Phase 5 + PvP/Solo + Naxx Prep)
 
 ![Priest Badge](https://img.shields.io/badge/Priest-Shadow-9b59b6?logo=icloud&logoColor=white)
-![Professions](https://img.shields.io/badge/Alchemy%20⚗️-Herbalism%20🌿-2ecc71?style=flat&logo=leaf&logoColor=white)
+![Professions](https://img.shields.io/badge/Herbalism%20🌿-Alchemy%20⚗️-27ae60?style=flat&logo=codesandbox&logoColor=white)
 
 **Spec:** Shadow DPS (with Healing Backup)  
 **Patch:** 1.15.7 – Phase 5  
-**Server:** PvE  
+**Server:** PvE & PvP  
 
 ---
 
+# 🪄 Priest – Raid Gear Progress (Phase 5 + Naxx Prep)
+
 ## 👑 Head
-🟢 **Spellweaver’s Turban** *(Quest Reward)*  
-🟡 **Skul’s Ghastly Touch** *(Stratholme – Skul ~30%)*  
-🟣 **Preceptor’s Hat** *(Naxx – Instructor Razuvious)*  
+| Item | Status | Source |
+|------|--------|--------|
+| **Spellweaver’s Turban** | ✅ Current | Dungeon Quest |
+| **Preceptor’s Hat** | 🔼 Upgrade | AQ40 – Prophet Skeram |
+| **T3 Circlet (Future)** | 🔼 Naxx BiS | Naxx – Kel’Thuzad |
 
 ---
 
 ## 🧿 Neck
-🟢 **Charm of the Shifting Sands** *(AQ20 Quest Reward)*  
-🟡 **Amulet of Vek’nilash** *(AQ40 – Twin Emperors)*  
-🟡 **Choker of the Firelord** *(MC – Ragnaros)*  
-🟣 **Malice Stone Pendant** *(Naxx – Anub’Rekhan)*  
+| Item | Status | Source |
+|------|--------|--------|
+| **Charm of the Shifting Sands** | ✅ Current | AQ20 Quest |
+| **Amulet of Vek’nilash** | 🔼 Upgrade | AQ40 – Twin Emperors |
+| **Choker of the Firelord** | 🔼 BiS | MC – Ragnaros |
 
 ---
 
 ## 🦴 Shoulders
-🟢 **Felcloth Shoulders** *(Crafted)*  
-🟡 **Mantle of the Blackwing Cabal** *(BWL – Razorgore)*  
-🟣 **Rime Covered Mantle** *(Naxx – Sapphiron)*  
+| Item | Status | Source |
+|------|--------|--------|
+| **Felcloth Shoulders** | ✅ Current | Crafted |
+| **Mantle of the Blackwing Cabal** | 🔼 Upgrade | BWL – Razorgore |
+| **Rime Covered Mantle** | 🔼 BiS | Naxx – Sapphiron |
 
 ---
 
 ## 🧥 Back
-🟢 **Spritecaster Cape** *(Dungeon Drop)*  
-🟡 **Cloak of Consumption** *(ZG – Hakkar)* / **Cloak of the Hakkari Worshipers** *(ZG – Venoxis/Thekal)*  
-🟣 **Cloak of the Devoured** *(Naxx – Gluth)*  
+| Item | Status | Source |
+|------|--------|--------|
+| **Spritecaster Cape** | ✅ Current | Dungeon Drop |
+| **Cloak of Consumption** | 🔼 Upgrade | ZG – Hakkar |
+| **Cloak of the Devoured** | 🔼 BiS | Naxx – Instructor Razuvious |
 
 ---
 
 ## 🥼 Chest
-🟢 **Robe of Volatile Power** *(MC)*  
-🟡 **Garb of Royal Ascension** *(AQ40 – Trash Drop ~0.2%)*  
-🟣 **Crystal Webbed Robe** *(Naxx – Maexxna)*  
+| Item | Status | Source |
+|------|--------|--------|
+| **Robe of Volatile Power** | ✅ Current | MC Drop |
+| **Garb of Royal Ascension** | 🔼 Upgrade | AQ40 Trash (~0.2%) |
+| **Crystal Webbed Robe** | 🔼 BiS | Naxx – Maexxna |
 
 ---
 
 ## ⛓️ Wrists
-🟢 **Rockfury Bracers** *(Cenarion Circle – Revered)*  
-🟣 **Sapphiron’s Left Eye** *(Naxx – Sapphiron)*  
+| Item | Status | Source |
+|------|--------|--------|
+| **Rockfury Bracers** | ✅ Current | Cenarion Circle (Revered) |
 
 ---
 
 ## 🧤 Hands
-🟢 **Felcloth Gloves** *(Crafted)*  
-🟡 **Firemaw’s Clutch** *(BWL – Firemaw)*  
-🟣 **Dark Storm Gauntlets** *(Naxx – Anub’Rekhan)* / **Ebony Flame Gloves** *(Naxx – Faerlina)*  
+| Item | Status | Source |
+|------|--------|--------|
+| **Felcloth Gloves** | ✅ Current | Crafted |
+| **Firemaw’s Clutch** | 🔼 Upgrade | BWL – Firemaw |
+| **Ebony Flame Gloves** | 🔼 Alternative | BWL – Ebonroc |
+| **Dark Storm Gauntlets** | 🔼 BiS | Naxx – Gothik |
 
 ---
 
 ## 🪢 Waist
-🟢 **Ban’thok Sash** *(LBRS)*  
-🟡 **Sash of Whispered Secrets** *(MC – Majordomo)*  
-🟡 **Belt of Untapped Power** *(ZG – Various Bosses)*  
-🟣 **Eyestalk Waist Cord** *(Naxx – C’Thun / Sapphiron)*  
+| Item | Status | Source |
+|------|--------|--------|
+| **Ban’thok Sash** | ✅ Current | LBRS |
+| **Sash of Whispered Secrets** | 🔼 Upgrade | MC – Majordomo |
+| **Eyestalk Waist Cord** | 🔼 BiS | Naxx – C’Thun |
 
 ---
 
 ## 🦵 Legs
-🟢 **Flarecore Leggings** *(Crafted)*  
-🟡 **Nemesis Leggings** *(MC – Magmadar)*  
-🟣 **Leggings of Polarity** *(Naxx – Thaddius)*  
+| Item | Status | Source |
+|------|--------|--------|
+| **Flarecore Leggings** | ✅ Current | Crafted |
+| **Nemesis Leggings** | 🔼 Upgrade | MC – Magmadar |
+| **Leggings of Polarity** | 🔼 BiS | Naxx – Thaddius |
 
 ---
 
 ## 🥾 Feet
-🟢 **Betrayer’s Boots** *(ZG – Thekal)*  
-🟡 **Boots of Pure Thought** *(MC – Healing Option)*  
-🟣 **Boots of Epiphany** *(Naxx – Four Horsemen)*  
+| Item | Status | Source |
+|------|--------|--------|
+| **Betrayer’s Boots** | ✅ Current | ZG |
+| **Boots of Epiphany** | 🔼 BiS | Naxx – Four Horsemen |
 
 ---
 
 ## 💍 Rings
-🟢 **Band of Servitude** *(ZG)*  
-🟢 **Royal Seal of Eldre’Thalas** *(DM Quest)*  
-🟡 **Ring of Spell Power** *(MC – Ragnaros)*  
-🟡 **Band of Forced Concentration** *(BWL – Ebonroc)*  
-🟡 **Rune Band of Wizardry** *(UBRS ~25%)*  
-🟣 **Band of the Inevitable** *(Naxx – Loatheb)*  
-🟣 **Seal of the Damned** *(Naxx – Kel’Thuzad)*  
-🟣 **Band of Dark Dominion** *(Naxx – Sapphiron)*  
+| Item | Status | Source |
+|------|--------|--------|
+| **Band of Servitude** | ✅ Current | ZG |
+| **Royal Seal of Eldre’Thalas** | ✅ Current | DM Quest |
+| **Ring of Spell Power** | 🔼 BiS | MC – Ragnaros |
+| **Band of Forced Concentration** | 🔼 Upgrade | BWL – Ebonroc |
+| **Band of the Inevitable** | 🔼 BiS | Naxx – Loatheb |
+| **Seal of the Damned** | 🔼 BiS | Naxx – Kel’Thuzad |
+| **Band of Dark Dominion** | 🔼 BiS | Naxx – Multiple |
 
 ---
 
 ## 📜 Trinkets
-🟢 **Songstone of Ironforge** *(PvP Reward)*  
-🟢 **Eye of Moam** *(AQ20 – Ossirian)*  
-🟡 **Blackhand’s Breadth** *(UBRS Quest)*  
-🟡 **Talisman of Ephemeral Power** *(MC – Various)*  
-🟡 **Briarwood Reed** *(UBRS ~31%)*  
-🟣 **Neltharion’s Tear** *(BWL – Nefarian)*  
+| Item | Status | Source |
+|------|--------|--------|
+| **Songstone of Ironforge** | ✅ Current | PvP |
+| **Eye of Moam** | ✅ Current | AQ20 – Ossirian |
+| **Blackhand’s Breadth** | 🔼 Current Alt | UBRS Quest |
+| **Talisman of Ephemeral Power** | 🔼 Upgrade | MC |
+| **Neltharion’s Tear** | 🔼 BiS | BWL – Nefarian |
+| **Sapphiron’s Left Eye** | 🔼 BiS | Naxx – Sapphiron |
 
 ---
 
-## 🔮 Weapons (Main/Off-hand & Staffs)
-🟢 **Scepter of the Unholy** *(Scholo – Darkmaster Gandling)*  
-🟡 **Staff of the Ruins** *(AQ20 – Ossirian / Priest Quest)*  
-🟡 **Fang of Venoxis** *(ZG – Venoxis)*  
-🟡 **Anathema/Benediction** *(Priest Quest)*  
-🟡 **Lok’amir il Romathis** *(BWL – Nefarian)*  
-🟣 **Blessed Qiraji Acolyte Staff** *(AQ40 – C’Thun Quest)*  
-🟣 **Staff of the Shadow Flame** *(BWL – Nefarian)*  
+## 🔮 Weapons
+| Item | Status | Source |
+|------|--------|--------|
+| **Scepter of the Unholy** | ✅ Current | Scholo – Gandling |
+| **Lok’amir il Romathis** | 🔼 Upgrade | BWL – Nefarian |
+| **Staff of the Ruins** | 🔼 Upgrade | AQ20 – Ossirian |
+| **Blessed Qiraji Acolyte Staff** | 🔼 BiS Pre-Naxx | AQ40 Quest |
+| **Staff of the Shadow Flame** | 🔼 BiS | Naxx – Nefarian |
+| **Anathema/Benediction** | 🔼 Utility | Priest Quest |
 
 ---
 
-## 📚 Off-hand / Tome
-🟢 **Tome of the Lost** *(Dungeon Drop)*  
-🟣 **Tome of Shadow Force** *(PvP – Exalted Stormpike/Frostwolf AV)*  
+## 📚 Offhands
+| Item | Status | Source |
+|------|--------|--------|
+| **Tome of the Lost** | ✅ Current | Dungeon |
+| **Tome of Shadow Force** | 🔼 PvP BiS | Stormpike Exalted |
+| **Tome of the Ice Lord** | 🔼 PvE Alt | AV Boss |
 
 ---
 
 ## 🔫 Wand
-🟢 **Touch of Chaos** *(ZG – Hakkar)*  
-🟡 **Wand of Qiraji Nobility** *(AQ40 – Lord Kri)*  
-🟣 **Doomfinger** *(Naxx – Kel’Thuzad)*  
-🟣 **Wand of Fates** *(Naxx – Patchwerk)*  
+| Item | Status | Source |
+|------|--------|--------|
+| **Touch of Chaos** | ✅ Current | ZG – Hakkar |
+| **Wand of Qiraji Nobility** | 🔼 Upgrade | AQ40 – Bug Trio |
+| **Doomfinger** | 🔼 BiS | Naxx – Kel’Thuzad |
 
 ---
 
-# 📌 Next Gear Goals
-1. 🟡 **Mantle of the Blackwing Cabal (BWL)** – Replace Felcloth Shoulders  
-2. 🟡 **Ring of Spell Power (MC)** – Must-have ring  
-3. 🟡 **Amulet of Vek’nilash (AQ40)** – Replace Charm of the Shifting Sands  
-4. 🟣 **Neltharion’s Tear (BWL Nefarian)** – Best trinket  
-5. 🟡 **Staff of the Ruins (AQ20)** – Replace Scepter of the Unholy  
-6. 🟣 **Leggings of Polarity (Naxx)** – Endgame BiS  
-7. 🟣 **Crystal Webbed Robe (Naxx)** – Endgame BiS  
+# ⚔️ PvP & Solo Gear Notes
+- PvP setzt auf **Stamina + Utility Trinkets (Insignia, Engineering)**.  
+- Solo/Farming → mehr **Spirit/MP5** und **Stamina** für Sustain.  
+- Bestes Burst Setup PvP: **Tome of Shadow Force**, **Sapphiron’s Eye**, **Engineering Gadgets**.  
 
 ---
+
+# 🧪 Consumables
+
+## Priest (Raid)
+- 🧃 **Major Mana Potion**  
+- 🧃 **Demonic Rune / Dark Rune**  
+- 🍵 **Nightfin Soup**  
+- 🍵 **Elixir of Shadow Power**  
+- 🍵 **Greater Arcane Elixir**  
+- 🛡️ **Greater Fire Protection Potion** (MC/BWL)  
+- 🛡️ **Greater Nature Protection Potion** (AQ40)  
+
+## Priest (PvP/Solo)
+- 🥩 **Rumsey Rum Black Label** (+Stam)  
+- ⚡ **Limited Invulnerability Potion**  
+- ⚡ **Free Action Potion**  
+- 🧨 Engineering Bombs, Nets, Reflectors  
+
+---
+
+## Hunter (Raid)
+- 🍖 **Smoked Desert Dumplings** (AP food)  
+- 🧃 **Elixir of the Mongoose**  
+- 🧃 **Elixir of the Giants**  
+- 🧃 **Elixir of the Troll**  
+- 🧃 **Major Mana Potions**  
+- 🛡️ **Greater Fire/Nature Protection Potions**  
+
+## Hunter (PvP/Solo)
+- 🥩 **Rumsey Rum Black Label** (+Stam)  
+- ⚡ **Swiftness Potion**  
+- ⚡ **Free Action Potion**  
+- 🧨 **Goblin Sapper Charge / Grenades**  
+
+---
+
+# ⌨️ Useful Macros (Priest)
+
+### 1. Shadow Word: Pain (no double cast)
+```lua
+#showtooltip Shadow Word: Pain
+/cast [@target,harm,nodead,nounithasdebuff:Shadow Word: Pain] Shadow Word: Pain
