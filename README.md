@@ -11,22 +11,22 @@
 
 # 🏹 Raid Gear Progress – Ahhotep
 
-| Slot | Current | Upgrade | BiS (Naxx) | Boss Source |
-|------|---------|---------|------------|-------------|
-| **Head** | Knight-Captain’s Chain Headguard ✅ | Dragonstalker’s Helmet 🔼 | Cryptstalker Headpiece 🌟 | MC – Garr / Naxx – Multiple |
-| **Neck** | Onyxia Tooth Pendant ✅ | Prestor’s Talisman 🔼 | Naxx Hunter Neck 🌟 | BWL – Nefarian / Naxx – Multiple |
-| **Shoulders** | Giantstalker Epaulets ✅ | Striker’s Pauldrons 🔼 | Cryptstalker Spaulders 🌟 | AQ40 – Princess Huhuran / Naxx – Loatheb |
-| **Back** | Earthweave Cloak / Cloak of the Shrouded Mists ✅ | Cloak of Veiled Shadows 🔼 | Hunter Cloak 🌟 | AQ40 – Twin Emperors / Naxx – Gluth |
-| **Chest** | Giantstalker Breastplate ✅ | Striker’s Hauberk 🔼 | Cryptstalker Tunic 🌟 | AQ40 – Ouro / Naxx – Four Horsemen |
-| **Wrists** | Ossirian’s Binding ✅ | Dragonstalker Bracers 🔼 | Cryptstalker Wristguards 🌟 | MC – Magmadar / Naxx – Grobbulus |
-| **Hands** | Knight-Captain’s Chain Gloves ✅ | Gauntlets of Annihilation 🔼 | Cryptstalker Handguards 🌟 | BWL – Chromaggus / Naxx – Instructor Razuvious |
-| **Waist** | Zandalar Predator’s Belt ✅ | Hive Tunneler’s Belt 🔼 | Cryptstalker Girdle 🌟 | AQ40 – Viscidus / Naxx – Anub’Rekhan |
-| **Legs** | Knight-Captain’s Chain Legguards ✅ | Striker’s Leggings 🔼 | Cryptstalker Legguards 🌟 | AQ40 – C’Thun / Naxx – Patchwerk |
-| **Feet** | Blooddrenched Footpads ✅ | Striker’s Footguards 🔼 | Cryptstalker Boots 🌟 | AQ40 – Twin Emperors / Naxx – Gluth |
-| **Rings** | Don Julio’s Band ✅ / Tarnished Elven Ring ✅ | Band of Accuria 🔼 / Ring of Precision 🔼 | Naxx Hunter Rings 🌟 | MC – Ragnaros / AQ40 – Ouro / Naxx – Multiple |
-| **Trinkets** | Blackhand’s Breadth ✅ / Royal Seal of Eldre’Thalas ✅ | Drake Fang Talisman 🔼 | Kiss of the Spider 🌟 | BWL – Ebonroc / Naxx – Maexxna |
-| **Weapons (Ranged)** | Class Quest Bow ✅ | Striker’s Mark 🔼 | Nerubian Slavemaker 🌟 | AQ40 – Twin Emperors / Naxx – Kel’Thuzad |
-| **Weapons (Melee)** | Class Staff ✅ | Barbarous Blade / Huntsman’s Harpoon 🔼 | Naxx Hunter Melee 🌟 | DM / DM / Naxx – Patchwerk |
+| Slot | Current | Upgrade | BiS (Endgame) | Boss Source |
+|------|---------|---------|---------------|-------------|
+| **Head** | Knight-Captain’s Chain Headguard ✅ | Striker’s Diadem 🔼 | Cryptstalker Headpiece 🌟 | AQ40 Quest / Naxx – Multiple |
+| **Neck** | Onyxia Tooth Pendant ✅ | Prestor’s Talisman 🔼 | Amulet of Vek’nilash 🌟 | BWL – Nefarian / AQ40 – Vek’nilash |
+| **Shoulders** | Giantstalker Epaulets ✅ | Dragonstalker’s Spaulders 🔼 | Mantle of Wicked Revenge 🌟 | BWL – Chromaggus / AQ40 – Fankriss |
+| **Back** | Earthweave Cloak / Cloak of the Shrouded Mists ✅ | Cloak of the Fallen God 🔼 | Cloak of the Fallen God 🌟 | AQ40 Quest (C’Thun) |
+| **Chest** | Giantstalker Breastplate ✅ | Vest of Swift Execution 🔼 | Striker’s Hauberk 🌟 | AQ40 – Lord Kri / AQ40 Quest |
+| **Wrists** | Ossirian’s Binding ✅ | Wristguards of True Flight 🔼 | Dragonstalker’s Bracers 🌟 | AQ20 – Ossirian / MC – Majordomo / BWL – Razorgore |
+| **Hands** | Knight-Captain’s Chain Gloves ✅ | Dragonstalker’s Gauntlets 🔼 | Vek’lor’s Gloves of Devastation 🌟 | BWL – 3 Dragons / AQ40 – Emperor Vek’lor |
+| **Waist** | Zandalar Predator’s Belt ✅ | Belt of Never-ending Agony 🔼 | Cryptstalker Girdle 🌟 | ZG / AQ40 – C’Thun / Naxx – Anub’Rekhan |
+| **Legs** | Knight-Captain’s Chain Legguards ✅ | Giantstalker’s Leggings 🔼 → Striker’s Leggings 🔼 | Dragonstalker’s Legguards 🌟 | MC – Magmadar / AQ40 – Fankriss / AQ40 Quest / MC – Ragnaros |
+| **Feet** | Blooddrenched Footpads ✅ | Striker’s Footguards 🔼 | Dragonstalker’s Greaves 🌟 | ZG – Venoxis / AQ40 Quest / BWL – Lashlayer |
+| **Rings** | Don Julio’s Band ✅ / Tarnished Elven Ring ✅ | Band of Accuria 🔼 | Signet Ring of the Bronze Dragonflight 🌟 | MC – Ragnaros / AQ40 Quest |
+| **Trinkets** | Blackhand’s Breadth ✅ / Royal Seal of Eldre’Thalas ✅ | Drake Fang Talisman 🔼 | Jom Gabbar 🌟 | UBRS / DM / BWL – Ebonroc / AQ40 – Ouro |
+| **Weapons (Melee)** | Class Staff ✅ | Core Hound Tooth 🔼 / Warblade of the Hakkari 🔼 | Blessed Qiraji Pugio 🌟 / Fang of the Faceless 🌟 | MC – Majordomo / ZG – Hakkar / AQ40 Quest / AQ40 – Sartura |
+| **Weapons (Ranged)** | Class Quest Bow ✅ | Blessed Qiraji Musket 🔼 | Ashjre’thul, Crossbow of Smiting 🌟 | AQ40 Quest / BWL – Chromaggus |
 
 ---
 
