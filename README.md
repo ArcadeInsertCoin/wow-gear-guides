@@ -1,24 +1,19 @@
 # 🏹 Ahhotep – Marksmanship Hunter (Classic Phase 5 + Naxx Prep)
 
-![Hunter Badge](https://img.shields.io/badge/Hunter-Marksmanship-27ae60?logo=icloud&logoColor=white)  
-![Professions](https://img.shields.io/badge/Mining⛏️-Engineering🛠️-2980b9)
-
-**Spec:** Marksmanship DPS  
-**Patch:** 1.15.7 – Phase 5  
-**Server:** PvE & PvP  
+![Hunter Badge](https://img.shields.io/badge/Hunter-Marksmanship-f39c12?logo=icloud&logoColor=white)  
+![Professions](https://img.shields.io/badge/Mining⛏️-Engineering⚙️-3498db)
 
 ---
 
 ## 🎯 Raid Gear Progress – Hunter
-
 | Slot | Current | Upgrade | BiS (Naxx) | Source |
 |------|---------|---------|------------|--------|
 | **Head** | Knight-Captain’s Chain Headguard ✅ | Dragonstalker’s Helmet 🔼 | Cryptstalker Headpiece 🌟 | PvP / MC / Naxx |
-| **Neck** | Eye of Hakkar ✅ | Prestor’s Talisman 🔼 | Onyxia Tooth Pendant 🌟 | ZG / BWL / Onyxia |
+| **Neck** | Onyxia Tooth Pendant ✅ | Prestor’s Talisman of Connivery 🔼 | Naxx Hunter Neck 🌟 | Onyxia / BWL / Naxx |
 | **Shoulders** | Giantstalker Epaulets ✅ | Striker’s Pauldrons 🔼 | Cryptstalker Spaulders 🌟 | MC / AQ40 / Naxx |
-| **Back** | Earthweave Cloak / Cloak of the Shrouded Mists ✅ | Cloak of Veiled Shadows 🔼 | Naxx Hunter Cloak 🌟 | Dungeon / Onyxia / AQ40 / Naxx |
+| **Back** | Earthweave Cloak / Cloak of the Shrouded Mists ✅ | Cloak of Veiled Shadows 🔼 | Shroud of Dominion 🌟 | Dungeon / Onyxia / AQ40 / Naxx |
 | **Chest** | Giantstalker Breastplate ✅ | Striker’s Hauberk 🔼 | Cryptstalker Tunic 🌟 | MC / AQ40 / Naxx |
-| **Wrists** | Sand Reaver Wristguards ✅ | Dragonstalker Bracers 🔼 | Cryptstalker Wristguards 🌟 | AQ40 / MC / Naxx |
+| **Wrists** | Ossirian’s Binding ✅ | Dragonstalker Bracers 🔼 | Cryptstalker Wristguards 🌟 | AQ20 / MC / Naxx |
 | **Hands** | Knight-Captain’s Chain Gloves ✅ | Gauntlets of Annihilation 🔼 | Cryptstalker Handguards 🌟 | PvP / BWL / Naxx |
 | **Waist** | Zandalar Predator’s Belt ✅ | Hive Tunneler’s Belt 🔼 | Cryptstalker Girdle 🌟 | ZG / AQ40 / Naxx |
 | **Legs** | Knight-Captain’s Chain Legguards ✅ | Striker’s Leggings 🔼 | Cryptstalker Legguards 🌟 | PvP / AQ40 / Naxx |
@@ -30,25 +25,49 @@
 
 ---
 
-## 🧪 Consumables – Hunter
+## 📌 Next Gear Goals
+1. 🐉 **Prestor’s Talisman of Connivery (BWL)** → Neck Upgrade  
+2. 🏯 **Striker’s Pauldrons (AQ40)** → Best Shoulders before Naxx  
+3. 🏯 **Striker’s Hauberk (AQ40)** → Chest Upgrade  
+4. 🐉 **Band of Accuria (MC Ragnaros)** → Ring Upgrade  
+5. 🐉 **Drake Fang Talisman (BWL Ebonroc)** → Huge DPS Trinket  
 
-### Raid
-- Smoked Desert Dumplings 🍖  
-- Elixir of the Mongoose 🐾  
-- Elixir of Giants 💪  
-- Juju Might / Juju Flurry 🪶  
-- Flask of Supreme Power ⚗️  
+---
 
-### PvP
-- Free Action Potion 🛡️  
-- Rumsey Rum Black Label 🍺  
-- Limited Invulnerability Potion ⏳  
-- Engineering Bombs / Nets 🧨  
+## 🧪 Raid Consumables – Hunter
+- **Elixir of the Mongoose** 🦊 → +Agility +Crit  
+- **Elixir of the Giants** 💪 → +Strength (for RAP scaling)  
+- **Juju Power / Juju Might** 🧿 → situational buffs  
+- **Grilled Squid / Smoked Desert Dumplings** 🍖 → best food buffs  
+- **Elixir of Greater Agility** 🏹 → if no Mongoose  
+- **Major Mana Potions** 🔋 → sustain for long fights  
+- **Scorpid Surprise** 🦂 → PvP niche food (hit debuff vs melee)  
 
-### Solo/Farm
-- Elixir of Fortitude ❤️  
-- Mageblood Potion 🌙  
-- Major Healing Potion 💊  
+---
+
+## ⚔️ PvP Gear (Hunter)
+- **Head:** Knight-Captain’s Chain Headguard  
+- **Neck:** Onyxia Tooth Pendant  
+- **Shoulders:** Giantstalker Epaulets  
+- **Back:** Cloak of the Shrouded Mists  
+- **Chest:** Giantstalker Breastplate  
+- **Wrists:** Ossirian’s Binding  
+- **Hands:** Knight-Captain’s Chain Gloves  
+- **Waist:** Zandalar Predator’s Belt  
+- **Legs:** Knight-Captain’s Chain Legguards  
+- **Feet:** Blooddrenched Footpads  
+- **Rings:** Don Julio’s Band + Tarnished Elven Ring  
+- **Trinkets:** Blackhand’s Breadth + Royal Seal of Eldre’Thalas  
+- **Weapons:** Class Quest Bow + Class Quest Staff  
+
+---
+
+## 🌿 Solo/Farm Gear (Hunter)
+- **Neck:** Onyxia Tooth Pendant  
+- **Chest:** Giantstalker Breastplate  
+- **Rings:** Royal Seal of Eldre’Thalas + Tarnished Elven Ring  
+- **Trinkets:** Blackhand’s Breadth + Royal Seal of Eldre’Thalas  
+- **Weapons:** Class Quest Bow + Barbarous Blade (farm DPS)  
 
 ---
 
