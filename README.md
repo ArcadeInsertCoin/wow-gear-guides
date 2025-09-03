@@ -14,7 +14,7 @@
 | Slot | Current | Upgrade | BiS (Endgame) | Boss Source |
 |------|---------|---------|---------------|-------------|
 | **Head** | Knight-Captain’s Chain Headguard ✅ | Striker’s Diadem 🔼 | Cryptstalker Headpiece 🌟 | AQ40 Quest / Naxx – Multiple |
-| **Neck** | Onyxia Tooth Pendant ✅ | Prestor’s Talisman 🔼 | Amulet of Vek’nilash 🌟 | BWL – Nefarian / AQ40 – Vek’nilash |
+| **Neck** | Onyxia Tooth Pendant ✅ | Prestor’s Talisman 🔼 | Prestor’s Talisman 🌟 | BWL – Nefarian |
 | **Shoulders** | Giantstalker Epaulets ✅ | Dragonstalker’s Spaulders 🔼 | Mantle of Wicked Revenge 🌟 | BWL – Chromaggus / AQ40 – Fankriss |
 | **Back** | Earthweave Cloak / Cloak of the Shrouded Mists ✅ | Cloak of the Fallen God 🔼 | Cloak of the Fallen God 🌟 | AQ40 Quest (C’Thun) |
 | **Chest** | Giantstalker Breastplate ✅ | Vest of Swift Execution 🔼 | Striker’s Hauberk 🌟 | AQ40 – Lord Kri / AQ40 Quest |
