@@ -18,7 +18,7 @@
 | **Shoulders** | Giantstalker Epaulets ✅ | Dragonstalker’s Spaulders 🔼 | Mantle of Wicked Revenge 🌟 | BWL – Chromaggus / AQ40 – Fankriss |
 | **Back** | Earthweave Cloak / Cloak of the Shrouded Mists ✅ | Cloak of the Fallen God 🔼 | Cloak of the Fallen God 🌟 | AQ40 Quest (C’Thun) |
 | **Chest** | Giantstalker Breastplate ✅ | Vest of Swift Execution 🔼 | Striker’s Hauberk 🌟 | AQ40 – Lord Kri / AQ40 Quest |
-| **Wrists** | Ossirian’s Binding ✅ | Wristguards of True Flight 🔼 | Dragonstalker’s Bracers 🌟 | AQ20 – Ossirian / MC – Majordomo / BWL – Razorgore |
+| **Wrists** | Ossirian’s Binding ✅ | Wristguards of True Flight 🔼 | Dragonstalker’s Bracers 🌟 | MC – Majordomo / BWL – Razorgore |
 | **Hands** | Knight-Captain’s Chain Gloves ✅ | Dragonstalker’s Gauntlets 🔼 | Vek’lor’s Gloves of Devastation 🌟 | BWL – 3 Dragons / AQ40 – Emperor Vek’lor |
 | **Waist** | Zandalar Predator’s Belt ✅ | Belt of Never-ending Agony 🔼 | Cryptstalker Girdle 🌟 | ZG / AQ40 – C’Thun / Naxx – Anub’Rekhan |
 | **Legs** | Knight-Captain’s Chain Legguards ✅ | Giantstalker’s Leggings 🔼 → Striker’s Leggings 🔼 | Dragonstalker’s Legguards 🌟 | MC – Magmadar / AQ40 – Fankriss / AQ40 Quest / MC – Ragnaros |
