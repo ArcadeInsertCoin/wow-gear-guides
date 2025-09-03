@@ -94,7 +94,7 @@
 | **Head** | Spellweaver’s Turban ✅ | Preceptor’s Hat 🔼 | T3 Circlet of Faith 🌟 | Quest / AQ40 / Naxx |
 | **Neck** | Charm of the Shifting Sands ✅ | Choker of the Firelord / Amulet of Vek’nilash 🔼 | Malice Stone Pendant 🌟 | AQ20 / MC / AQ40 / Naxx |
 | **Shoulders** | Felcloth Shoulders ✅ | Mantle of the Blackwing Cabal 🔼 | Rime Covered Mantle 🌟 | Crafted / BWL / Naxx |
-| **Back** | Spritecaster Cape ✅ | Cloak of Consumption / Cloak of the Devoured 🔼 | Cloak of Suturing 🌟 | Dungeon / ZG / AQ40 / Naxx |
+| **Back** | Cloak of Consumption ✅ | Cloak of the Devoured 🔼 | Cloak of Suturing 🌟 | Dungeon / ZG / AQ40 / Naxx |
 | **Chest** | Robe of Volatile Power ✅ | Garb of Royal Ascension / Crystal Webbed Robe 🔼 | T3 Robe of Faith 🌟 | MC / AQ40 / Naxx |
 | **Wrists** | Rockfury Bracers ✅ | — | T3 Wristguards 🌟 | Silithus / Naxx |
 | **Hands** | Felcloth Gloves ✅ | Dark Storm Gauntlets / Firemaw’s Clutch 🔼 | Ebony Flame Gloves 🌟 | Crafted / BWL / Naxx |
