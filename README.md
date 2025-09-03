@@ -22,9 +22,9 @@
 | **Hands** | Knight-Captain’s Chain Gloves ✅ | Dragonstalker’s Gauntlets 🔼 | Vek’lor’s Gloves of Devastation 🌟 | BWL – 3 Dragons / AQ40 – Emperor Vek’lor |
 | **Waist** | Ossirian’s Binding ✅ | Belt of Never-ending Agony 🔼 | Cryptstalker Girdle 🌟 | AQ40 – C’Thun / Naxx – Anub’Rekhan |
 | **Legs** | Knight-Captain’s Chain Legguards ✅ | Giantstalker’s Leggings 🔼 → Striker’s Leggings 🔼 | Dragonstalker’s Legguards 🌟 | MC – Magmadar / AQ40 – Fankriss / AQ40 Quest / MC – Ragnaros |
-| **Feet** | Blooddrenched Footpads ✅ | Striker’s Footguards 🔼 | Dragonstalker’s Greaves 🌟 | ZG – Venoxis / AQ40 Quest / BWL – Lashlayer |
+| **Feet** | Blooddrenched Footpads ✅ | Striker’s Footguards 🔼 | Dragonstalker’s Greaves 🌟 | AQ40 Quest / BWL – Lashlayer |
 | **Rings** | Don Julio’s Band ✅ / Tarnished Elven Ring ✅ | Band of Accuria 🔼 | Signet Ring of the Bronze Dragonflight 🌟 | PvP / Quest / MC – Ragnaros / AQ40 Quest |
-| **Trinkets** | Blackhand’s Breadth ✅ / Royal Seal of Eldre’Thalas ✅ | Drake Fang Talisman 🔼 | Jom Gabbar 🌟 | UBRS / DM / BWL – Ebonroc / AQ40 – Ouro |
+| **Trinkets** | Blackhand’s Breadth ✅ / Royal Seal of Eldre’Thalas ✅ | Drake Fang Talisman 🔼 | Jom Gabbar 🌟 | BWL – Ebonroc / AQ40 – Ouro |
 | **Weapons (Melee)** | Class Staff ✅ | Core Hound Tooth 🔼 / Warblade of the Hakkari 🔼 | Blessed Qiraji Pugio 🌟 / Fang of the Faceless 🌟 | MC – Majordomo / ZG – Hakkar / AQ40 Quest / AQ40 – Sartura |
 | **Weapons (Ranged)** | Class Quest Bow ✅ | Blessed Qiraji Musket 🔼 | Ashjre’thul, Crossbow of Smiting 🌟 | AQ40 Quest / BWL – Chromaggus |
 
