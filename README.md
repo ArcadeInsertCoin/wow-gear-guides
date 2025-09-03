@@ -1,27 +1,32 @@
-# 🏹 Ahhotep – Marksmanship Hunter (Classic Phase 5 + Naxx Prep)
+# 🏹 Ahhotep – Marksmanship Hunter (Classic Phase 5 + Naxx)
 
-![Hunter Badge](https://img.shields.io/badge/Hunter-Marksmanship-f39c12?logo=icloud&logoColor=white)  
-![Professions](https://img.shields.io/badge/Mining⛏️-Engineering⚙️-3498db)
+![Hunter Badge](https://img.shields.io/badge/Hunter-Marksmanship-f39c12?logo=icloud&logoColor=white)
+![Professions](https://img.shields.io/badge/Mining%20⛏️-Engineering%20⚙️-2980b9?style=flat&logo=cogs&logoColor=white)
+
+**Spec:** Marksmanship DPS  
+**Patch:** 1.15.7 – Phase 5 + Naxx  
+**Server:** PvE  
 
 ---
 
-## 🎯 Raid Gear Progress – Hunter
-| Slot | Current | Upgrade | BiS (Naxx) | Source |
-|------|---------|---------|------------|--------|
-| **Head** | Knight-Captain’s Chain Headguard ✅ | Dragonstalker’s Helmet 🔼 | Cryptstalker Headpiece 🌟 | PvP / MC / Naxx |
-| **Neck** | Onyxia Tooth Pendant ✅ | Prestor’s Talisman of Connivery 🔼 | Naxx Hunter Neck 🌟 | Onyxia / BWL / Naxx |
-| **Shoulders** | Giantstalker Epaulets ✅ | Striker’s Pauldrons 🔼 | Cryptstalker Spaulders 🌟 | MC / AQ40 / Naxx |
-| **Back** | Earthweave Cloak / Cloak of the Shrouded Mists ✅ | Cloak of Veiled Shadows 🔼 | Shroud of Dominion 🌟 | Dungeon / Onyxia / AQ40 / Naxx |
-| **Chest** | Giantstalker Breastplate ✅ | Striker’s Hauberk 🔼 | Cryptstalker Tunic 🌟 | MC / AQ40 / Naxx |
-| **Wrists** | Ossirian’s Binding ✅ | Dragonstalker Bracers 🔼 | Cryptstalker Wristguards 🌟 | AQ20 / MC / Naxx |
-| **Hands** | Knight-Captain’s Chain Gloves ✅ | Gauntlets of Annihilation 🔼 | Cryptstalker Handguards 🌟 | PvP / BWL / Naxx |
-| **Waist** | Zandalar Predator’s Belt ✅ | Hive Tunneler’s Belt 🔼 | Cryptstalker Girdle 🌟 | ZG / AQ40 / Naxx |
-| **Legs** | Knight-Captain’s Chain Legguards ✅ | Striker’s Leggings 🔼 | Cryptstalker Legguards 🌟 | PvP / AQ40 / Naxx |
-| **Feet** | Blooddrenched Footpads ✅ | Striker’s Footguards 🔼 | Cryptstalker Boots 🌟 | ZG / AQ40 / Naxx |
-| **Rings** | Don Julio’s Band ✅ / Tarnished Elven Ring ✅ | Band of Accuria 🔼 / Ring of Precision 🔼 | Naxx Hunter Rings 🌟 | PvP / Quest / MC / AQ40 / Naxx |
-| **Trinkets** | Blackhand’s Breadth ✅ / Royal Seal of Eldre’Thalas ✅ | Drake Fang Talisman 🔼 | Kiss of the Spider 🌟 | UBRS / DM / BWL / Naxx |
-| **Weapons (Ranged)** | Class Quest Bow ✅ | Striker’s Mark 🔼 | Naxx Crossbow 🌟 | Quest / AQ40 / Naxx |
-| **Weapons (Melee)** | Class Staff ✅ | Barbarous Blade / Huntsman’s Harpoon 🔼 | Naxx Hunter Melee 🌟 | Quest / Dire Maul / Naxx |
+# 🏹 Raid Gear Progress – Ahhotep
+
+| Slot | Current | Upgrade | BiS (Naxx) | Boss Source |
+|------|---------|---------|------------|-------------|
+| **Head** | Knight-Captain’s Chain Headguard ✅ | Dragonstalker’s Helmet 🔼 | Cryptstalker Headpiece 🌟 | MC – Garr / Naxx – Multiple |
+| **Neck** | Onyxia Tooth Pendant ✅ | Prestor’s Talisman 🔼 | Naxx Hunter Neck 🌟 | BWL – Nefarian / Naxx – Multiple |
+| **Shoulders** | Giantstalker Epaulets ✅ | Striker’s Pauldrons 🔼 | Cryptstalker Spaulders 🌟 | AQ40 – Princess Huhuran / Naxx – Loatheb |
+| **Back** | Earthweave Cloak / Cloak of the Shrouded Mists ✅ | Cloak of Veiled Shadows 🔼 | Hunter Cloak 🌟 | AQ40 – Twin Emperors / Naxx – Gluth |
+| **Chest** | Giantstalker Breastplate ✅ | Striker’s Hauberk 🔼 | Cryptstalker Tunic 🌟 | AQ40 – Ouro / Naxx – Four Horsemen |
+| **Wrists** | Ossirian’s Binding ✅ | Dragonstalker Bracers 🔼 | Cryptstalker Wristguards 🌟 | MC – Magmadar / Naxx – Grobbulus |
+| **Hands** | Knight-Captain’s Chain Gloves ✅ | Gauntlets of Annihilation 🔼 | Cryptstalker Handguards 🌟 | BWL – Chromaggus / Naxx – Instructor Razuvious |
+| **Waist** | Zandalar Predator’s Belt ✅ | Hive Tunneler’s Belt 🔼 | Cryptstalker Girdle 🌟 | AQ40 – Viscidus / Naxx – Anub’Rekhan |
+| **Legs** | Knight-Captain’s Chain Legguards ✅ | Striker’s Leggings 🔼 | Cryptstalker Legguards 🌟 | AQ40 – C’Thun / Naxx – Patchwerk |
+| **Feet** | Blooddrenched Footpads ✅ | Striker’s Footguards 🔼 | Cryptstalker Boots 🌟 | AQ40 – Twin Emperors / Naxx – Gluth |
+| **Rings** | Don Julio’s Band ✅ / Tarnished Elven Ring ✅ | Band of Accuria 🔼 / Ring of Precision 🔼 | Naxx Hunter Rings 🌟 | MC – Ragnaros / AQ40 – Ouro / Naxx – Multiple |
+| **Trinkets** | Blackhand’s Breadth ✅ / Royal Seal of Eldre’Thalas ✅ | Drake Fang Talisman 🔼 | Kiss of the Spider 🌟 | BWL – Ebonroc / Naxx – Maexxna |
+| **Weapons (Ranged)** | Class Quest Bow ✅ | Striker’s Mark 🔼 | Nerubian Slavemaker 🌟 | AQ40 – Twin Emperors / Naxx – Kel’Thuzad |
+| **Weapons (Melee)** | Class Staff ✅ | Barbarous Blade / Huntsman’s Harpoon 🔼 | Naxx Hunter Melee 🌟 | DM / DM / Naxx – Patchwerk |
 
 ---
 
