@@ -20,7 +20,7 @@
 | **Chest** | Giantstalker Breastplate ✅ | Vest of Swift Execution 🔼 | Striker’s Hauberk 🌟 | AQ40 – Lord Kri / AQ40 Quest |
 | **Wrists** | Sand Reaver Wristguards ✅ | Wristguards of True Flight 🔼 | Dragonstalker’s Bracers 🌟 | MC – Majordomo / BWL – Razorgore |
 | **Hands** | Knight-Captain’s Chain Gloves ✅ | Dragonstalker’s Gauntlets 🔼 | Vek’lor’s Gloves of Devastation 🌟 | BWL – 3 Dragons / AQ40 – Emperor Vek’lor |
-| **Waist** | Ossirian’s Binding ✅ | Belt of Never-ending Agony 🔼 | Cryptstalker Girdle 🌟 | AQ20 – Ossirian / AQ40 – C’Thun / Naxx – Anub’Rekhan |
+| **Waist** | Ossirian’s Binding ✅ | Belt of Never-ending Agony 🔼 | Cryptstalker Girdle 🌟 | AQ40 – C’Thun / Naxx – Anub’Rekhan |
 | **Legs** | Knight-Captain’s Chain Legguards ✅ | Giantstalker’s Leggings 🔼 → Striker’s Leggings 🔼 | Dragonstalker’s Legguards 🌟 | MC – Magmadar / AQ40 – Fankriss / AQ40 Quest / MC – Ragnaros |
 | **Feet** | Blooddrenched Footpads ✅ | Striker’s Footguards 🔼 | Dragonstalker’s Greaves 🌟 | ZG – Venoxis / AQ40 Quest / BWL – Lashlayer |
 | **Rings** | Don Julio’s Band ✅ / Tarnished Elven Ring ✅ | Band of Accuria 🔼 | Signet Ring of the Bronze Dragonflight 🌟 | PvP / Quest / MC – Ragnaros / AQ40 Quest |
