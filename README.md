@@ -103,7 +103,7 @@
 | **Feet** | Betrayer’s Boots ✅ | Boots of Pure Thought 🔼 | Boots of Epiphany 🌟 | ZG / MC / Naxx |
 | **Rings** | Band of Servitude / Royal Seal of Eldre’Thalas ✅ | Ring of Spell Power / Band of Forced Concentration 🔼 | Band of Dark Dominion / Seal of the Damned 🌟 | ZG / DM / MC / BWL / Naxx |
 | **Trinkets** | Songstone of Ironforge / Eye of Moam ✅ | Talisman of Ephemeral Power 🔼 | Neltharion’s Tear / Sapphiron’s Left Eye 🌟 | PvP / AQ20 / MC / BWL / Naxx |
-| **Weapons** | Scepter of the Unholy + Tome of the Lost ✅ | Fang of Venoxis / Staff of the Ruins 🔼 | Staff of the Shadow Flame / Lok’amir il Romathis 🌟 | Scholo / ZG / AQ20 / BWL / Naxx |
+| **Weapons** | Scepter of the Unholy + Tome of the Lost ✅ | Fang of Venoxis / Staff of the Ruins 🔼 | Staff of the Shadow Flame / Lok’amir il Romathis 🌟 | Scholo / ZG / AQ20 / BWL / BWL |
 | **Wand** | Touch of Chaos ✅ | Wand of Qiraji Nobility 🔼 | Wand of Fates / Doomfinger 🌟 | ZG / AQ40 / Naxx |
 
 ---
