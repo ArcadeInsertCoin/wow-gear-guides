@@ -88,61 +88,64 @@
 
 ---
 
-## 🎯 Raid Gear Progress – Shadow Priest
+# 🎯 Raid Gear Progress – Shadow Priest (Hatschepsut)
+
 | Slot | Current | Upgrade | BiS (Naxx) | Source |
 |------|---------|---------|------------|--------|
-| **Head** | Spellweaver’s Turban ✅ | Preceptor’s Hat 🔼 | T3 Circlet of Faith 🌟 | Quest / AQ40 / Naxx |
-| **Neck** | Charm of the Shifting Sands ✅ | Choker of the Firelord / Amulet of Vek’nilash 🔼 | Malice Stone Pendant 🌟 | AQ20 / MC / AQ40 / Naxx |
+| **Head** | Spellweaver’s Turban ✅ | Preceptor’s Hat 🔼 | Circlet of Faith 🌟 | Quest / AQ40 / Naxx |
+| **Neck** | Charm of the Shifting Sands ✅ | Amulet of Vek’nilash / Choker of the Firelord 🔼 | Gem of Trapped Innocents 🌟 | AQ40 / MC / Naxx |
 | **Shoulders** | Felcloth Shoulders ✅ | Mantle of the Blackwing Cabal 🔼 | Rime Covered Mantle 🌟 | Crafted / BWL / Naxx |
 | **Back** | Cloak of Consumption ✅ | Cloak of the Devoured 🔼 | Cloak of Suturing 🌟 | ZG / AQ40 / Naxx |
-| **Chest** | Robe of Volatile Power ✅ | Garb of Royal Ascension / Crystal Webbed Robe 🔼 | T3 Robe of Faith 🌟 | MC / AQ40 / Naxx |
-| **Wrists** | Rockfury Bracers ✅ | — | T3 Wristguards 🌟 | Silithus / Naxx |
-| **Hands** | Felcloth Gloves ✅ | Dark Storm Gauntlets / Firemaw’s Clutch 🔼 | Ebony Flame Gloves 🌟 | Crafted / BWL / Naxx |
-| **Waist** | Ban’thok Sash ✅ | Sash of Whispered Secrets / Eyestalk Waist Cord 🔼 | T3 Cord 🌟 | LBRS / MC / AQ40 / Naxx |
+| **Chest** | Robe of Volatile Power ✅ | Crystal Webbed Robe 🔼 | Robe of Faith 🌟 | MC / AQ40 / Naxx |
+| **Wrists** | Rockfury Bracers ✅ | — | Wristguards of Faith 🌟 | Silithus / Naxx |
+| **Hands** | Felcloth Gloves ✅ | Dark Storm Gauntlets / Firemaw’s Clutch 🔼 | Gloves of Faith 🌟 | Crafted / BWL / Naxx |
+| **Waist** | Ban’thok Sash ✅ | Sash of Whispered Secrets / Eyestalk Waist Cord 🔼 | Cord of Faith 🌟 | LBRS / MC / AQ40 / Naxx |
 | **Legs** | Flarecore Leggings ✅ | Nemesis Leggings 🔼 | Leggings of Polarity 🌟 | Crafted / MC / Naxx |
 | **Feet** | Betrayer’s Boots ✅ | Boots of Pure Thought 🔼 | Boots of Epiphany 🌟 | ZG / MC / Naxx |
-| **Rings** | Band of Servitude / Royal Seal of Eldre’Thalas ✅ | Ring of Spell Power / Band of Forced Concentration 🔼 | Band of Dark Dominion / Seal of the Damned 🌟 | ZG / DM / MC / BWL / Naxx |
-| **Trinkets** | Songstone of Ironforge / Eye of Moam ✅ | Talisman of Ephemeral Power 🔼 | Neltharion’s Tear / Sapphiron’s Left Eye 🌟 | PvP / AQ20 / MC / BWL / Naxx |
-| **Weapons** | Scepter of the Unholy + Tome of the Lost ✅ | Fang of Venoxis / Staff of the Ruins 🔼 | Staff of the Shadow Flame / Lok’amir il Romathis 🌟 | Scholo / ZG / AQ20 / BWL / BWL |
-| **Wand** | Touch of Chaos ✅ | Wand of Qiraji Nobility 🔼 | Wand of Fates / Doomfinger 🌟 | ZG / AQ40 / Naxx |
+| **Rings** | Band of Servitude ✅ / Royal Seal of Eldre’Thalas ✅ | Ring of Spell Power / Band of Forced Concentration 🔼 | Band of Dark Dominion / Ring of the Fallen God 🌟 | ZG / DM / MC / BWL / AQ40 / Naxx |
+| **Trinkets** | Eye of Moam ✅ / Songstone of Ironforge ✅ | Talisman of Ephemeral Power 🔼 | Neltharion’s Tear / Eye of Diminution 🌟 | AQ20 / PvP / BWL / Naxx |
+| **Mainhand / Offhand** | Scepter of the Unholy ✅ + Tome of Shadow Force ✅ | Lok’amir il Romathis 🔼 | Soulseeker 🌟 + Sapphiron’s Left Eye 🌟 | Scholo / AV / BWL – Nefarian / Naxx – Kel’Thuzad / Naxx – Sapphiron |
+| **Staffs** | — | Staff of the Shadow Flame 🔼 | Brimstone Staff 🌟 | BWL – Nefarian / Naxx – Loatheb |
+| **Wand** | Touch of Chaos ✅ | Wand of Qiraji Nobility 🔼 | Wand of Fates / Doomfinger 🌟 | AQ40 – Lord Kri / Naxx – Patchwerk / Naxx – Kel’Thuzad |
 
 ---
 
 ## ✨ Infinite Wisdom Set (Healing Alternative)
+
 | Slot | Item | Source |
 |------|------|--------|
-| **Ring** | Ring of Infinite Wisdom |
-| **Cloak** | Shroud of Infinite Wisdom |
-| **Weapon** | Gavel of Infinite Wisdom |
+| **Ring** | Ring of Infinite Wisdom | Silithus Quest |
+| **Cloak** | Shroud of Infinite Wisdom | Silithus Quest |
+| **Weapon** | Gavel of Infinite Wisdom | Silithus Quest |
 
-📌 **Bonus (3/3):** +Healing Power & Mana Efficiency → stark für **Healer-Offspec**, nutzbar in Raids wenn Shadow-Gear nicht benötigt wird.
+📌 **3/3 Bonus:** +Healing Power & Mana Efficiency → stark für **Healer-Offspec**.
 
 ---
 
-## ⚔️ PvP Set – Priest
+## ⚔️ PvP Set – Shadow Priest
 
 | Slot | Item | Source |
 |------|------|--------|
-| **Head** | Spellweaver’s Turban | Quest Reward |
-| **Neck** | Charm of the Shifting Sands | AQ20 Quest |
+| **Head** | Spellweaver’s Turban | Quest |
+| **Neck** | Charm of the Shifting Sands | AQ20 |
 | **Shoulders** | Felcloth Shoulders | Crafted |
-| **Back** | Spritecaster Cape | Dungeon Drop |
+| **Back** | Spritecaster Cape | Dungeon |
 | **Chest** | Robe of Volatile Power | MC |
-| **Wrists** | Rockfury Bracers | Cenarion Circle Rep |
+| **Wrists** | Rockfury Bracers | Cenarion Circle |
 | **Hands** | Felcloth Gloves | Crafted |
 | **Waist** | Ban’thok Sash | LBRS |
 | **Legs** | Flarecore Leggings | Crafted |
 | **Feet** | Betrayer’s Boots | ZG |
 | **Rings** | Band of Servitude / Royal Seal of Eldre’Thalas | ZG / DM |
 | **Trinkets** | Eye of Moam / Songstone of Ironforge | AQ20 / PvP |
-| **Weapons** | Scepter of the Unholy / Tome of the Lost | Scholo / Dungeon |
+| **Weapons** | Scepter of the Unholy + Tome of Shadow Force | Scholo / AV |
 
 ---
 
-## 🌿 Solo/Farm Set – Priest
+## 🌿 Solo/Farm Set – Shadow Priest
 
-- **Focus**: Mana regen + survivability for farming  
-- **Best Mix of your Gear**:
+- **Focus**: Mana regen + Survivability  
+- **Best Mix from your Gear**:
   - Head: Spellweaver’s Turban  
   - Neck: Charm of the Shifting Sands  
   - Shoulders: Felcloth Shoulders  
@@ -153,7 +156,7 @@
   - Legs: Flarecore Leggings  
   - Feet: Betrayer’s Boots  
   - Rings: Royal Seal of Eldre’Thalas + Band of Servitude  
-  - Trinkets: Eye of Moam + Royal Seal of Eldre’Thalas (for sustain)  
+  - Trinkets: Eye of Moam + Royal Seal of Eldre’Thalas  
   - Weapon: Gavel of Infinite Wisdom + Tome of Shadow Force  
 
 ---
