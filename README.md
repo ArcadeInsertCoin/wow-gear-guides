@@ -101,9 +101,9 @@
 | **Hands** | Felcloth Gloves ✅ | Dark Storm Gauntlets / Firemaw’s Clutch 🔼 | Gloves of Faith 🌟 | AQ40 C'Thun / BWL Firemaw / Naxx Quest |
 | **Waist** | Ban’thok Sash ✅ | Sash of Whispered Secrets / Eyestalk Waist Cord 🔼 | Cord of Faith 🌟 | MC Majordomo Executus / AQ40 C'Thun / Naxx Quest |
 | **Legs** | Flarecore Leggings ✅ | Nemesis Leggings 🔼 | Leggings of Polarity 🌟 | Crafted / MC Ragnaros / Naxx Thaddius |
-| **Feet** | Betrayer’s Boots ✅ | Boots of Pure Thought 🔼 | Boots of Epiphany 🌟 | ZG / MC / Naxx |
-| **Rings** | Band of Servitude ✅ / Royal Seal of Eldre’Thalas ✅ | Ring of Spell Power / Band of Forced Concentration 🔼 | Band of Dark Dominion / Ring of the Fallen God 🌟 | ZG / DM / MC / BWL / AQ40 / Naxx |
-| **Trinkets** | Eye of Moam ✅ / Songstone of Ironforge ✅ | Talisman of Ephemeral Power 🔼 | Neltharion’s Tear / Eye of Diminution 🌟 | AQ20 / PvP / BWL / Naxx |
+| **Feet** | Betrayer’s Boots ✅ | Boots of Pure Thought 🔼 | Boots of Epiphany 🌟 | BWL Random / Naxx Emperor Vek'lor |
+| **Rings** | Band of Servitude ✅ / Royal Seal of Eldre’Thalas ✅ | Ring of Spell Power / Band of Forced Concentration 🔼 | Band of Dark Dominion / Ring of the Fallen God 🌟 | MC 4 Bosses / BWL Ebonroc / BWL Random / AQ40 C'Thun Head |
+| **Trinkets** | Eye of Moam ✅ / Songstone of Ironforge ✅ | Talisman of Ephemeral Power 🔼 | Neltharion’s Tear / Eye of Diminution 🌟 | MC 4 Bosses / BWL Nefarian / Naxx Thaddius |
 | **Mainhand / Offhand** | Scepter of the Unholy ✅ + Tome of Shadow Force ✅ | Lok’amir il Romathis 🔼 | Soulseeker 🌟 + Sapphiron’s Left Eye 🌟 | Scholo / AV / BWL – Nefarian / Naxx – Kel’Thuzad / Naxx – Sapphiron |
 | **Staffs** | — | Staff of the Shadow Flame 🔼 | Brimstone Staff 🌟 | BWL – Nefarian / Naxx – Loatheb |
 | **Wand** | Touch of Chaos ✅ | Wand of Qiraji Nobility 🔼 | Wand of Fates / Doomfinger 🌟 | AQ40 – Lord Kri / Naxx – Patchwerk / Naxx – Kel’Thuzad |
