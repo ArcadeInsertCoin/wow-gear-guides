@@ -92,7 +92,7 @@
 
 | Slot | Current | Upgrade | BiS (Naxx) | Source |
 |------|---------|---------|------------|--------|
-| **Head** | Spellweaver’s Turban ✅ | Preceptor’s Hat 🔼 | Circlet of Faith 🌟 | Quest / AQ40 / Naxx |
+| **Head** | Spellweaver’s Turban ✅ | Preceptor’s Hat 🔼 | Circlet of Faith 🌟 | Quest / NAXX Heigan the Unclean / Naxx Quest |
 | **Neck** | Charm of the Shifting Sands ✅ | Amulet of Vek’nilash / Choker of the Firelord 🔼 | Gem of Trapped Innocents 🌟 | AQ40 / MC / Naxx |
 | **Shoulders** | Felcloth Shoulders ✅ | Mantle of the Blackwing Cabal 🔼 | Rime Covered Mantle 🌟 | Crafted / BWL / Naxx |
 | **Back** | Cloak of Consumption ✅ | Cloak of the Devoured 🔼 | Cloak of Suturing 🌟 | ZG / AQ40 / Naxx |
