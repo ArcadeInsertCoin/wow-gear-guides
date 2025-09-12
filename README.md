@@ -92,15 +92,15 @@
 
 | Slot | Current | Upgrade | BiS (Naxx) | Source |
 |------|---------|---------|------------|--------|
-| **Head** | Spellweaver’s Turban ✅ | Preceptor’s Hat 🔼 | Circlet of Faith 🌟 | Quest / NAXX Heigan the Unclean / Naxx Quest |
+| **Head** | Spellweaver’s Turban ✅ | Preceptor’s Hat 🔼 | Circlet of Faith 🌟 | NAXX Heigan the Unclean / Naxx Quest |
 | **Neck** | Charm of the Shifting Sands ✅ | Amulet of Vek’nilash / Choker of the Firelord 🔼 | Gem of Trapped Innocents 🌟 | AQ40 Emperor Vek'nilash / MC Ragnaros / Naxx Kel’Thuzad |
-| **Shoulders** | Felcloth Shoulders ✅ | Mantle of the Blackwing Cabal 🔼 | Rime Covered Mantle 🌟 | Crafted / BWL / Naxx |
-| **Back** | Cloak of Consumption ✅ | Cloak of the Devoured 🔼 | Cloak of Suturing 🌟 | ZG / AQ40 / Naxx |
-| **Chest** | Robe of Volatile Power ✅ | Crystal Webbed Robe 🔼 | Robe of Faith 🌟 | MC / AQ40 / Naxx |
-| **Wrists** | Rockfury Bracers ✅ | — | Wristguards of Faith 🌟 | Silithus / Naxx |
-| **Hands** | Felcloth Gloves ✅ | Dark Storm Gauntlets / Firemaw’s Clutch 🔼 | Gloves of Faith 🌟 | Crafted / BWL / Naxx |
-| **Waist** | Ban’thok Sash ✅ | Sash of Whispered Secrets / Eyestalk Waist Cord 🔼 | Cord of Faith 🌟 | LBRS / MC / AQ40 / Naxx |
-| **Legs** | Flarecore Leggings ✅ | Nemesis Leggings 🔼 | Leggings of Polarity 🌟 | Crafted / MC / Naxx |
+| **Shoulders** | Felcloth Shoulders ✅ | Mantle of the Blackwing Cabal 🔼 | Rime Covered Mantle 🌟 | BWL Razorgore the Untamed / Naxx Gluth |
+| **Back** | Cloak of Consumption ✅ | Cloak of the Devoured 🔼 | Cloak of Suturing 🌟 | AQ40 C'Thun / Naxx Patchwerk |
+| **Chest** | Robe of Volatile Power ✅ | Crystal Webbed Robe 🔼 | Robe of Faith 🌟 | MC 4 Bosses / NAXX Maexxna / Naxx Quest |
+| **Wrists** | Rockfury Bracers ✅ | — | Wristguards of Faith 🌟 | Naxx Quest |
+| **Hands** | Felcloth Gloves ✅ | Dark Storm Gauntlets / Firemaw’s Clutch 🔼 | Gloves of Faith 🌟 | AQ40 C'Thun / BWL Firemaw / Naxx Quest |
+| **Waist** | Ban’thok Sash ✅ | Sash of Whispered Secrets / Eyestalk Waist Cord 🔼 | Cord of Faith 🌟 | MC Majordomo Executus / AQ40 C'Thun / Naxx Quest |
+| **Legs** | Flarecore Leggings ✅ | Nemesis Leggings 🔼 | Leggings of Polarity 🌟 | Crafted / MC Ragnaros / Naxx Thaddius |
 | **Feet** | Betrayer’s Boots ✅ | Boots of Pure Thought 🔼 | Boots of Epiphany 🌟 | ZG / MC / Naxx |
 | **Rings** | Band of Servitude ✅ / Royal Seal of Eldre’Thalas ✅ | Ring of Spell Power / Band of Forced Concentration 🔼 | Band of Dark Dominion / Ring of the Fallen God 🌟 | ZG / DM / MC / BWL / AQ40 / Naxx |
 | **Trinkets** | Eye of Moam ✅ / Songstone of Ironforge ✅ | Talisman of Ephemeral Power 🔼 | Neltharion’s Tear / Eye of Diminution 🌟 | AQ20 / PvP / BWL / Naxx |
