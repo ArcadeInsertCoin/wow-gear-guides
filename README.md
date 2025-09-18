@@ -105,7 +105,7 @@
 | **Rings** | Band of Servitude ✅ / Royal Seal of Eldre’Thalas ✅ | Ring of Spell Power / Band of Forced Concentration 🔼 | Band of Dark Dominion / Ring of the Fallen God 🌟 | MC 4 Bosses / BWL Ebonroc / BWL Random / AQ40 C'Thun Head |
 | **Trinkets** | Eye of Moam ✅ / Songstone of Ironforge ✅ | Talisman of Ephemeral Power 🔼 | Neltharion’s Tear / Eye of Diminution 🌟 | MC 4 Bosses / BWL Nefarian / Naxx Thaddius |
 | **Mainhand / Offhand** | Scepter of the Unholy ✅ + Tome of Shadow Force ✅ | Lok’amir il Romathis 🔼 | Soulseeker 🌟 Sapphiron’s Left Eye 🌟 | BWL Nefarian / Naxx Kel’Thuzad / Naxx Sapphiron |
-| **Staffs** | — | Staff of the Shadow Flame 🔼 | Brimstone Staff 🌟 | BWL Nefarian / Naxx Loatheb |
+| **Staffs** | Staff of the Ruins | Staff of the Shadow Flame 🔼 | Brimstone Staff 🌟 | AQ20 Ossirian / BWL Nefarian / Naxx Loatheb |
 | **Wand** | Touch of Chaos ✅ | Wand of Qiraji Nobility 🔼 | Wand of Fates / Doomfinger 🌟 | AQ40 Lord Kri / Naxx Patchwerk / Naxx Kel’Thuzad |
 
 ---
