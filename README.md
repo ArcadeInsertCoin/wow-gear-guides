@@ -99,7 +99,7 @@
 | **Chest** | Robe of Volatile Power ✅ | Crystal Webbed Robe 🔼 | Robe of Faith 🌟 | MC 4 Bosses / NAXX Maexxna / Naxx Quest |
 | **Wrists** | Rockfury Bracers ✅ | — | Wristguards of Faith 🌟 | Naxx Quest |
 | **Hands** | Felcloth Gloves ✅ | Dark Storm Gauntlets / Firemaw’s Clutch 🔼 | Gloves of Faith 🌟 | AQ40 C'Thun / BWL Firemaw / Naxx Quest |
-| **Waist** | Sash of Whispered Secrets ✅ | Eyestalk Waist Cord 🔼 | Cord of Faith 🌟 | MC Majordomo Executus / AQ40 C'Thun / Naxx Quest |
+| **Waist** | Sash of Whispered Secrets ✅ | Eyestalk Waist Cord 🔼 | Cord of Faith 🌟 | AQ40 C'Thun / Naxx Quest |
 | **Legs** | Flarecore Leggings ✅ | Nemesis Leggings 🔼 | Leggings of Polarity 🌟 | Crafted / MC Ragnaros / Naxx Thaddius |
 | **Feet** | Betrayer’s Boots ✅ | Boots of Pure Thought 🔼 | Boots of Epiphany 🌟 | BWL Random / Naxx Emperor Vek'lor |
 | **Rings** | Band of Servitude ✅ / Royal Seal of Eldre’Thalas ✅ | Ring of Spell Power / Band of Forced Concentration 🔼 | Band of Dark Dominion / Ring of the Fallen God 🌟 | MC 4 Bosses / BWL Ebonroc / BWL Random / AQ40 C'Thun Head |
