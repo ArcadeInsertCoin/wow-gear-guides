@@ -101,7 +101,7 @@
 | **Hands** | Felcloth Gloves ✅ | Dark Storm Gauntlets / Firemaw’s Clutch 🔼 | Gloves of Faith 🌟 | AQ40 C'Thun / BWL Firemaw / Naxx Quest |
 | **Waist** | Sash of Whispered Secrets ✅ | Eyestalk Waist Cord 🔼 | Cord of Faith 🌟 | AQ40 C'Thun / Naxx Quest |
 | **Legs** | Flarecore Leggings ✅ | Nemesis Leggings 🔼 | Leggings of Polarity 🌟 | Crafted / MC Ragnaros / Naxx Thaddius |
-| **Feet** | Betrayer’s Boots ✅ | Boots of Pure Thought 🔼 | Boots of Epiphany 🌟 | BWL Random / Naxx Emperor Vek'lor |
+| **Feet** | - | Boots of Pure Thought 🔼 | Boots of Epiphany 🌟 | BWL Random / Naxx Emperor Vek'lor |
 | **Rings** | Band of Servitude ✅ / Royal Seal of Eldre’Thalas ✅ | Ring of Spell Power / Band of Forced Concentration 🔼 | Band of Dark Dominion / Ring of the Fallen God 🌟 | MC 4 Bosses / BWL Ebonroc / BWL Random / AQ40 C'Thun Head |
 | **Trinkets** | Eye of Moam ✅ / Songstone of Ironforge ✅ | Talisman of Ephemeral Power 🔼 | Neltharion’s Tear / Eye of Diminution 🌟 | MC 4 Bosses / BWL Nefarian / Naxx Thaddius |
 | **Mainhand / Offhand** | Scepter of the Unholy ✅ + Tome of Shadow Force ✅ | Lok’amir il Romathis 🔼 | Soulseeker 🌟 Sapphiron’s Left Eye 🌟 | BWL Nefarian / Naxx Kel’Thuzad / Naxx Sapphiron |
