@@ -92,19 +92,19 @@
 
 | Slot | Current | Upgrade | BiS (Naxx) | Source |
 |------|---------|---------|------------|--------|
-| **Head** | Spellweaver’s Turban ✅ | Preceptor’s Hat 🔼 | Circlet of Faith 🌟 | NAXX Heigan the Unclean / Naxx Quest |
-| **Neck** | Charm of the Shifting Sands ✅ | Amulet of Vek’nilash / Choker of the Firelord 🔼 | Gem of Trapped Innocents 🌟 | AQ40 Emperor Vek'nilash / MC Ragnaros / Naxx Kel’Thuzad |
-| **Shoulders** | Felcloth Shoulders ✅ | Mantle of the Blackwing Cabal 🔼 | Rime Covered Mantle 🌟 | BWL Razorgore the Untamed / Naxx Gluth |
-| **Back** | Cloak of Consumption ✅ | Cloak of the Devoured 🔼 | Cloak of Suturing 🌟 | AQ40 C'Thun / Naxx Patchwerk |
-| **Chest** | Robe of Volatile Power ✅ | Crystal Webbed Robe 🔼 | Robe of Faith 🌟 | MC 4 Bosses / NAXX Maexxna / Naxx Quest |
-| **Wrists** | Rockfury Bracers ✅ | — | Wristguards of Faith 🌟 | Naxx Quest |
-| **Hands** | Felcloth Gloves ✅ | Dark Storm Gauntlets / Firemaw’s Clutch 🔼 | Gloves of Faith 🌟 | AQ40 C'Thun / BWL Firemaw / Naxx Quest |
-| **Waist** | Sash of Whispered Secrets ✅ | Eyestalk Waist Cord 🔼 | Cord of Faith 🌟 | AQ40 C'Thun / Naxx Quest |
-| **Legs** | Flarecore Leggings ✅ | Nemesis Leggings 🔼 | Leggings of Polarity 🌟 | Crafted / MC Ragnaros / Naxx Thaddius |
+| **Head** | - | Preceptor’s Hat 🔼 | Circlet of Faith 🌟 | NAXX Heigan the Unclean / Naxx Quest |
+| **Neck** | - | Amulet of Vek’nilash / Choker of the Firelord 🔼 | Gem of Trapped Innocents 🌟 | AQ40 Emperor Vek'nilash / MC Ragnaros / Naxx Kel’Thuzad |
+| **Shoulders** | - | Mantle of the Blackwing Cabal 🔼 | Rime Covered Mantle 🌟 | BWL Razorgore the Untamed / Naxx Gluth |
+| **Back** | - | Cloak of the Devoured 🔼 | Cloak of Suturing 🌟 | AQ40 C'Thun / Naxx Patchwerk |
+| **Chest** | - | Crystal Webbed Robe 🔼 | Robe of Faith 🌟 | MC 4 Bosses / NAXX Maexxna / Naxx Quest |
+| **Wrists** | - | — | Wristguards of Faith 🌟 | Naxx Quest |
+| **Hands** | - | Dark Storm Gauntlets / Firemaw’s Clutch 🔼 | Gloves of Faith 🌟 | AQ40 C'Thun / BWL Firemaw / Naxx Quest |
+| **Waist** | - | Eyestalk Waist Cord 🔼 | Cord of Faith 🌟 | AQ40 C'Thun / Naxx Quest |
+| **Legs** | - | Nemesis Leggings 🔼 | Leggings of Polarity 🌟 | Crafted / MC Ragnaros / Naxx Thaddius |
 | **Feet** | - | Boots of Pure Thought 🔼 | Boots of Epiphany 🌟 | BWL Random / Naxx Emperor Vek'lor |
-| **Rings** | Band of Servitude ✅ / Royal Seal of Eldre’Thalas ✅ | Ring of Spell Power / Band of Forced Concentration 🔼 | Band of Dark Dominion / Ring of the Fallen God 🌟 | MC 4 Bosses / BWL Ebonroc / BWL Random / AQ40 C'Thun Head |
-| **Trinkets** | Eye of Moam ✅ / Songstone of Ironforge ✅ | Talisman of Ephemeral Power 🔼 | Neltharion’s Tear / Eye of Diminution 🌟 | MC 4 Bosses / BWL Nefarian / Naxx Thaddius |
-| **Mainhand / Offhand** | Scepter of the Unholy ✅ + Tome of Shadow Force ✅ | Lok’amir il Romathis 🔼 | Soulseeker 🌟 Sapphiron’s Left Eye 🌟 | BWL Nefarian / Naxx Kel’Thuzad / Naxx Sapphiron |
+| **Rings** | - | Ring of Spell Power / Band of Forced Concentration 🔼 | Band of Dark Dominion / Ring of the Fallen God 🌟 | MC 4 Bosses / BWL Ebonroc / BWL Random / AQ40 C'Thun Head |
+| **Trinkets** | - | Talisman of Ephemeral Power 🔼 | Neltharion’s Tear / Eye of Diminution 🌟 | MC 4 Bosses / BWL Nefarian / Naxx Thaddius |
+| **Mainhand / Offhand** | - | Lok’amir il Romathis 🔼 | Soulseeker 🌟 Sapphiron’s Left Eye 🌟 | BWL Nefarian / Naxx Kel’Thuzad / Naxx Sapphiron |
 | **Staffs** | Staff of the Ruins | Staff of the Shadow Flame 🔼 | Brimstone Staff 🌟 | AQ20 Ossirian / BWL Nefarian / Naxx Loatheb |
 | **Wand** | Touch of Chaos ✅ | Wand of Qiraji Nobility 🔼 | Wand of Fates / Doomfinger 🌟 | AQ40 Lord Kri / Naxx Patchwerk / Naxx Kel’Thuzad |
 
