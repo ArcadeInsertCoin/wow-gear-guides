@@ -13,20 +13,20 @@
 
 | Slot | Current | Upgrade | BiS (Endgame) | Boss Source |
 |------|---------|---------|---------------|-------------|
-| **Head** | Knight-Captain’s Chain Headguard ✅ | Striker’s Diadem 🔼 | Cryptstalker Headpiece 🌟 | AQ40 Quest / Naxx – Multiple |
-| **Neck** | Onyxia Tooth Pendant ✅ | Prestor’s Talisman 🔼 | Prestor’s Talisman 🌟 | BWL – Nefarian |
-| **Shoulders** | Giantstalker Epaulets ✅ | Dragonstalker’s Spaulders 🔼 | Mantle of Wicked Revenge 🌟 | BWL – Chromaggus / AQ40 – Fankriss |
-| **Back** | Earthweave Cloak / Cloak of the Shrouded Mists ✅ | Cloak of the Fallen God 🔼 | Cloak of the Fallen God 🌟 | AQ40 Quest (C’Thun) |
-| **Chest** | Giantstalker Breastplate ✅ | Vest of Swift Execution 🔼 | Striker’s Hauberk 🌟 | AQ40 – Lord Kri / AQ40 Quest |
-| **Wrists** | Sand Reaver Wristguards ✅ | Wristguards of True Flight 🔼 | Dragonstalker’s Bracers 🌟 | MC – Majordomo / BWL – Razorgore |
-| **Hands** | Knight-Captain’s Chain Gloves ✅ | Dragonstalker’s Gauntlets 🔼 | Vek’lor’s Gloves of Devastation 🌟 | BWL – 3 Dragons / AQ40 – Emperor Vek’lor |
-| **Waist** | Ossirian’s Binding ✅ | Belt of Never-ending Agony 🔼 | Cryptstalker Girdle 🌟 | AQ40 – C’Thun / Naxx – Anub’Rekhan |
-| **Legs** | Knight-Captain’s Chain Legguards ✅ | Giantstalker’s Leggings 🔼 → Striker’s Leggings 🔼 | Dragonstalker’s Legguards 🌟 | MC – Magmadar / AQ40 – Fankriss / AQ40 Quest / MC – Ragnaros |
-| **Feet** | Blooddrenched Footpads ✅ | Striker’s Footguards 🔼 | Dragonstalker’s Greaves 🌟 | AQ40 Quest / BWL – Lashlayer |
-| **Rings** | Don Julio’s Band ✅ / Tarnished Elven Ring ✅ | Band of Accuria 🔼 | Signet Ring of the Bronze Dragonflight 🌟 | MC – Ragnaros / AQ40 Quest |
-| **Trinkets** | Blackhand’s Breadth ✅ / Royal Seal of Eldre’Thalas ✅ | Drake Fang Talisman 🔼 | Jom Gabbar 🌟 | BWL – Ebonroc / AQ40 – Ouro |
-| **Weapons (Melee)** | Class Staff ✅ | Core Hound Tooth 🔼 / Warblade of the Hakkari 🔼 | Blessed Qiraji Pugio 🌟 / Fang of the Faceless 🌟 | MC – Majordomo / ZG – Hakkar / AQ40 Quest / AQ40 – Sartura |
-| **Weapons (Ranged)** | Class Quest Bow ✅ | Blessed Qiraji Musket 🔼 | Ashjre’thul, Crossbow of Smiting 🌟 | AQ40 Quest / BWL – Chromaggus |
+| **Head** | - | Striker’s Diadem 🔼 | Cryptstalker Headpiece 🌟 | AQ40 Quest / Naxx – Multiple |
+| **Neck** | - | Prestor’s Talisman 🔼 | Prestor’s Talisman 🌟 | BWL – Nefarian |
+| **Shoulders** | - | Dragonstalker’s Spaulders 🔼 | Mantle of Wicked Revenge 🌟 | BWL – Chromaggus / AQ40 – Fankriss |
+| **Back** | - | Cloak of the Fallen God 🔼 | Cloak of the Fallen God 🌟 | AQ40 Quest (C’Thun) |
+| **Chest** | - | Vest of Swift Execution 🔼 | Striker’s Hauberk 🌟 | AQ40 – Lord Kri / AQ40 Quest |
+| **Wrists** | - | Wristguards of True Flight 🔼 | Dragonstalker’s Bracers 🌟 | MC – Majordomo / BWL – Razorgore |
+| **Hands** | - | Dragonstalker’s Gauntlets 🔼 | Vek’lor’s Gloves of Devastation 🌟 | BWL – 3 Dragons / AQ40 – Emperor Vek’lor |
+| **Waist** | - | Belt of Never-ending Agony 🔼 | Cryptstalker Girdle 🌟 | AQ40 – C’Thun / Naxx – Anub’Rekhan |
+| **Legs** | - | Giantstalker’s Leggings 🔼 → Striker’s Leggings 🔼 | Dragonstalker’s Legguards 🌟 | MC – Magmadar / AQ40 – Fankriss / AQ40 Quest / MC – Ragnaros | 
+| **Feet** | - | Striker’s Footguards 🔼 | Dragonstalker’s Greaves 🌟 | AQ40 Quest / BWL – Lashlayer |
+| **Rings** | - | Band of Accuria 🔼 | Signet Ring of the Bronze Dragonflight 🌟 | MC – Ragnaros / AQ40 Quest |
+| **Trinkets** | - | Drake Fang Talisman 🔼 | Jom Gabbar 🌟 | BWL – Ebonroc / AQ40 – Ouro |
+| **Weapons (Melee)** | - | Core Hound Tooth 🔼 / Warblade of the Hakkari 🔼 | Blessed Qiraji Pugio 🌟 / Fang of the Faceless 🌟 | MC – Majordomo / ZG – Hakkar / AQ40 Quest / AQ40 – Sartura |
+| **Weapons (Ranged)** | - | Blessed Qiraji Musket 🔼 | Ashjre’thul, Crossbow of Smiting 🌟 | AQ40 Quest / BWL – Chromaggus |
 
 
 ---
