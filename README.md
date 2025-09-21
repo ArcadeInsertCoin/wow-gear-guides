@@ -97,7 +97,7 @@
 | **Shoulders** | - | Mantle of the Blackwing Cabal 🔼 | Rime Covered Mantle 🌟 | BWL Razorgore the Untamed / Naxx Gluth |
 | **Back** | - | Cloak of the Devoured 🔼 | Cloak of Suturing 🌟 | AQ40 C'Thun / Naxx Patchwerk |
 | **Chest** | - | Crystal Webbed Robe 🔼 | Robe of Faith 🌟 | MC 4 Bosses / NAXX Maexxna / Naxx Quest |
-| **Wrists** | - | — | Wristguards of Faith 🌟 | Naxx Quest |
+| **Wrists** | - | - | Wristguards of Faith 🌟 | Naxx Quest |
 | **Hands** | - | Dark Storm Gauntlets / Firemaw’s Clutch 🔼 | Gloves of Faith 🌟 | AQ40 C'Thun / BWL Firemaw / Naxx Quest |
 | **Waist** | - | Eyestalk Waist Cord 🔼 | Cord of Faith 🌟 | AQ40 C'Thun / Naxx Quest |
 | **Legs** | - | Nemesis Leggings 🔼 | Leggings of Polarity 🌟 | Crafted / MC Ragnaros / Naxx Thaddius |
