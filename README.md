@@ -25,7 +25,7 @@
 | **Feet** | - | Striker’s Footguards 🔼 | Dragonstalker’s Greaves 🌟 | AQ40 Quest / BWL – Lashlayer |
 | **Rings** | - | Band of Accuria 🔼 | Signet Ring of the Bronze Dragonflight 🌟 | MC – Ragnaros / AQ40 Quest |
 | **Trinkets** | - | Drake Fang Talisman 🔼 | Jom Gabbar 🌟 | BWL – Ebonroc / AQ40 – Ouro |
-| **Weapons (Melee)** | - | Core Hound Tooth 🔼 / Warblade of the Hakkari 🔼 | Blessed Qiraji Pugio 🌟 / Fang of the Faceless 🌟 | MC – Majordomo / ZG – Hakkar / AQ40 Quest / AQ40 – Sartura |
+| **Weapons (Melee)** | - | Core Hound Tooth 🔼 / Warblade of the Hakkari 🔼 | Blessed Qiraji Pugio 🌟| MC – Majordomo / ZG – Hakkar / AQ40 – Sartura |
 | **Weapons (Ranged)** | - | Blessed Qiraji Musket 🔼 | Ashjre’thul, Crossbow of Smiting 🌟 | AQ40 Quest / BWL – Chromaggus |
 
 
