@@ -22,7 +22,7 @@
 | **Hands** | - | Dragonstalker’s Gauntlets 🔼 | Vek’lor’s Gloves of Devastation 🌟 | BWL – 3 Dragons / AQ40 – Emperor Vek’lor |
 | **Waist** | - | Belt of Never-ending Agony 🔼 | Cryptstalker Girdle 🌟 | AQ40 – C’Thun / Naxx – Anub’Rekhan |
 | **Legs** | - | Giantstalker’s Leggings 🔼 → Striker’s Leggings 🔼 | Dragonstalker’s Legguards 🌟 | MC – Magmadar / AQ40 – Fankriss / AQ40 Quest / MC – Ragnaros | 
-| **Feet** | - | Striker’s Footguards 🔼 | Dragonstalker’s Greaves 🌟 | AQ40 Quest - Ouro / BWL – Lashlayer |
+| **Feet** | - | Striker’s Footguards 🔼 | Dragonstalker’s Greaves 🌟 | AQ40 Quest - Skin of the Great Sandworm / BWL – Lashlayer |
 | **Rings** | - | Band of Accuria 🔼 | Signet Ring of the Bronze Dragonflight 🌟 | MC – Ragnaros / AQ40 Quest |
 | **Trinkets** | - | Drake Fang Talisman 🔼 | Jom Gabbar 🌟 | BWL – Ebonroc / AQ40 – Ouro |
 | **Weapons (Melee)** | - | Core Hound Tooth 🔼 / Warblade of the Hakkari 🔼 | Blessed Qiraji Pugio 🌟| MC – Majordomo / ZG – Hakkar / AQ40 – Sartura |
