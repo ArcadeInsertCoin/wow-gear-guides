@@ -32,12 +32,14 @@
 ---
 
 ## 📌 Next Gear Goals
-1. 🐉 **Prestor’s Talisman of Connivery (BWL)** → Neck Upgrade  
-2. 🏯 **Striker’s Pauldrons (AQ40)** → Best Shoulders before Naxx  
-3. 🏯 **Striker’s Hauberk (AQ40)** → Chest Upgrade  
-4. 🐉 **Band of Accuria (MC Ragnaros)** → Ring Upgrade  
-5. 🐉 **Drake Fang Talisman (BWL Ebonroc)** → Huge DPS Trinket  
-
+1. 🐉 **Prestor’s Talisman of Connivery (BWL – Nefarian)** → Neck Upgrade  
+2. 🏯 **Striker’s Pauldrons (AQ40 Quest – Andorgos)** → Best Shoulders before Naxx  
+   - Benötigt: **Qiraji Bindings of Command**, **Idol of War**, Brood of Nozdormu **Revered**  
+3. 🏯 **Striker’s Hauberk (AQ40 Quest – Andorgos)** → Chest Upgrade  
+   - Benötigt: **Carapace of the Old God (C’Thun)**, **2x Idol of Life**, Brood of Nozdormu **Honored**  
+4. 🐉 **Band of Accuria (MC – Ragnaros)** → Ring Upgrade  
+5. 🐉 **Drake Fang Talisman (BWL – Ebonroc)** → Huge DPS Trinket  
+ 
 ---
 
 ## 🧪 Raid Consumables – Hunter
