@@ -83,23 +83,6 @@
 
 ---
 
-## ⚔️ PvP Gear (Hunter)
-- **Head:** Knight-Captain’s Chain Headguard  
-- **Neck:** Onyxia Tooth Pendant  
-- **Shoulders:** Giantstalker Epaulets  
-- **Back:** Cloak of the Shrouded Mists  
-- **Chest:** Giantstalker Breastplate  
-- **Wrists:** Ossirian’s Binding  
-- **Hands:** Knight-Captain’s Chain Gloves  
-- **Waist:** Zandalar Predator’s Belt  
-- **Legs:** Knight-Captain’s Chain Legguards  
-- **Feet:** Blooddrenched Footpads  
-- **Rings:** Don Julio’s Band + Tarnished Elven Ring  
-- **Trinkets:** Blackhand’s Breadth + Royal Seal of Eldre’Thalas  
-- **Weapons:** Class Quest Bow + Class Quest Staff  
-
----
-
 # 🔮 Hatschepsut – Shadow Priest (Classic Phase 5 + Naxx Prep)
 
 ![Priest Badge](https://img.shields.io/badge/Priest-Shadow-9b59b6?logo=icloud&logoColor=white)  
