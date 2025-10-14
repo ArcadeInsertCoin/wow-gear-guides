@@ -148,25 +148,6 @@
 
 ---
 
-## 🌿 Solo/Farm Set – Shadow Priest
-
-- **Focus**: Mana regen + Survivability  
-- **Best Mix from your Gear**:
-  - Head: Spellweaver’s Turban  
-  - Neck: Charm of the Shifting Sands  
-  - Shoulders: Felcloth Shoulders  
-  - Back: Spritecaster Cape  
-  - Chest: Robe of Volatile Power  
-  - Wrists: Rockfury Bracers  
-  - Waist: Ban’thok Sash  
-  - Legs: Flarecore Leggings  
-  - Feet: Betrayer’s Boots  
-  - Rings: Royal Seal of Eldre’Thalas + Band of Servitude  
-  - Trinkets: Eye of Moam + Royal Seal of Eldre’Thalas  
-  - Weapon: Gavel of Infinite Wisdom + Tome of Shadow Force  
-
----
-
 ## 🧪 Consumables – Priest
 
 ### Raid
