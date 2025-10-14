@@ -100,15 +100,6 @@
 
 ---
 
-## 🌿 Solo/Farm Gear (Hunter)
-- **Neck:** Onyxia Tooth Pendant  
-- **Chest:** Giantstalker Breastplate  
-- **Rings:** Royal Seal of Eldre’Thalas + Tarnished Elven Ring  
-- **Trinkets:** Blackhand’s Breadth + Royal Seal of Eldre’Thalas  
-- **Weapons:** Class Quest Bow + Barbarous Blade (farm DPS)  
-
----
-
 # 🔮 Hatschepsut – Shadow Priest (Classic Phase 5 + Naxx Prep)
 
 ![Priest Badge](https://img.shields.io/badge/Priest-Shadow-9b59b6?logo=icloud&logoColor=white)  
