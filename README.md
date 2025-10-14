@@ -186,3 +186,24 @@
 - Brilliant Mana Oil 🔮  
 
 ---
+## 🧪 Enchanting Recipe – Spell Power
+
+**Enchantment:** +30 Spell Power (Weapon)
+
+**Description:**  
+Imbues a weapon with +30 Spell Damage – ideal for caster weapons such as *Scepter of the Unholy*, *Lok'amir il Romathis*, or *Staff of the Shadow Flame*.
+
+---
+
+### 🧾 Reagents Required
+| Reagent | Quantity |
+|----------|-----------|
+| 💎 **Large Brilliant Shard** | 4 |
+| 🌟 **Greater Eternal Essence** | 12 |
+| 🔥 **Essence of Fire** | 4 |
+| 💧 **Essence of Water** | 4 |
+| 🌪️ **Essence of Air** | 4 |
+| 🐚 **Golden Pearl** | 2 |
+
+---
+
