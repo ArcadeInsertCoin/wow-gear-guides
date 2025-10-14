@@ -13,21 +13,20 @@
 
 | Slot | Current | Upgrade | BiS (Endgame) | Boss Source |
 |------|---------|---------|---------------|-------------|
-| **Head** | - | Striker’s Diadem 🔼 | Cryptstalker Headpiece 🌟 | AQ40 Quest / Naxx – Multiple |
-| **Neck** | - | Prestor’s Talisman 🔼 | Prestor’s Talisman 🌟 | BWL – Nefarian |
-| **Shoulders** | - | Dragonstalker’s Spaulders 🔼 | Mantle of Wicked Revenge 🌟 | BWL – Chromaggus / AQ40 – Fankriss |
-| **Back** | - | Cloak of the Fallen God 🔼 | Cloak of the Fallen God 🌟 | AQ40 Quest (C’Thun) |
-| **Chest** | - | Vest of Swift Execution 🔼 | Striker’s Hauberk 🌟 | AQ40 – Lord Kri / AQ40 Quest |
-| **Wrists** | - | Wristguards of True Flight 🔼 | Dragonstalker’s Bracers 🌟 | MC – Majordomo / BWL – Razorgore |
-| **Hands** | - | Dragonstalker’s Gauntlets 🔼 | Vek’lor’s Gloves of Devastation 🌟 | BWL – 3 Dragons / AQ40 – Emperor Vek’lor |
-| **Waist** | - | Belt of Never-ending Agony 🔼 | Cryptstalker Girdle 🌟 | AQ40 – C’Thun / Naxx – Anub’Rekhan |
-| **Legs** | - | Giantstalker’s Leggings 🔼 → Striker’s Leggings 🔼 | Dragonstalker’s Legguards 🌟 | MC – Magmadar / AQ40 – Fankriss / AQ40 Quest / MC – Ragnaros | 
-| **Feet** | - | Striker’s Footguards 🔼 | Dragonstalker’s Greaves 🌟 | AQ40 Quest - Skin of the Great Sandworm / BWL – Lashlayer |
-| **Rings** | - | Band of Accuria 🔼 | Signet Ring of the Bronze Dragonflight 🌟 | MC – Ragnaros / AQ40 Quest Exalted with Brood of Nozdormu  |
-| **Trinkets** | - | Drake Fang Talisman 🔼 | Jom Gabbar 🌟 | BWL – Ebonroc / AQ40 – Ouro |
-| **Weapons (Melee)** | - | Core Hound Tooth 🔼 / Warblade of the Hakkari 🔼 | Blessed Qiraji Pugio 🌟| MC – Majordomo / ZG – Hakkar / AQ40 – Sartura |
-| **Weapons (Ranged)** | - | Blessed Qiraji Musket 🔼 | Ashjre’thul, Crossbow of Smiting 🌟 | AQ40 Quest / BWL – Chromaggus |
-
+| **Head** | Knight-Captain’s Chain Headguard ✅ | Striker’s Diadem 🔼 | Cryptstalker Headpiece 🌟 | AQ40 Quest / Naxx |
+| **Neck** | Onyxia Tooth Pendant ✅ | Prestor’s Talisman 🔼 | Prestor’s Talisman 🌟 | BWL – Nefarian |
+| **Shoulders** | Giantstalker Epaulets ✅ | Striker’s Pauldrons 🔼 | Mantle of Wicked Revenge 🌟 | AQ40 – Fankriss |
+| **Back** | Cloak of the Shrouded Mists ✅ | Cloak of the Fallen God 🔼 | Cloak of the Fallen God 🌟 | AQ40 Quest (C’Thun) |
+| **Chest** | Giantstalker Breastplate ✅ | Striker’s Hauberk 🔼 | Striker’s Hauberk 🌟 | AQ40 Quest (C’Thun) |
+| **Wrists** | Ossirian’s Binding ✅ | Wristguards of True Flight 🔼 | Dragonstalker’s Bracers 🌟 | BWL – Razorgore |
+| **Hands** | Giantstalker Gloves ✅ | Dragonstalker’s Gauntlets 🔼 | Vek’lor’s Gloves of Devastation 🌟 | AQ40 – Emperor Vek’lor |
+| **Waist** | Ossirian’s Binding ✅ | Belt of Never-ending Agony 🔼 | Cryptstalker Girdle 🌟 | AQ40 – C’Thun / Naxx |
+| **Legs** | Knight-Captain’s Chain Legguards ✅ | Giantstalker’s Leggings 🔼 | Dragonstalker’s Legguards 🌟 | MC / AQ40 |
+| **Feet** | Blooddrenched Footpads ✅ | Striker’s Footguards 🔼 | Dragonstalker’s Greaves 🌟 | AQ40 Quest / BWL |
+| **Rings** | Don Julio’s Band ✅ / Tarnished Elven Ring ✅ | Band of Accuria 🔼 | Signet Ring of the Bronze Dragonflight 🌟 | MC – Ragnaros / AQ40 Quest |
+| **Trinkets** | Blackhand’s Breadth ✅ / Royal Seal of Eldre’Thalas ✅ / Earthstrike ✅ | Drake Fang Talisman 🔼 | Jom Gabbar 🌟 | BWL / AQ40 |
+| **Weapons (Melee)** | Fang of the Faceless ✅ / Scythe of the Unseen Path ✅ | Blessed Qiraji Pugio 🔼 | Fang of the Faceless 🌟 | AQ40 / Sartura |
+| **Ranged** | Scythe of the Unseen Path ✅ | Blessed Qiraji Musket 🔼 | Ashjre’thul, Crossbow of Smiting 🌟 | AQ40 / BWL |
 
 ---
 
@@ -39,8 +38,39 @@
    - Benötigt: **Carapace of the Old God (C’Thun)**, **2x Idol of Life**, Brood of Nozdormu **Honored**  
 4. 🐉 **Band of Accuria (MC – Ragnaros)** → Ring Upgrade  
 5. 🐉 **Drake Fang Talisman (BWL – Ebonroc)** → Huge DPS Trinket  
- 
+
 ---
+
+## ⚔️ Gear Evaluation – When to Use What
+
+| Slot | Item | Vergleich / Empfehlung | Einsatz |
+|------|------|------------------------|----------|
+| **Head** | Knight-Captain’s Chain Headguard (R10) / Dragonstalker’s Helm (Onyxia) | PvP-Helm hat +2% Crit (+20 Agi 2er-Setbonus), DS-Helm hat +1% Hit, +Stamina, +Resistances – BiS für Raids. | 🏹 **PvE → Dragonstalker** / ⚔️ **PvP → R10** |
+| **Neck** | Onyxia Tooth Pendant | 1% Hit, +Agility, +Stamina – bleibt BiS bis Naxx (außer Prestor’s). | ✅ **PvE & PvP** |
+| **Shoulders** | Giantstalker Epaulets | Starke Stats, BiS bis Striker’s Pauldrons. | 🏹 **PvE**, ⚔️ **PvP optional** |
+| **Back** | Cloak of the Shrouded Mists / Cloak of the Unseen Path | Unseen Path für Setbonus / Shrouded Mists für Crit. | 🏹 **PvE → Shrouded Mists**, ⚔️ **PvP → Unseen Path** |
+| **Chest** | Giantstalker Breastplate | Sehr solide bis Striker’s Hauberk. | 🏹 **PvE**, ⚔️ **PvP optional** |
+| **Wrists** | Ossirian’s Binding | Hohe Agi + Hit – exzellente DPS-Bracer. | ✅ **PvE BiS** |
+| **Hands** | Giantstalker Gloves | 1% Hit + Agi + RAP, besser als PvP Hands für PvE. | 🏹 **PvE**, ⚔️ **PvP → R10 Hands** |
+| **Waist** | Ossirian’s Binding | Teil des Unseen Path Mini-Sets, starke Agi + Hit. | ✅ **PvE BiS** |
+| **Legs** | R10 Legguards | Weniger Hit, mehr Agi + 2er PvP Bonus – PvP stark. | 🏹 **PvE → Giantstalker / Striker’s**, ⚔️ **PvP → R10** |
+| **Feet** | Blooddrenched Footpads (ZG) | Hohe Agi + Crit + Hit – BiS bis AQ40. | ✅ **PvE & PvP** |
+| **Rings** | Don Julio’s Band / Tarnished Elven Ring | Don Julio’s = PvP/PvE BiS; Elven Ring solide für Hit. | ✅ **Beide Modi** |
+| **Trinkets** | Blackhand’s Breadth / Earthstrike / Royal Seal of Eldre’Thalas | Breadth = PvP/PvE Crit; Earthstrike = Burst für PvP; Seal = Sustain. | 🏹 **PvE → Breadth + Seal**, ⚔️ **PvP → Breadth + Earthstrike** |
+| **Weapons (Melee)** | Fang of the Faceless / Scythe of the Unseen Path | Fang = hoher Agi/AP, Scythe = Setbonus. | 🏹 **PvE → Fang + Scythe (Set)**, ⚔️ **PvP → Fang only (Burst)** |
+| **Ranged** | Scythe of the Unseen Path | Solider AP + Hit, BiS bis Ashjre’thul. | ✅ **PvE & PvP** |
+
+---
+
+## 🧭 Quick Summary
+
+| Situation | Beste Wahl |
+|------------|-------------|
+| **Raid / PvE DPS (MC, BWL, AQ, Naxx)** | Dragonstalker Helm, Giantstalker Shoulders/Chest/Gloves, Ossirian Bindings, Blooddrenched Footpads, Fang of the Faceless, Cloak of Shrouded Mists |
+| **PvP / Battlegrounds** | R10 Helm, Hands & Legs, Earthstrike, Onyxia Tooth Pendant, Blooddrenched Footpads |
+| **Solo / Farming** | Dragonstalker Helm, Ossirian Set, Blooddrenched Footpads, Royal Seal of Eldre’Thalas + Breadth |
+  
+ ---
 
 ## 🧪 Raid Consumables – Hunter
 - **Elixir of the Mongoose** 🦊 → +Agility +Crit  
