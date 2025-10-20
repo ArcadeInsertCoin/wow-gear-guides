@@ -118,17 +118,139 @@
 
 ---
 
-## 🧙‍♂️ Verzauberung: +30 Spell Power
+# ✨ Enchanting & Alchemy Guide – Ahhotep 🏹 & Hatschepsut 🔮
 
-**Beschreibung:**  
-Verzaubert eine Waffe mit +30 Spell Damage – ideal für Shadow-Waffen wie *Scepter of the Unholy*, *Lok’amir il Romathis* oder *Staff of the Shadow Flame*.
+![Enchanting Badge](https://img.shields.io/badge/Profession-Enchanting-blueviolet?logo=icloud&logoColor=white)
+![Alchemy Badge](https://img.shields.io/badge/Profession-Alchemy-green?logo=flask&logoColor=white)
 
-### 🧾 Benötigte Reagenzien
-| Reagenz | Menge |
-|----------|--------|
-| 💎 **Large Brilliant Shard** | 4 |
-| 🌟 **Greater Eternal Essence** | 12 |
-| 🔥 **Essence of Fire** | 4 |
-| 💧 **Essence of Water** | 4 |
-| 🌪️ **Essence of Air** | 4 |
-| 🐚 **Golden Pearl** | 2 |
+---
+
+## ⚗️ Allgemeine Übersicht
+
+**Berufe:**  
+- 🧪 **Alchemy (Alchemie)** → Tränke, Elixiere, Flasks  
+- 🌿 **Herbalism (Kräuterkunde)** → Rohmaterialien für alle wichtigen Buffs  
+- ✨ **Enchanting (Verzauberung)** → Endgame-Enchants für DPS und Utility  
+
+Ziel:  
+→ Maximale DPS, Sustain und Utility im Solo-, Raid- und PvP-Einsatz.
+
+---
+
+# 🧙‍♀️ Hatschepsut – Shadow Priest Enchanting
+
+### 💫 Wichtige Enchants (englische Namen, deutsche Erklärung)
+
+| Slot | Enchant | Erklärung |
+|------|----------|-----------|
+| **Weapon** | **Enchant Weapon – Spell Power (+30)** | +30 Spell Damage – der beste Enchant für Shadow-Priester. |
+| **Head / Legs** | **Arcanum of Focus** | +8 Spell Hit – durch Dire Maul Quest „Libram of Focus“. |
+| **Shoulders** | **Zandalar Signet of Mojo** | +18 Spell Power – ZG-Enchant. |
+| **Chest** | **Enchant Chest – Greater Stats (+4 All Stats)** | Solider Allround-Bonus auf alle Attribute. |
+| **Bracers** | **Enchant Bracers – Greater Intellect (+7 Int)** | Erhöht Mana-Pool und Crit-Chance. |
+| **Gloves** | **Enchant Gloves – Shadow Power (+20 Shadow Damage)** | Pflicht für Shadow DPS. |
+| **Boots** | **Enchant Boots – Minor Speed** | Erhöht Bewegungsgeschwindigkeit (Pflicht im PvE/PvP). |
+| **Cloak** | **Enchant Cloak – Subtlety (-2% Threat)** | Verringert Aggro-Aufbau – perfekt für Raids. |
+
+---
+
+## 🔮 Bonus: Hybrid-/Sustain-Enchants (Solo & Farm)
+| Slot | Enchant | Erklärung |
+|------|----------|-----------|
+| **Weapon (Alternativ)** | **Enchant Weapon – Healing Power (+55)** | Nützlich, wenn du in Heiler-Offspec wechselst. |
+| **Bracers** | **Enchant Bracers – Mana Regeneration** | Für lange Farm-Sessions mit wenig Trinken. |
+
+---
+
+# 🏹 Ahhotep – Hunter Enchanting
+
+### 💫 Wichtige Enchants (englische Namen, deutsche Erklärung)
+
+| Slot | Enchant | Erklärung |
+|------|----------|-----------|
+| **Weapon (Ranged)** | **Sniper Scope (+7 Damage)** | Erhöht den Schaden deiner Fernkampfwaffe. |
+| **Weapon (Melee)** | **Enchant Weapon – Agility (+15)** | Mehr Agility = mehr Crit & Attack Power. |
+| **Head / Legs** | **Arcanum of Rapidity (+1% Haste)** | Sehr starker Buff aus Libram of Rapidity (DM). |
+| **Shoulders** | **Zandalar Signet of Might** | +30 Attack Power – ZG-Enchant. |
+| **Chest** | **Enchant Chest – Greater Stats (+4 All Stats)** | Universell stark. |
+| **Bracers** | **Enchant Bracers – Greater Agility (+9)** | Mehr Agi → mehr Crit & RAP. |
+| **Gloves** | **Enchant Gloves – Greater Agility (+7)** | Verstärkt deine Trefferchance & Critrate. |
+| **Boots** | **Enchant Boots – Minor Speed** | Pflicht für Movement im Raid und PvP. |
+| **Cloak** | **Enchant Cloak – Greater Agility (+3)** | Guter Agility-Zusatz. |
+
+---
+
+# 🌿 Alchemy & Herbalism – Beide Charaktere
+
+### ⚗️ Wichtige Elixiere & Flasks
+
+| Kategorie | Trank / Elixir | Wirkung | Verwendung |
+|------------|----------------|----------|-------------|
+| **Elixiere (Offensiv)** | **Elixir of the Mongoose** | +25 Agility, +2% Crit | Hunter DPS |
+| | **Elixir of Shadow Power** | +40 Shadow Spell Damage | Priest DPS |
+| | **Greater Arcane Elixir** | +35 Spell Damage | Shadow Priest / Hybrid DPS |
+| | **Elixir of Giants** | +25 Strength | Hunter DPS (RAP-Skalierung) |
+| **Elixiere (Defensiv)** | **Elixir of Fortitude** | +120 HP | Solo / PvP |
+| **Flasks** | **Flask of Supreme Power** | +150 Spell Damage | Raid-Buff für Shadow Priest |
+| | **Flask of the Titans** | +400 HP | PvP oder schwere Encounter |
+| **Utility** | **Free Action Potion** | Immun gegen Stun/Slow 30 Sek. | PvP / Boss-Mechaniken |
+| | **Limited Invulnerability Potion** | 6 Sek. Immunität gegen phys. Schaden | PvP / Notfall |
+| | **Major Mana Potion** | 1350–2250 Mana | Raid, Farm |
+| | **Major Healing Potion** | 1050–1750 HP | PvP / Raid |
+| | **Mageblood Potion** | +12 MP5 für 1 Stunde | Sustain für beide |
+| | **Nightfin Soup** | +8 MP5 | Günstiger Buff für Raids |
+| | **Demonic Rune** | Mana-Quelle (Health in Mana) | Shadow Priest – Nützlich bei Bosskämpfen |
+| | **Swiftness Potion** | 50% Run Speed für 15 Sek. | PvP & Farm-Situationen |
+
+---
+
+## 🌾 Farmbare Kräuter (Classic-Gebiete)
+
+| Kraut | Fundort | Verwendung |
+|--------|----------|------------|
+| **Dreamfoil** | Azshara, Felwood, Eastern Plaguelands | Basis für fast alle Elixiere & Flasks |
+| **Mountain Silversage** | Winterspring, Burning Steppes | Flask of Supreme Power / Titans |
+| **Plaguebloom** | Eastern / Western Plaguelands | Shadow Power & Titans |
+| **Icecap** | Winterspring | Flask of Supreme Power |
+| **Golden Sansam** | Silithus, Feralas | Greater Mana / Healing Potions |
+| **Ghost Mushroom** | Maraudon, Hinterlands | Elixir of Shadow Power |
+| **Sungrass** | Tanaris, Feralas | Elixir of Giants / Agility |
+| **Blindweed** | Swamp of Sorrows | Free Action Potion |
+| **Gromsblood** | Blasted Lands, Felwood | Flask of Titans / Elixir of Demonslaying |
+| **Black Lotus** | Winterspring, Burning Steppes, Eastern Plaguelands | Für alle Flasks – sehr selten! |
+
+---
+
+## 🧾 Empfohlene Farmrouten (Solo)
+
+| Gebiet | Ziel | Kräuter |
+|--------|------|----------|
+| **Felwood** | Mana- und DPS-Kräuter | Dreamfoil, Plaguebloom, Gromsblood |
+| **Winterspring** | Endgame-Flask Kräuter | Icecap, Mountain Silversage, Black Lotus |
+| **Eastern Plaguelands** | Shadow / Flask Kräuter | Plaguebloom, Dreamfoil, Black Lotus |
+| **Swamp of Sorrows** | Utility Potions | Blindweed, Sungrass |
+| **Silithus** | Mana & Flask | Golden Sansam, Dreamfoil, Mountain Silversage |
+
+---
+
+## 📦 Kombinationsempfehlung
+
+| Situation | Tränke / Buffs | Erklärung |
+|------------|----------------|------------|
+| **Raid – Shadow Priest** | Flask of Supreme Power, Elixir of Shadow Power, Greater Arcane Elixir, Nightfin Soup | Maximale Spell Power & Sustain |
+| **Raid – Hunter** | Elixir of the Mongoose, Elixir of Giants, Juju Power, Grilled Squid | Krit + Agility + AP |
+| **PvP (beide)** | Free Action Potion, Rumsey Rum Black Label, Major Healing Potion | Mobility & Überlebensfähigkeit |
+| **Solo / Farm** | Mageblood Potion, Elixir of Fortitude, Major Mana Potion | Ausdauer & Sustain |
+
+---
+
+## 🌟 Abschluss
+
+> 🌿 **Als Herbalist/Alchemist hast du Zugriff auf alle wichtigen Buffs.**  
+> ✨ **Mit Enchanting** sicherst du dir permanenten DPS-Zuwachs.  
+> 🧙‍♀️ **Hatschepsut** nutzt Shadow- und Sustain-Enchants.  
+> 🏹 **Ahhotep** profitiert von Agility, Crit und Speed-Enchants.  
+> 💎 **Flasks & Potions** sind dein Schlüssel für Naxxramas-Vorbereitung und Solo-Effizienz.
+
+---
+
