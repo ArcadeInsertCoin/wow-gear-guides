@@ -128,6 +128,41 @@
 
 ---
 
+## 🪄 Weapon Optimization – Shadow Priest
+
+### ⚔️ Aktuelle Waffen & Bewertung
+
+| Weapon | Type | Spell Power | Bewertung | Kommentar |
+|--------|------|--------------|------------|------------|
+| **Anathema** | Staff | +55 | ⭐⭐⭐⭐⭐ | Beste aktuelle Shadow-Waffe. Hoher Shadow Scaling, ideal für PvE & Solo. Kein Offhand nötig. |
+| **Scepter of the Unholy** | 1H Mace | +40 | ⭐⭐⭐⭐☆ | Sehr gute Einhand-Waffe mit Shadow-Fokus. Stark in Kombination mit einer Offhand wie *Tome of Shadow Force*. |
+| **Tome of Shadow Force** | Offhand | +29 Shadow | ⭐⭐⭐⭐☆ | Exzellente Ergänzung für Shadow-Damage Builds. Mit *Scepter of the Unholy* oder *Lok’amir il Romathis* kombinieren. |
+| **Gavel of Infinite Wisdom** | 1H Mace | +Healing | ⭐⭐☆☆☆ | Für Heiler-Offspec gedacht. Mit 3/3 Infinite Wisdom Set für Sustain und Heilung nützlich. |
+| **Infinite Wisdom Set (3/3)** | Ring, Cloak, Mace | – | ⭐⭐⭐☆☆ | +Healing / Mana-Regen Bonus. Für Shadow-DPS ungeeignet, aber hervorragend zum Farmen mit viel Sustain. |
+
+---
+
+### 🧙 Empfehlungen
+
+| Situation | Beste Wahl | Kommentar |
+|------------|-------------|------------|
+| **Shadow PvE / Raids / Dungeons** | **Anathema** | Maximale DPS. Kein Waffentausch nötig. |
+| **Solo / Farm (lange Kämpfe)** | **Anathema** + 2x *Infinite Wisdom*-Teile (z. B. Cloak + Ring) | Gute Mischung aus Damage und Sustain. |
+| **Mana-Engpässe / Support-Heal** | **Gavel of Infinite Wisdom + Set (3/3)** | Nutze den Setbonus für erhöhte Mana-Effizienz. |
+| **Future Upgrade (Naxx)** | **Brimstone Staff (Loatheb)** 🌟 | BiS Shadow Staff. |
+|  | **Soulseeker (Kel’Thuzad)** 🌟 | Zweitbester Shadow Staff nach *Brimstone*. |
+
+---
+
+### 🧾 Zusammenfassung
+
+> 🕯️ **Anathema** bleibt deine beste Allround-Waffe für Shadow-Schaden und Solo-Farm.  
+> 📘 **Tome of Shadow Force** bewahrst du für zukünftige Einhand-Kombinationen auf.  
+> 🌿 **Infinite Wisdom Set** ist perfekt für Mana-lastige oder Heilungs-Situationen.  
+> 🔮 **Brimstone Staff** und **Soulseeker** sind deine langfristigen Ziele in Naxxramas.
+
+---
+
 ## ⚔️ PvP Set – Shadow Priest
 
 | Slot | Item | Source |
