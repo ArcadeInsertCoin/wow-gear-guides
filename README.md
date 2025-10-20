@@ -163,26 +163,6 @@
 
 ---
 
-## ⚔️ PvP Set – Shadow Priest
-
-| Slot | Item | Source |
-|------|------|--------|
-| **Head** | Spellweaver’s Turban | Quest |
-| **Neck** | Charm of the Shifting Sands | AQ20 |
-| **Shoulders** | Felcloth Shoulders | Crafted |
-| **Back** | Spritecaster Cape | Dungeon |
-| **Chest** | Robe of Volatile Power | MC |
-| **Wrists** | Rockfury Bracers | Cenarion Circle |
-| **Hands** | Felcloth Gloves | Crafted |
-| **Waist** | Ban’thok Sash | LBRS |
-| **Legs** | Flarecore Leggings | Crafted |
-| **Feet** | Betrayer’s Boots | ZG |
-| **Rings** | Band of Servitude / Royal Seal of Eldre’Thalas | ZG / DM |
-| **Trinkets** | Eye of Moam / Songstone of Ironforge | AQ20 / PvP |
-| **Weapons** | Scepter of the Unholy + Tome of Shadow Force | Scholo / AV |
-
----
-
 ## 🧪 Consumables – Priest
 
 ### Raid
