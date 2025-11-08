@@ -22,7 +22,7 @@ _Classic Era Phase 5 → Vorbereitung für Naxxramas_
 | Handgelenke | Ossirian’s Binding | True Flight Wristguards | Dragonstalker Bracers | BWL |
 | Hände | Giantstalker | Dragonstalker | Vek’lor’s Devastation Gloves | AQ |
 | Gürtel | Ossirian’s Binding | Belt of Never-ending Agony | Cryptstalker Girdle | AQ / Naxx |
-| Beine | R10 Legs | Giantstalker Legs | Dragonstalker Legs | AQ |
+| Beine | R10 Legs | Giantstalker Legs | Dragonstalker Legs | Ragnaros |
 | Füße | Blooddrenched Boots | Striker’s Footguards | Dragonstalker's Greaves | AQ / BWL |
 | Ringe | Don Julio / Elven Ring | Band of Accuria | Bronze Dragonflight Signet | MC/AQ |
 | Trinkets | Blackhand’s Breadth / Royal Seal | Drake Fang Talisman | Jom Gabbar | BWL/AQ |
