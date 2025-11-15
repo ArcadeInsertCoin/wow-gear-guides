@@ -27,7 +27,7 @@ _Classic Era Phase 5 → Vorbereitung für Naxxramas_
 | Ringe | Don Julio / Elven Ring | Band of Accuria | Bronze Dragonflight Signet | MC/AQ |
 | Trinkets | Blackhand’s Breadth / Royal Seal | Drake Fang Talisman | Jom Gabbar | BWL/AQ |
 | Nahkampf | Fang of Faceless | Qiraji Pugio | Fang of Faceless | AQ |
-| Fernkampf | Scythe of the Unseen Path | Blessed Qiraji Musket | Ashjre’thul | BWL |
+| Fernkampf | Scythe of the Unseen Path | Blessed Qiraji Musket | Ashjre’thul | AQ Quest/BWL |
 
 **Gear-Prinzip:**  
 - Dragonstalker = Hit + Agi → **Raid**
