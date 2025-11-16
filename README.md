@@ -1,127 +1,136 @@
-# Dual-Class Progress Guide  
-## Ahhotep 🏹 Marksmanship Hunter & Hatschepsut 🔮 Shadow Priest  
-_Classic Era Phase 5 → Vorbereitung für Naxxramas_
+# 🌌 Dual-Class Progress Guide – Ahhotep 🏹 & Hatschepsut 🔮  
+_Classic Era – Naxxramas BiS Übersicht_
 
 ---
 
-## 1. Ahhotep – Marksmanship Hunter
-
-**Rolle:** Fernkampf DPS  
-**Berufe:** Mining / Engineering  
-**Raid Ziel:** Hohe Crit-Rate, konstante DPS, gute Mobilität
-
-### Gear Progression
-
-| Slot | Aktuell | Upgrade Next | Endziel (Naxx) | Quelle |
-|---|---|---|---|---|
-| Kopf | Knight-Captain's Chain | Striker’s Diadem | Cryptstalker Headpiece | AQ / Naxx |
-| Hals | Onyxia Tooth Pendant | Prestor’s Talisman | Prestor’s Talisman | BWL |
-| Schultern | Giantstalker | Striker’s Pauldrons | Mantle of Wicked Revenge | AQ |
-| Rücken | Cloak of Shrouded Mists | Cloak of Fallen God | Cloak of Fallen God | C’Thun Quest |
-| Brust | Giantstalker | Striker’s Hauberk | Striker’s Hauberk | C’Thun Quest |
-| Handgelenke | Ossirian’s Binding | True Flight Wristguards | Dragonstalker Bracers | BWL |
-| Hände | Giantstalker | Dragonstalker | Vek’lor’s Devastation Gloves | AQ |
-| Gürtel | Ossirian’s Binding | Belt of Never-ending Agony | Cryptstalker Girdle | AQ / Naxx |
-| Beine | R10 Legs | Giantstalker Legs | Dragonstalker Legs | Ragnaros |
-| Füße | Blooddrenched Boots | Striker’s Footguards | Dragonstalker's Greaves | AQ / BWL |
-| Ringe | Don Julio / Elven Ring | Band of Accuria | Bronze Dragonflight Signet | MC/AQ |
-| Trinkets | Blackhand’s Breadth / Royal Seal | Drake Fang Talisman | Jom Gabbar | BWL/AQ |
-| Nahkampf | Fang of Faceless | Qiraji Pugio | Fang of Faceless | AQ |
-| Fernkampf | Scythe of the Unseen Path | Blessed Qiraji Musket | Ashjre’thul | AQ Quest/BWL |
-
-**Gear-Prinzip:**  
-- Dragonstalker = Hit + Agi → **Raid**
-- Striker’s Set = Crit → **Pre-Naxx Übergang**
-- Ashjre’thul = **biS bis Naxx**
-
-### Consumables
-
-| Kategorie | Beispiel | Zweck |
-|---|---|---|
-| Elixier | Elixir of the Mongoose | Crit + Agility |
-| Essen | Grilled Squid | Agility Buff |
-| Extra | Juju Power / Might | Fester DPS Buff |
-| Sustain | Major Mana Potion | Rotation stabil halten |
-
-### Wichtige Enchants
+# 🏹 Ahhotep – Marksmanship Hunter  
+## 🔧 Best Enchants
 
 | Slot | Enchant |
-|---|---|
-| Waffe | +15 Agi |
+|------|---------|
+| Kopf | Falcon's Call |
+| Schultern | Might of the Scourge |
+| Rücken | Lesser Agility |
+| Brust | Greater Stats |
+| Handgelenke | Minor Agility |
+| Handschuhe | Superior Agility |
+| Beine | Falcon's Call |
+| Füße | Greater Agility |
+| Waffe | +15 Agility |
 | Fernkampf | Sniper Scope |
-| Schultern | ZG Might Inscription |
-| Kopf/Beine | Arcanum of Rapidity |
-| Handschuhe | +7 Agi |
-| Stiefel | Minor Speed |
 
 ---
 
-## 2. Hatschepsut – Shadow Priest
+# 🏹 Hunter – **Naxx / AQ40 Best-in-Slot**
 
-**Rolle:** Shadow DPS mit Heil-Backup  
-**Berufe:** Herbalism / Alchemy  
-**Raid Ziel:** Konstanten Shadow Schaden + Mana-Effizienz
+| Slot | BiS Item | Boss / Quelle |
+|------|----------|----------------|
+| Kopf | Striker's Diadem | AQ40 Quest |
+| Hals | Prestor's Talisman | Nefarian |
+| Schultern | Giantstalker Epaulets | Molten Core |
+| Rücken | Cloak of the Fallen God | C’Thun Quest |
+| Brust | Striker's Hauberk | AQ40 Token |
+| Handgelenke | Wristguards of True Flight | Majordomo Executus |
+| Handschuhe | Giantstalker Gloves | Garr |
+| Taille | Belt of Never-Ending Agony | C’Thun |
+| Beine | Dragonstalker Legguards | Ragnaros |
+| Füße | Sentinel's Chain Boots | Cenarion Circle Ruf |
+| Ring 1 | Band of Accuria | Ragnaros |
+| Ring 2 | Signet Ring of the Bronze Dragonflight | AQ40 Ruf Exalted |
+| Trinket 1 | Drake Fang Talisman | Ebonroc |
+| Trinket 2 | (bereits bestes ausgestattetes Trinket) | – |
+| Nahkampf | Barb of the Sandreaver | Fankriss |
+| Fernkampf | Larvae of the Great Worm | Ouro |
 
-### Waffenübersicht
+---
 
-| Waffe | Power | Bewertung | Nutzen |
-|---|---|---|---|
-| **Anathema** | +55 Shadow Power | ★★★★★ | Raid DPS BiS |
-| Scepter of the Unholy + Shadow Tome | +40 +29 | ★★★★☆ | Hohe Flexibilität |
-| Gavel of Infinite Wisdom Set | Sustain statt Power | ★★★☆☆ | Solo / Support |
-| Brimstone / Soulseeker (Naxx) | Endgame | ★★★★★ | Langfristiges Ziel |
-
-**Kurzregel:**  
-→ **Raid:** Anathema  
-→ **Solo:** Unholy + Wisdom (2/3 Set)  
-→ **Heilen:** Gavel + Set
-
-### Consumables
-
-| Situation | Items |
-|---|---|
-| Raid DPS | Flask of Supreme Power, Shadow Power, Arcane Elixir, Nightfin Soup |
-| PvP | Free Action, Rumsey Rum, Limited Invulnerability |
-| Solo Farm | Mageblood, Brilliant Mana Oil, Fortitude |
-
-### Enchants
+# 🔮 Hatschepsut – Shadow Priest  
+## 🔧 Best Enchants
 
 | Slot | Enchant |
-|---|---|
+|------|---------|
+| Kopf | Arcanum of Focus |
+| Schultern | Zandalar Signet of Mojo |
+| Rücken | Greater Resistance |
+| Brust | Greater Stats |
+| Handgelenke | Greater Intellect |
+| Handschuhe | Shadow Power |
+| Beine | Arcanum of Focus |
+| Füße | Minor Speed |
 | Waffe | +30 Spell Power |
-| Kopf/Beine | Arcanum of Focus |
-| Schultern | ZG Mojo Inscription |
-| Handschuhe | +20 Shadow Power |
-| Stiefel | Minor Speed |
 
 ---
 
-## 3. Gemeinsame Berufe – Alchemy, Herbalism & Enchanting
+# 🔮 Shadow Priest – **Naxx BiS**
 
-### Wichtigste Buffs
+| Slot | BiS Item | Boss / Quelle |
+|------|-----------|----------------|
+| Kopf | Preceptor’s Hat | Heigan |
+| Hals | Choker of the Firelord | Ragnaros |
+| Schultern | Rime Covered Mantle | Gluth |
+| Rücken | Cloak of the Devoured | C’Thun |
+| Brust | Crystal Webbed Robe | Maexxna |
+| Handgelenke | Rockfury Bracers | Silithus Quest |
+| Handschuhe | Dark Storm Gauntlets | C’Thun |
+| Taille | Eyestalk Waist Cord | C’Thun |
+| Beine | Leggings of Polarity | Thaddius |
+| Füße | Boots of Epiphany | Twin Emperors |
+| Ring 1 | Ring of the Fallen God | AQ40 Quest |
+| Ring 2 | Band of the Inevitable | Naxx – North Wing |
+| Trinket 1 | Neltharion's Tear | Nefarian |
+| Trinket 2 | Restrained Essence of Sapphiron | Sapphiron |
+| 2H Waffe | Brimstone Staff | Loatheb |
+| Wand | Wand of Fates | Patchwerk |
 
-| Klasse | Buff Set | Ziel |
-|---|---|---|
-| Hunter (Raid) | Mongoose + Giants + Juju + Squid | Crit / Agi / DPS |
-| Priest (Raid) | Supreme Power + Shadow Power + Arcane + Nightfin | Spell Power + Sustain |
-| PvP (Beide) | Free Action + Rum + Healing Potions | Überleben & Control |
+---
 
-### Wichtige Farmgebiete
+# 🌿 Consumables
 
-| Zone | Materialien |
-|---|---|
+## Priesterin (Shadow DPS)
+- Flask of Supreme Power  
+- Elixir of Shadow Power  
+- Arcane Elixir  
+- Nightfin Soup  
+- Major Mana Potions  
+- Demonic Runes  
+
+## Jägerin (MM)
+- Elixir of the Mongoose  
+- Elixir of Giants  
+- Juju Power / Might  
+- Grilled Squid  
+- Major Mana Potion  
+
+---
+
+# 🌾 Kräuterfarm-Routen
+
+| Zone | Kräuter |
+|------|---------|
 | Felwood | Dreamfoil, Gromsblood, Plaguebloom |
 | Winterspring | Icecap, Silversage, Black Lotus |
-| EPL | Lotus, Plaguebloom, Dreamfoil |
+| EPL | Plaguebloom, Dreamfoil |
+| Silithus | Golden Sansam, Silversage |
+| Swamp of Sorrows | Blindweed |
 
 ---
 
-## Abschluss
+# 🎯 Quick Buff Combos
 
-- **Ahhotep:** Schnell, präzise, Crit-basiert → Fokus **Dragonstalker → Striker → Cryptstalker**
-- **Hatschepsut:** Mana-stabil, Shadow Pressure → **Anathema bleibt Kern**
-- **Berufe + Buffs** bestimmen **90% des Outputs** → Priorität **Farmrouten + Alchemy Cycle**
+| Situation | Combo |
+|-----------|--------|
+| Priest Raid | Supreme Power + Shadow Power + Arcane + Nightfin |
+| Hunter Raid | Mongoose + Giants + Juju Power + Squid |
+| PvP | Free Action + Rumsey Rum + Healing Potions |
+| Solo/Farm | Mageblood + Fortitude + Mana Potion |
 
-> **Mit dieser Struktur seid ihr sauber und vorbereitet für Naxx.**  
-> Keine Verschwendung, keine toten Upgrades – nur Progress.
+---
+
+# 📌 Zusammenfassung
+
+- **Hunter** ist nahezu komplett AQ/Naxx-ready, bis auf wenige Slots wie Legs/Feet.  
+- **Priesterin** bekommt mit Preceptor’s Hat + Polarity Legs + Crystal Webbed Robe einen riesigen DPS-Spike.  
+- Enchants jetzt vollständig korrekt und optimiert.
+
+
 
