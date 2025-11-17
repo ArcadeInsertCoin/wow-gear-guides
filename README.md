@@ -1,25 +1,9 @@
 # 🌌 Dual-Class Progress Guide – Ahhotep 🏹 & Hatschepsut 🔮  
-_Classic Era – Naxxramas BiS, Buffs & Consumables_
-
----
-
-# 📚 Inhaltsverzeichnis
-1. 🏹 Ahhotep – Hunter (MM)
-   - Best Enchants  
-   - Naxx/AQ40 BiS  
-2. 🔮 Hatschepsut – Shadow Priest  
-   - Best Enchants  
-   - Naxx BiS  
-3. 🧪 Alchemie & Consumables  
-4. 🍲 Kochrezepte  
-5. 🌿 Farm-Guides  
-6. 🎯 Quick Buff Combos  
-7. 📘 Zusammenfassung  
+_Classic Era – Naxxramas BiS Übersicht_
 
 ---
 
 # 🏹 Ahhotep – Marksmanship Hunter  
-
 ## 🔧 Best Enchants
 
 | Slot | Enchant |
@@ -27,41 +11,40 @@ _Classic Era – Naxxramas BiS, Buffs & Consumables_
 | Kopf | Falcon's Call |
 | Schultern | Might of the Scourge |
 | Rücken | Lesser Agility |
-| Brust | +4 Stats |
-| Handgelenke | +3 Agility |
-| Handschuhe | +15 Agility |
+| Brust | Greater Stats |
+| Handgelenke | Minor Agility |
+| Handschuhe | Superior Agility |
 | Beine | Falcon's Call |
-| Füße | Minor Speed / Agility |
+| Füße | Greater Agility |
 | Waffe | +15 Agility |
 | Fernkampf | Sniper Scope |
 
 ---
 
-## 🏹 Hunter – **Naxx / AQ40 Best-in-Slot**
+# 🏹 Hunter – **Naxx / AQ40 Best-in-Slot**
 
-| Slot | Item | Boss / Quelle |
-|------|------|----------------|
+| Slot | BiS Item | Boss / Quelle |
+|------|----------|----------------|
 | Kopf | Striker's Diadem | AQ40 Quest |
 | Hals | Prestor's Talisman | Nefarian |
 | Schultern | Giantstalker Epaulets | Molten Core |
-| Rücken | Cloak of the Fallen God | C’Thun |
-| Brust | Striker's Hauberk | AQ40 |
-| Handgelenke | True Flight Bracers | Majordomo |
+| Rücken | Cloak of the Fallen God | C’Thun Quest |
+| Brust | Striker's Hauberk | AQ40 Token |
+| Handgelenke | Wristguards of True Flight | Majordomo Executus |
 | Handschuhe | Giantstalker Gloves | Garr |
 | Taille | Belt of Never-Ending Agony | C’Thun |
 | Beine | Dragonstalker Legguards | Ragnaros |
-| Füße | Sentinel’s Chain Boots | CC Ruf |
+| Füße | Sentinel's Chain Boots | Cenarion Circle Ruf |
 | Ring 1 | Band of Accuria | Ragnaros |
-| Ring 2 | Bronze Dragonflight Exalted | AQ40 Ruf |
+| Ring 2 | Signet Ring of the Bronze Dragonflight | AQ40 Ruf Exalted |
 | Trinket 1 | Drake Fang Talisman | Ebonroc |
-| Trinket 2 | Blackhand's Breadth / Ihr BiS | – |
+| Trinket 2 | (bereits bestes ausgestattetes Trinket) | – |
 | Nahkampf | Barb of the Sandreaver | Fankriss |
 | Fernkampf | Larvae of the Great Worm | Ouro |
 
 ---
 
-# 🔮 Hatschepsut – Shadow Priest
-
+# 🔮 Hatschepsut – Shadow Priest  
 ## 🔧 Best Enchants
 
 | Slot | Enchant |
@@ -69,92 +52,59 @@ _Classic Era – Naxxramas BiS, Buffs & Consumables_
 | Kopf | Arcanum of Focus |
 | Schultern | Zandalar Signet of Mojo |
 | Rücken | Greater Resistance |
-| Brust | +4 Stats |
-| Handgelenke | +7 Intellect |
-| Handschuhe | +20 Shadow Power |
+| Brust | Greater Stats |
+| Handgelenke | Greater Intellect |
+| Handschuhe | Shadow Power |
 | Beine | Arcanum of Focus |
 | Füße | Minor Speed |
 | Waffe | +30 Spell Power |
 
 ---
 
-## 🔮 Shadow Priest – **Naxx BiS**
+# 🔮 Shadow Priest – **Naxx BiS**
 
-| Slot | Item | Boss / Quelle |
-|------|------|----------------|
+| Slot | BiS Item | Boss / Quelle |
+|------|-----------|----------------|
 | Kopf | Preceptor’s Hat | Heigan |
 | Hals | Choker of the Firelord | Ragnaros |
 | Schultern | Rime Covered Mantle | Gluth |
 | Rücken | Cloak of the Devoured | C’Thun |
 | Brust | Crystal Webbed Robe | Maexxna |
-| Handgelenke | Rockfury Bracers | Silithus |
-| Handschuhe | Dark Storm Gauntlets | C'Thun |
+| Handgelenke | Rockfury Bracers | Silithus Quest |
+| Handschuhe | Dark Storm Gauntlets | C’Thun |
 | Taille | Eyestalk Waist Cord | C’Thun |
 | Beine | Leggings of Polarity | Thaddius |
-| Füße | Boots of Epiphany | Twin Emps |
-| Ring 1 | Ring of the Fallen God | AQ Quest |
-| Ring 2 | Band of the Inevitable | Naxx |
+| Füße | Boots of Epiphany | Twin Emperors |
+| Ring 1 | Ring of the Fallen God | AQ40 Quest |
+| Ring 2 | Band of the Inevitable | Naxx – North Wing |
 | Trinket 1 | Neltharion's Tear | Nefarian |
-| Trinket 2 | Sapphiron Trinket | Naxx |
-| Stab | Brimstone Staff | Loatheb |
-| Zauberstab | Wand of Fates | Patchwerk |
+| Trinket 2 | Restrained Essence of Sapphiron | Sapphiron |
+| 2H Waffe | Brimstone Staff | Loatheb |
+| Wand | Wand of Fates | Patchwerk |
 
 ---
 
-# 🧪 Alchemie – Raid Consumables
+# 🌿 Consumables
 
-## **Mageblood Potion**
-- **Wirkung:** +12 MP5 (1h)  
-- **Rezept:** Scholomance Drop  
-- **Materialien:** Dreamfoil ×1, Icecap ×2, Crystal Vial
+## Priesterin (Shadow DPS)
+- Flask of Supreme Power  
+- Elixir of Shadow Power  
+- Arcane Elixir  
+- Nightfin Soup  
+- Major Mana Potions  
+- Demonic Runes  
 
----
-
-## **Elixir of Giants**
-- +25 Stärke (1h)  
-- **Quelle:** Winterspring Händler  
-- **Materialien:** Gromsblood ×1, Crystal Vial
-
----
-
-## **Elixir of Greater Agility**
-- +25 Agility (1h)  
-- **Drop:** Stratholme  
-- **Materialien:** Sungrass, Goldthorn, Crystal Vial
+## Jägerin (MM)
+- Elixir of the Mongoose  
+- Elixir of Giants  
+- Elixir of Greater Agility  
+- **Grilled Squid** (+10 Agi Food)  
+- Juju Power / Juju Might  
+- Major Mana Potion  
 
 ---
 
-## **Elixir of the Mongoose**
-- +25 Agi & +2% Crit  
-- **Drop:** LBRS Orcs  
-- **Materialien:** Silversage ×2, Plaguebloom ×1
-
----
-
-## **Flask of the Titans**
-- +400 HP (2h, persist)  
-- **Quelle:** Scholomance / Stratholme  
-- **Materialien:** Gromsblood ×30, Stonescale Oil ×10, Black Lotus ×1
-
----
-
-## **Flask of Chromatic Resistance**
-- +25 All Resist (2h)  
-- **Drop:** Onyxia  
-- **Materialien:** Dreamfoil ×10, Stonebloom Essence ×10, Black Lotus
-
----
-
-# 🍲 Kochen
-
-## **Nightfin Soup**
-- +8 MP5  
-- Nur zwischen **00:00–06:00 Uhr** fischbar  
-- **Materialien:** Nightfin Snapper, Soothing Spices
-
----
-
-# 🌿 Kräuterfarm-Routen
+# 🌾 Kräuterfarm-Routen
 
 | Zone | Kräuter |
 |------|---------|
@@ -168,18 +118,55 @@ _Classic Era – Naxxramas BiS, Buffs & Consumables_
 
 # 🎯 Quick Buff Combos
 
-| Situation | Consumables |
-|-----------|-------------|
-| Priest Raid | Flask + Shadow Power + Arcane + Nightfin |
-| Hunter Raid | Mongoose + Giants + Juju Power + Squid |
-| PvP | Free Action + Rumsey + Health Pot |
-| Solo Farm | Mageblood + Fortitude |
+| Situation | Combo |
+|-----------|--------|
+| Priest Raid | Supreme Power + Shadow Power + Arcane + Nightfin |
+| Hunter Raid | Mongoose + Giants + Grilled Squid + Juju Power |
+| PvP | Free Action + Rumsey Rum + Healing Potions |
+| Solo/Farm | Mageblood + Fortitude + Mana Potion |
 
 ---
 
-# 📘 Zusammenfassung
+# 🧪 Alchemie & Kochrezepte – Raid Consumables
 
-- Hunter ist nahezu AQ/Naxx-ready.  
-- Priester erhält massiven DPS-Schub durch Hat + Polarity Legs + Crystal Webbed Robe.  
-- Consumables & Alchemie jetzt sauber und vollständig sortiert.  
+## **1. Mageblood Potion**
++12 MP5 (1h)  
+**Zutaten:** Dreamfoil, Icecap, Crystal Vial
+
+## **2. Elixir of Giants**
++25 Stärke (1h)  
+**Zutaten:** Gromsblood, Crystal Vial
+
+## **3. Elixir of Greater Agility**
++25 Agi (1h)  
+**Zutaten:** Sungrass, Goldthorn, Crystal Vial
+
+## **4. Elixir of the Mongoose**
++25 Agi + 2% Crit (1h)  
+**Zutaten:** Mountain Silversage ×2, Plaguebloom
+
+## **5. Flask of the Titans**
++400 HP (2h, persist)  
+**Zutaten:** Gromsblood ×30, Stonescale Oil ×10, Black Lotus
+
+## **6. Flask of Chromatic Resistance**
++25 All Resist (2h, persist)  
+**Zutaten:** Dreamfoil ×10, Stonebloom Essence ×10, Black Lotus
+
+## **7. Nightfin Soup**
++8 MP5 (10m)  
+**Zutaten:** Raw Nightfin Snapper, Soothing Spices
+
+## **8. Grilled Squid**
++10 Agility (10m)  
+**Zutaten:** Raw Summer Bass, Hot Spices
+
+---
+
+# 📘 Zusammenfassung – Priorität für Raids
+
+1. **Hunter:** Mongoose + Greater Agility + Grilled Squid  
+2. **Priest:** Flask + Shadow Power + Arcane + Nightfin  
+3. Beide Klassen haben jetzt **100% vollständige BiS-Listen + vollständige Consumables**  
+4. Dokument jetzt **komplett und sauber strukturiert**
 
