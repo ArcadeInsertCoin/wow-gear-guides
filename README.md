@@ -170,3 +170,325 @@ _Classic Era – Naxxramas BiS Übersicht_
 3. Beide Klassen haben jetzt **100% vollständige BiS-Listen + vollständige Consumables**  
 4. Dokument jetzt **komplett und sauber strukturiert**
 
+---
+
+# Meretseger -- Retribution Paladin Guide (Classic Anniversary)
+
+## Charakter-Info
+
+**Name:** Meretseger\
+**Klasse:** Paladin (Retribution)\
+**Levelbereich:** 1--60\
+**Berufe:** Mining + Weaponsmith\
+**Version:** WoW Classic Anniversary
+
+------------------------------------------------------------------------
+
+# 1. Talent Build (Level 1--60)
+
+## Level 1--20 (Core Ret Start)
+
+-   5/5 Benediction\
+-   2/2 Improved Judgement\
+-   3/3 Conviction\
+-   1/1 Seal of Command
+
+## Level 21--40 (Ret Burst Power)
+
+-   5/5 Conviction (wenn nicht voll)\
+-   2/2 Improved Seal of Righteousness\
+-   5/5 Seal of Command-Synergy\
+-   1/1 Sanctity Aura\
+-   1/1 Repentance
+
+## Level 40--60 (Final)
+
+-   5/5 Two-Handed Weapon Spec\
+-   3/3 Vengeance\
+-   1/1 Consecration (optional)\
+-   Rest in Holy: Divine Intellect + Spiritual Focus
+
+------------------------------------------------------------------------
+
+# 2. Rotationen
+
+## Solo Rotation (1v1)
+
+1.  **Seal of Command**\
+2.  **Judgement**\
+3.  **Seal of Command** erneut\
+4.  Autoattacks\
+5.  Hammer of Justice bei Bedarf\
+6.  Crusader nur bei Elite-Gegnern
+
+## Solo Multi-Pulls (2--4 Mobs)
+
+-   Retribution Aura\
+-   Seal of Command\
+-   Consecration (einmal)\
+-   Hammer of Justice den stärksten Mob
+
+## Dungeon DPS
+
+1.  Seal of the Crusader → Judgement\
+2.  Seal of Command\
+3.  Judgement auf CD\
+4.  Consecration bei AoE\
+5.  Hammer of Justice als Interrupt
+
+## Dungeon Tanking (Notfall)
+
+-   Righteous Fury aktiv\
+-   Seal of Righteousness\
+-   Consecration für AoE-Threat\
+-   Hammer of Justice auf Casters\
+-   Judgement für Single-Target-Aggro
+
+------------------------------------------------------------------------
+
+# 3. Waffen-Progression (Weaponsmith + Drops)
+
+## Level 1--20
+
+-   Vibrant Claymore\
+-   Gladius (Vendor)\
+-   Crafted Bronze Greatsword (Weaponsmith)
+
+## Level 20--30
+
+-   Corpsemaker (RFK)\
+-   Ravager (SM: Armory)
+
+## Level 30--45
+
+-   **Bonebiter** (QUEST -- aktuell deine Waffe)\
+-   The Rockpounder (Uldaman)\
+-   Gatorbite Axe (STV Rare)
+
+## Level 45--50
+
+-   Princess Theradras' Scepter (Maraudon)\
+-   Blade of Titans (World Drop/AH)
+
+## Level 50--60
+
+-   Lord Alexander's Battle Axe\
+-   Blackblade of Shahram (UBRS -- very rare)\
+-   Dal'Rend's Sacred Charge + Swiftblade (Dual-Wield not for Pala)
+
+------------------------------------------------------------------------
+
+# 4. Gear-Upgrade-Liste (Best for Leveling)
+
+## Kopf
+
+-   Glimmering Mail Coif\
+-   Helm of Valor (BRD)
+
+## Schultern
+
+-   Ravager's Pauldrons\
+-   Phalanx Spaulders
+
+## Brust
+
+-   Ravager's Armor\
+-   Blackforge Breastplate
+
+## Hände
+
+-   Blackforge Gauntlets\
+-   Knightly Gauntlets
+
+## Beine
+
+-   Blackforge Leggings\
+-   Knightly Legplates
+
+## Stiefel
+
+-   Blackforge Greaves\
+-   Phalanx Boots
+
+## Gürtel
+
+-   Ravager's Girdle\
+-   Blackforge Belt
+
+## Rücken
+
+-   Sentry Cloak\
+-   Cloak of the Faithful
+
+## Schmuck
+
+-   Heart of Noxxion\
+-   Insignia of the Horde/Alliance
+
+------------------------------------------------------------------------
+
+# 5. Grind-Spots (40--60)
+
+## Level 40--43
+
+-   Badlands: Dustbelcher Ogres\
+-   STV: Troll Camps
+
+## Level 43--45
+
+-   Tanaris: Wastewander Bandits\
+-   Feralas: Harpies
+
+## Level 45--48
+
+-   Tanaris: Pirates\
+-   Searing Gorge: Lava Elementals
+
+## Level 48--50
+
+-   Un'Goro: Raptors & Dimetrodons\
+-   Felwood: Jadefire Satyrs
+
+## Level 50--55
+
+-   Western Plaguelands: Undead\
+-   Felwood: Corrupted Furbolgs
+
+## Level 55--60
+
+-   EPL Undead\
+-   Winterspring Frostsabers\
+-   Burning Steppes Dragonkin
+
+------------------------------------------------------------------------
+
+# 6. Consumables
+
+## Buff-Food
+
+-   **Roast Raptor** (+AP)\
+-   Smoked Desert Dumplings (später)
+
+## Mana Drinks
+
+-   Moonberry Juice\
+-   Morning Glory Dew
+
+## Offensive Consumables
+
+-   Elixir of Giant Strength\
+-   Elixir of Mighty Troll's Blood (Regen)\
+-   Scrolls of Strength / Agility
+
+## Defensive
+
+-   Healing Potions\
+-   Greater Healing Potion\
+-   Free Action Potion (gegen Stuns)
+
+------------------------------------------------------------------------
+
+# 7. Verzauberungen
+
+## Waffe
+
+-   Crusader (BiS)\
+-   Fiery Weapon (Budget)
+
+## Brust
+
+-   +4 Stats
+
+## Armschienen
+
+-   +9 Strength
+
+## Handschuhe
+
+-   +7 Agility\
+-   +5 Strength
+
+## Stiefel
+
+-   Minor Speed Increase
+
+------------------------------------------------------------------------
+
+# 8. Makros
+
+## Seal/Judgement One-Button
+
+    /castsequence reset=6 Seal of Command, Judgement
+
+## Hammer of Justice + Zielansage
+
+    /cast Hammer of Justice
+    /y Stunned: %t
+
+## Bubble + Heal
+
+    /cast Divine Shield
+    /cast Holy Light
+
+------------------------------------------------------------------------
+
+# 9. Auren-Übersicht
+
+## Solo
+
+-   Retribution Aura\
+-   Devotion Aura gegen starke Hits
+
+## Dungeon DPS
+
+-   Sanctity Aura\
+-   Retribution Aura wenn kein Paladin-Heiler
+
+## Dungeon Tank
+
+-   Devotion Aura
+
+------------------------------------------------------------------------
+
+# 10. Weaponsmith-Guidelines
+
+## Warum Weaponsmith gut für Paladin?
+
+-   Starke Waffen-Upgrade-Pfade\
+-   Günstiger als AH\
+-   Mining + Weaponsmith = perfektes Duo
+
+## Wichtige Crafts
+
+-   Big Black Mace\
+-   Hardened Iron Shortsword (zum Verkaufen)\
+-   Massive Iron Axe
+
+Später: - Nightfall (Raid Proc Waffe -- sehr stark)
+
+------------------------------------------------------------------------
+
+# 11. Do's & Don'ts
+
+## Do's
+
+-   Langsame Waffen für SoC nutzen\
+-   Viel Autoattack-Zeit lassen\
+-   Elite-Gegner mit Crusader debuffen\
+-   Immer Justice für Interrupts nutzen
+
+## Don'ts
+
+-   Nicht dauernd Consecration spammen\
+-   Keine schnellen Waffen tragen\
+-   Nicht während Autoattack clippen\
+-   Keine reinen Heil-Talente skillen beim Leveln
+
+------------------------------------------------------------------------
+
+# ENDE
+
+Diese Datei bildet die komplette Übersicht für **Meretseger**, den
+Retribution Paladin in WoW Classic Anniversary.
+
+
