@@ -491,4 +491,210 @@ Später: - Nightfall (Raid Proc Waffe -- sehr stark)
 Diese Datei bildet die komplette Übersicht für **Meretseger**, den
 Retribution Paladin in WoW Classic Anniversary.
 
+---
 
+# 🌌 Ultimate Multi-Character Guide
+
+## Ahhotep 🏹 (Hunter), Hatschepsut 🔮 (Shadow Priest) & Meretseger ⚔️ (Retribution Paladin)
+
+Ein kompletter, perfekt strukturierter Guide für deine drei Charaktere
+im **WoW Classic Anniversary** -- wunderschön formatiert, übersichtlich,
+raidtauglich und für Leveling & Endgame optimiert.
+
+------------------------------------------------------------------------
+
+# 🏹 Ahhotep -- Marksmanship Hunter Guide
+
+## ⭐ Enchants (Best-in-Slot)
+
+  Slot            Enchant
+  --------------- ----------------------
+  Kopf            Falcon's Call
+  Schultern       Might of the Scourge
+  Rücken          Lesser Agility
+  Brust           +4 All Stats
+  Handgelenke     +7 Agi
+  Handschuhe      +15 Agi
+  Beine           Falcon's Call
+  Füße            Greater Agility
+  Nahkampfwaffe   +15 Agility
+  Fernkampf       Sniper Scope
+
+------------------------------------------------------------------------
+
+## 🏹 Hunter -- Naxx / AQ40 Endgame BiS
+
+  Slot          BiS Item                     Boss / Quelle
+  ------------- ---------------------------- ---------------------
+  Kopf          Striker's Diadem             AQ40 Quest
+  Hals          Prestor's Talisman           Nefarian
+  Schultern     Giantstalker Epaulets        Molten Core
+  Rücken        Cloak of the Fallen God      C'Thun Quest
+  Brust         Striker's Hauberk            AQ40 Token
+  Handgelenke   True Flight Wristguards      Majordomo
+  Handschuhe    Giantstalker Gloves          Garr
+  Taille        Belt of Never-Ending Agony   C'Thun
+  Beine         Dragonstalker Legguards      Ragnaros
+  Füße          Sentinel's Chain Boots       Cenarion Circle Ruf
+  Ring 1        Band of Accuria              Ragnaros
+  Ring 2        Bronze Dragonflight Signet   AQ40 Ruf
+  Trinket 1     Drake Fang Talisman          Ebonroc
+  Trinket 2     Already Equipped BiS         
+  Melee         Barb of the Sandreaver       Fankriss
+  Fernkampf     Larvae of the Great Worm     Ouro
+
+------------------------------------------------------------------------
+
+# 🔮 Hatschepsut -- Shadow Priest Guide
+
+## ⭐ Enchants (Best-in-Slot)
+
+  Slot          Enchant
+  ------------- -------------------------
+  Kopf          Arcanum of Focus
+  Schultern     Zandalar Signet of Mojo
+  Rücken        Greater Resistance
+  Brust         +4 Stats
+  Handgelenke   Greater Intellect
+  Handschuhe    Shadow Power
+  Beine         Arcanum of Focus
+  Füße          Minor Speed
+  Waffe         +30 Spell Power
+
+------------------------------------------------------------------------
+
+## 🔮 Shadow Priest -- Naxx Endgame BiS
+
+  Slot          BiS Item                          Boss / Quelle
+  ------------- --------------------------------- ----------------
+  Kopf          Preceptor's Hat                   Heigan
+  Hals          Choker of the Firelord            Ragnaros
+  Schultern     Rime-Covered Mantle               Gluth
+  Rücken        Cloak of the Devoured             C'Thun
+  Brust         Crystal Webbed Robe               Maexxna
+  Handgelenke   Rockfury Bracers                  Silithus Quest
+  Handschuhe    Dark Storm Gauntlets              C'Thun
+  Taille        Eyestalk Waist Cord               C'Thun
+  Beine         Leggings of Polarity              Thaddius
+  Füße          Boots of Epiphany                 Twin Emps
+  Ring 1        Ring of the Fallen God            AQ40 Quest
+  Ring 2        Band of the Inevitable            Naxx
+  Trinket 1     Neltharion's Tear                 Nefarian
+  Trinket 2     Restrained Essence of Sapphiron   Sapphiron
+  2H            Brimstone Staff                   Loatheb
+  Wand          Wand of Fates                     Patchwerk
+
+------------------------------------------------------------------------
+
+# 🌿 Consumables Übersicht
+
+## 🔮 Shadow Priest (Raid)
+
+-   Flask of Supreme Power\
+-   Elixir of Shadow Power\
+-   Arcane Elixir\
+-   Nightfin Soup\
+-   Major Mana Potion\
+-   Demonic Rune
+
+## 🏹 Hunter (Raid)
+
+-   Elixir of the Mongoose\
+-   Elixir of Giants\
+-   Greater Agility Elixir\
+-   Grilled Squid\
+-   Juju Power\
+-   Juju Might
+
+------------------------------------------------------------------------
+
+# 🌾 Kräuterfarm-Routen (Priesterin -- Kräuterkunde)
+
+  Zone               Kräuter
+  ------------------ ------------------------------------
+  Felwood            Dreamfoil, Gromsblood, Plaguebloom
+  Winterspring       Icecap, Black Lotus
+  EPL                Plaguebloom
+  Silithus           Golden Sansam, Silversage
+  Swamp of Sorrows   Blindweed
+
+------------------------------------------------------------------------
+
+# 🍲 Alchemie & Küche -- Wichtige Raidrezepte
+
+## Elixiere
+
+-   Mageblood Potion (+12 MP5)\
+-   Elixir of Giants\
+-   Greater Agility\
+-   Mongoose
+
+## Flasks
+
+-   Titans\
+-   Supreme Power\
+-   Chromatic Resistance
+
+## Kochrezepte
+
+-   Nightfin Soup\
+-   Grilled Squid
+
+------------------------------------------------------------------------
+
+# ⚔️ Meretseger -- Retribution Paladin (Classic Anniversary Leveling)
+
+*(Vollständiger Guide bleibt integriert -- dies ist eine kombinierte
+Version.)*
+
+## ⭐ Waffe Progression
+
+-   Corpsemaker\
+-   Ravager\
+-   **Bonebiter** (*deine aktuelle Top-Waffe!*)\
+-   Rockpounder\
+-   Princess Theradras' Scepter\
+-   Blade of Titans
+
+## ⭐ Rotation (Kurzfassung)
+
+### Solo
+
+SoC → Judgement → SoC → Autoattacks\
+HoJ → Heal → Continue
+
+### Dungeon
+
+SoCrusader → Judgement → SoC\
+Consecration (situational)
+
+------------------------------------------------------------------------
+
+# 🎯 Quick Buff Combos für alle Charaktere
+
+  Situation     Combo
+  ------------- --------------------------------------------------
+  Priest Raid   Supreme Power + Shadow Power + Arcane + Nightfin
+  Hunter Raid   Mongoose + Giants + Grilled Squid + Jujus
+  PvP           Free Action + Rumsey + Healing Potions
+  Farm          Mageblood + Fortitude + Mana Pot
+
+------------------------------------------------------------------------
+
+# 📘 Finale Übersicht
+
+Dieses Dokument enthält nun perfekt sortiert:
+
+-   Hunter Full-BiS + Enchants\
+-   Shadow Priest Full-BiS + Enchants\
+-   Consumables\
+-   Farmrouten\
+-   Alchemie- & Kochrezepte\
+-   Paladin-Leveling & Waffenprogression
+
+Die drei Charaktere **Ahhotep**, **Hatschepsut** und **Meretseger** sind
+damit optimal organisiert.
+
+------------------------------------------------------------------------
+
+# ✔️ ENDE -- Viel Erfolg in Azeroth!
